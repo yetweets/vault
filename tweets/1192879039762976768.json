@@ -1,0 +1,167 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Nov 08 18:58:20 +0000 2019",
+  "display_text_range": [
+    0,
+    35
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/PR2LXa4Sa9",
+        "expanded_url": "https://twitter.com/kanyewest/status/1192879039762976768/photo/1",
+        "id": 1192879036092964864,
+        "id_str": "1192879036092964864",
+        "indices": [
+          36,
+          59
+        ],
+        "media_url": "http://pbs.twimg.com/media/EI31KcZU4AA8TdY.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EI31KcZU4AA8TdY.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/PR2LXa4Sa9"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "youtu.be/ivCY3Ec4iaU",
+        "expanded_url": "https://youtu.be/ivCY3Ec4iaU",
+        "indices": [
+          12,
+          35
+        ],
+        "url": "https://t.co/JlXaaO6Ps5"
+      }
+    ],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/PR2LXa4Sa9",
+        "expanded_url": "https://twitter.com/kanyewest/status/1192879039762976768/photo/1",
+        "id": 1192879036092964864,
+        "id_str": "1192879036092964864",
+        "indices": [
+          36,
+          59
+        ],
+        "media_url": "http://pbs.twimg.com/media/EI31KcZU4AA8TdY.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EI31KcZU4AA8TdY.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/PR2LXa4Sa9"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1192879039762976768,
+  "id_str": "1192879039762976768",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "text": "FOLLOW GOD\n\nhttps://t.co/JlXaaO6Ps5 https://t.co/PR2LXa4Sa9",
+  "timestamp_ms": "1573239500357",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": null,
+    "favourites_count": 3,
+    "follow_request_sent": null,
+    "followers_count": 29331716,
+    "following": null,
+    "friends_count": 265,
+    "geo_enabled": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 49425,
+    "location": null,
+    "name": "ye",
+    "notifications": null,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "http://KANYEWEST.COM",
+    "utc_offset": null,
+    "verified": true
+  }
+}

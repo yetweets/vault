@@ -1,0 +1,225 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Oct 14 13:05:21 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "hypebeast.com/2020/10/kanye-…",
+        "expanded_url": "https://hypebeast.com/2020/10/kanye-west-new-track-joaquin-buckley-viral-ufc-knockout?utm_term=Autofeed&utm_campaign=twitter_post&utm_medium=social&utm_source=Twitter#Echobox=1602656541",
+        "indices": [
+          95,
+          118
+        ],
+        "url": "https://t.co/l5gbrS4V0G"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 18286505,
+        "id_str": "18286505",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "HYPEBEAST",
+        "screen_name": "HYPEBEAST"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1316364470025940993,
+  "id_str": "1316364470025940993",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 203,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 13:04:46 +0000 2020",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "hypebeast.com/2020/10/kanye-…",
+          "expanded_url": "https://hypebeast.com/2020/10/kanye-west-new-track-joaquin-buckley-viral-ufc-knockout?utm_term=Autofeed&utm_campaign=twitter_post&utm_medium=social&utm_source=Twitter#Echobox=1602656541",
+          "indices": [
+            80,
+            103
+          ],
+          "url": "https://t.co/l5gbrS4V0G"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 4103,
+    "favorited": false,
+    "geo": null,
+    "id": 1316364323623702533,
+    "id_str": "1316364323623702533",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 203,
+    "retweeted": false,
+    "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+    "text": "\"THE WHOLE TEAM IS SO ENERGIZED THAT I HAD TO RELEASE THEME MUSIC NAH NAH NAH.\" https://t.co/l5gbrS4V0G",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Dec 21 15:54:27 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Driving culture forward. Join us on Discord: https://t.co/ovOeujNXJg",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "discord.gg/hypebeast",
+              "expanded_url": "http://discord.gg/hypebeast",
+              "indices": [
+                45,
+                68
+              ],
+              "url": "https://t.co/ovOeujNXJg"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "hypebeast.com",
+              "expanded_url": "https://hypebeast.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/0xKKJfHkJ1"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3676,
+      "follow_request_sent": false,
+      "followers_count": 845040,
+      "following": false,
+      "friends_count": 142,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18286505,
+      "id_str": "18286505",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5163,
+      "location": "",
+      "name": "HYPEBEAST",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18286505/1655374382",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1453123501347508227/qB0thwW2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1453123501347508227/qB0thwW2_normal.jpg",
+      "profile_link_color": "A8A8A8",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDDDDD",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "HYPEBEAST",
+      "statuses_count": 197013,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/0xKKJfHkJ1",
+      "utc_offset": null,
+      "verified": true,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @HYPEBEAST: \"THE WHOLE TEAM IS SO ENERGIZED THAT I HAD TO RELEASE THEME MUSIC NAH NAH NAH.\" https://t.co/l5gbrS4V0G",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 9,
+    "follow_request_sent": false,
+    "followers_count": 32253242,
+    "following": true,
+    "friends_count": 209,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 43464,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1929,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true,
+    "withheld_in_countries": []
+  }
+}

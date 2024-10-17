@@ -1,0 +1,53 @@
+{
+  "created_at": "Fri Aug 30 19:53:28 +0000 2013",
+  "deleted": true,
+  "favorite_count": 4329,
+  "hashtags": [],
+  "id": 373533948355149824,
+  "id_str": "373533948355149824",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/qClE4r8Mxn",
+      "expanded_url": "https://twitter.com/kanyewest/status/373533948355149824/photo/1",
+      "id": 373533948359344128,
+      "media_url": "http://pbs.twimg.com/media/BS8PJZ-CAAAj60U.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/BS8PJZ-CAAAj60U.jpg",
+      "sizes": {
+        "large": {
+          "h": 1024,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 600,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 340,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/qClE4r8Mxn"
+    }
+  ],
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 4130,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "PUSHA-T:  MY NAME IS MY NAME.  COVER 2. OCT 8TH. http://t.co/qClE4r8Mxn",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

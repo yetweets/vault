@@ -1,0 +1,365 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Oct 14 13:09:08 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 946864240517885952,
+        "id_str": "946864240517885952",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "“Jęí Siah”",
+        "screen_name": "Jei_Siah"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1316365424712462337,
+  "id_str": "1316365424712462337",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1316173724589060096,
+  "quoted_status_id_str": "1316173724589060096",
+  "retweet_count": 265,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 13:06:12 +0000 2020",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/kanyewest/stat…",
+          "expanded_url": "https://twitter.com/kanyewest/status/1316173724589060096",
+          "indices": [
+            29,
+            52
+          ],
+          "url": "https://t.co/9Q7rsLpcDa"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 4916,
+    "favorited": false,
+    "geo": null,
+    "id": 1316364683297861633,
+    "id_str": "1316364683297861633",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Oct 14 00:27:23 +0000 2020",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/DLXt0yv1Kh",
+            "expanded_url": "https://twitter.com/kanyewest/status/1316173724589060096/photo/1",
+            "id": 1316173720050827265,
+            "id_str": "1316173720050827265",
+            "indices": [
+              2,
+              25
+            ],
+            "media_url": "http://pbs.twimg.com/media/EkP9BmZVgAESQV-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EkP9BmZVgAESQV-.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 946
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 554
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 314
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/DLXt0yv1Kh"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/DLXt0yv1Kh",
+            "expanded_url": "https://twitter.com/kanyewest/status/1316173724589060096/photo/1",
+            "id": 1316173720050827265,
+            "id_str": "1316173720050827265",
+            "indices": [
+              2,
+              25
+            ],
+            "media_url": "http://pbs.twimg.com/media/EkP9BmZVgAESQV-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EkP9BmZVgAESQV-.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 946
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 554
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 314
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/DLXt0yv1Kh"
+          }
+        ]
+      },
+      "favorite_count": 46758,
+      "favorited": false,
+      "geo": null,
+      "id": 1316173724589060096,
+      "id_str": "1316173724589060096",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "und",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 4308,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text": "👀 https://t.co/DLXt0yv1Kh",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "KANYEWEST.COM",
+                "expanded_url": "http://KANYEWEST.COM",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/R6cANtszQ0"
+              }
+            ]
+          }
+        },
+        "favourites_count": 9,
+        "follow_request_sent": false,
+        "followers_count": 32253242,
+        "following": true,
+        "friends_count": 209,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 169686021,
+        "id_str": "169686021",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43464,
+        "location": "",
+        "name": "ye",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kanyewest",
+        "statuses_count": 1929,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/R6cANtszQ0",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+      }
+    },
+    "quoted_status_id": 1316173724589060096,
+    "quoted_status_id_str": "1316173724589060096",
+    "retweet_count": 265,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "THIS IS MY GOAT PRESIDENT‼️🤍 https://t.co/9Q7rsLpcDa",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Dec 29 22:03:21 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "King of Creativity",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 28907,
+      "follow_request_sent": false,
+      "followers_count": 663,
+      "following": false,
+      "friends_count": 790,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 946864240517885952,
+      "id_str": "946864240517885952",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9,
+      "location": "New York, NY",
+      "name": "“Jęí Siah”",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/946864240517885952/1654613402",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1572261704171491329/q3EXrCfj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1572261704171491329/q3EXrCfj_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Jei_Siah",
+      "statuses_count": 2092,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @Jei_Siah: THIS IS MY GOAT PRESIDENT‼️🤍",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 9,
+    "follow_request_sent": false,
+    "followers_count": 32253242,
+    "following": true,
+    "friends_count": 209,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 43464,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1929,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true,
+    "withheld_in_countries": []
+  }
+}

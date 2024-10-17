@@ -1,0 +1,24 @@
+{
+  "created_at": "Mon Jun 06 19:50:39 +0000 2016",
+  "deleted": true,
+  "favorite_count": 21978,
+  "hashtags": [],
+  "id": 739907373507182593,
+  "id_str": "739907373507182593",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 8414,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "I love this video. Very creative. https://t.co/QUFTUssBOp",
+  "urls": [
+    {
+      "expanded_url": "https://www.youtube.com/watch?v=d4VflaXIJCQ",
+      "url": "https://t.co/QUFTUssBOp"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

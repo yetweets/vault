@@ -1,0 +1,25 @@
+{
+  "created_at": "Mon Jul 08 05:05:30 +0000 2013",
+  "deleted": true,
+  "favorite_count": 2211,
+  "hashtags": [],
+  "id": 354103930432663554,
+  "id_str": "354103930432663554",
+  "lang": "en",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 1889,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Thank you Jean Touitou for letting me create with you http://t.co/ctery9mHJA",
+  "urls": [
+    {
+      "expanded_url": "http://www.kanyewest.com",
+      "url": "http://t.co/ctery9mHJA"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

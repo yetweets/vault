@@ -1,0 +1,24 @@
+{
+  "created_at": "Mon Jun 06 14:31:52 +0000 2016",
+  "deleted": true,
+  "favorite_count": 11213,
+  "hashtags": [],
+  "id": 739827150413402112,
+  "id_str": "739827150413402112",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 3467,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Zine and Shoes from SEASON 2 https://t.co/ZgwsiUMDjH",
+  "urls": [
+    {
+      "expanded_url": "http://yeezysupply.com",
+      "url": "https://t.co/ZgwsiUMDjH"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

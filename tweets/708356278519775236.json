@@ -1,0 +1,24 @@
+{
+  "created_at": "Fri Mar 11 18:17:52 +0000 2016",
+  "deleted": true,
+  "favorite_count": 8115,
+  "hashtags": [],
+  "id": 708356278519775236,
+  "id_str": "708356278519775236",
+  "lang": "und",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 2003,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "https://t.co/PysZQ6d2gD",
+  "urls": [
+    {
+      "expanded_url": "http://hypetrak.com/2016/03/g-o-o-d-music-hxlt-perfect-video/?utm_source=InternalHBtoHT&utm_medium=referral&utm_campaign=InternalHBtoHTlinks",
+      "url": "https://t.co/PysZQ6d2gD"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

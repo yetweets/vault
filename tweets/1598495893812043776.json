@@ -1,0 +1,398 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Dec 02 01:54:54 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/IdTibC8kBE",
+        "expanded_url": "https://twitter.com/MajestyRia/status/1598484908170936320/video/1",
+        "id": 1598484731674230784,
+        "id_str": "1598484731674230784",
+        "indices": [
+          60,
+          83
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1598484731674230784/pu/img/b89miRBFT-1zPGek.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1598484731674230784/pu/img/b89miRBFT-1zPGek.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1030
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1030
+          },
+          "small": {
+            "h": 475,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1598484908170936320,
+        "source_status_id_str": "1598484908170936320",
+        "source_user_id": 1291260823071936513,
+        "source_user_id_str": "1291260823071936513",
+        "type": "photo",
+        "url": "https://t.co/IdTibC8kBE"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1291260823071936513,
+        "id_str": "1291260823071936513",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Tori Nicks 2.0 🛰",
+        "screen_name": "MajestyRia"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/IdTibC8kBE",
+        "expanded_url": "https://twitter.com/MajestyRia/status/1598484908170936320/video/1",
+        "id": 1598484731674230784,
+        "id_str": "1598484731674230784",
+        "indices": [
+          60,
+          83
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1598484731674230784/pu/img/b89miRBFT-1zPGek.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1598484731674230784/pu/img/b89miRBFT-1zPGek.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1030
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1030
+          },
+          "small": {
+            "h": 475,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1598484908170936320,
+        "source_status_id_str": "1598484908170936320",
+        "source_user_id": 1291260823071936513,
+        "source_user_id_str": "1291260823071936513",
+        "type": "video",
+        "url": "https://t.co/IdTibC8kBE",
+        "video_info": {
+          "aspect_ratio": [
+            103,
+            72
+          ],
+          "duration_millis": 94148,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1598484731674230784/pu/vid/1030x720/M4MUwvhynP0Hj0oa.mp4?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1598484731674230784/pu/vid/514x360/dbfA62L7sLSD7ulP.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1598484731674230784/pu/pl/PlmpcjHTIYtee0fx.m3u8?tag=12&container=fmp4"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1598484731674230784/pu/vid/386x270/stk1lPpiPbwN8D_B.mp4?tag=12"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1598495893812043776,
+  "id_str": "1598495893812043776",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 02 01:11:15 +0000 2022",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/IdTibC8kBE",
+          "expanded_url": "https://twitter.com/MajestyRia/status/1598484908170936320/video/1",
+          "id": 1598484731674230784,
+          "id_str": "1598484731674230784",
+          "indices": [
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1598484731674230784/pu/img/b89miRBFT-1zPGek.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1598484731674230784/pu/img/b89miRBFT-1zPGek.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1030
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1030
+            },
+            "small": {
+              "h": 475,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/IdTibC8kBE"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/IdTibC8kBE",
+          "expanded_url": "https://twitter.com/MajestyRia/status/1598484908170936320/video/1",
+          "id": 1598484731674230784,
+          "id_str": "1598484731674230784",
+          "indices": [
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1598484731674230784/pu/img/b89miRBFT-1zPGek.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1598484731674230784/pu/img/b89miRBFT-1zPGek.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1030
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1030
+            },
+            "small": {
+              "h": 475,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/IdTibC8kBE",
+          "video_info": {
+            "aspect_ratio": [
+              103,
+              72
+            ],
+            "duration_millis": 94148,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1598484731674230784/pu/vid/1030x720/M4MUwvhynP0Hj0oa.mp4?tag=12"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1598484731674230784/pu/vid/514x360/dbfA62L7sLSD7ulP.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1598484731674230784/pu/pl/PlmpcjHTIYtee0fx.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1598484731674230784/pu/vid/386x270/stk1lPpiPbwN8D_B.mp4?tag=12"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 108,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1598484908170936320,
+    "id_str": "1598484908170936320",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 9,
+    "reply_count": 2,
+    "retweet_count": 43,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "Uh Oh! Alex Jones on Kyrie &amp; Black Jews https://t.co/IdTibC8kBE",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Aug 06 06:32:40 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Simple Math • Master Student • Art Tech & Magic 🌐 Problematic but Necessary • Politricks & Occult Tings",
+      "favourites_count": 21555,
+      "follow_request_sent": null,
+      "followers_count": 15545,
+      "following": null,
+      "friends_count": 27,
+      "geo_enabled": false,
+      "id": 1291260823071936513,
+      "id_str": "1291260823071936513",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 62,
+      "location": "Planet Earth",
+      "name": "Tori Nicks 2.0 🛰",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1291260823071936513/1641024158",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1471369948819648513/djw3-EG1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1471369948819648513/djw3-EG1_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MajestyRia",
+      "statuses_count": 20596,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @MajestyRia: Uh Oh! Alex Jones on Kyrie &amp; Black Jews https://t.co/IdTibC8kBE",
+  "timestamp_ms": "1669946094359",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": null,
+    "favourites_count": 9,
+    "follow_request_sent": null,
+    "followers_count": 32253237,
+    "following": null,
+    "friends_count": 209,
+    "geo_enabled": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 43466,
+    "location": null,
+    "name": "ye",
+    "notifications": null,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1930,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "http://KANYEWEST.COM",
+    "utc_offset": null,
+    "verified": true,
+    "withheld_in_countries": []
+  }
+}

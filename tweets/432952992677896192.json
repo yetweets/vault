@@ -1,0 +1,19 @@
+{
+  "created_at": "Mon Feb 10 19:03:31 +0000 2014",
+  "deleted": true,
+  "favorite_count": 49819,
+  "hashtags": [],
+  "id": 432952992677896192,
+  "id_str": "432952992677896192",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 47348,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Ten years later I am still the same kid from Chicago, still dreaming out loud, still banging on the door.",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

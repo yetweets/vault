@@ -1,0 +1,52 @@
+{
+  "created_at": "Tue Aug 28 22:02:12 +0000 2018",
+  "deleted": true,
+  "favorite_count": 64292,
+  "hashtags": [],
+  "id": 1034561814745366529,
+  "id_str": "1034561814745366529",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/xoko1QaGI8",
+      "expanded_url": "https://twitter.com/kanyewest/status/1034561814745366529/photo/1",
+      "id": 1034561777428656128,
+      "media_url": "http://pbs.twimg.com/media/DluAdInU8AAw1PH.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DluAdInU8AAw1PH.jpg",
+      "sizes": {
+        "large": {
+          "h": 1524,
+          "resize": "fit",
+          "w": 1102
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 868
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 492
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/xoko1QaGI8"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-34",
+  "retweet_count": 11613,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Can't wait for these glow in the dark 350s 🙈🙈🙈🌪🌪🌪 https://t.co/xoko1QaGI8",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

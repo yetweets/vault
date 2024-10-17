@@ -1,0 +1,357 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Oct 28 18:21:48 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/nbXskk1NVj",
+        "expanded_url": "https://twitter.com/YesJulz/status/1056584585998426113/photo/1",
+        "id": 1056584577848885249,
+        "id_str": "1056584577848885249",
+        "indices": [
+          32,
+          55
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dqm-E1XWwAEj-Ty.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dqm-E1XWwAEj-Ty.jpg",
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1536
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 900
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 510
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1056584585998426113,
+        "source_status_id_str": "1056584585998426113",
+        "source_user_id": 81947940,
+        "source_user_id_str": "81947940",
+        "type": "photo",
+        "url": "https://t.co/nbXskk1NVj"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 81947940,
+        "id_str": "81947940",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Julz",
+        "screen_name": "YesJulz"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/nbXskk1NVj",
+        "expanded_url": "https://twitter.com/YesJulz/status/1056584585998426113/photo/1",
+        "id": 1056584577848885249,
+        "id_str": "1056584577848885249",
+        "indices": [
+          32,
+          55
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dqm-E1XWwAEj-Ty.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dqm-E1XWwAEj-Ty.jpg",
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1536
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 900
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 510
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1056584585998426113,
+        "source_status_id_str": "1056584585998426113",
+        "source_user_id": 81947940,
+        "source_user_id_str": "81947940",
+        "type": "photo",
+        "url": "https://t.co/nbXskk1NVj"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1056612008211218432,
+  "id_str": "1056612008211218432",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 273,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 28 16:32:50 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/nbXskk1NVj",
+          "expanded_url": "https://twitter.com/YesJulz/status/1056584585998426113/photo/1",
+          "id": 1056584577848885249,
+          "id_str": "1056584577848885249",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dqm-E1XWwAEj-Ty.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dqm-E1XWwAEj-Ty.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/nbXskk1NVj"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/nbXskk1NVj",
+          "expanded_url": "https://twitter.com/YesJulz/status/1056584585998426113/photo/1",
+          "id": 1056584577848885249,
+          "id_str": "1056584577848885249",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dqm-E1XWwAEj-Ty.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dqm-E1XWwAEj-Ty.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/nbXskk1NVj"
+        }
+      ]
+    },
+    "favorite_count": 3808,
+    "favorited": false,
+    "geo": null,
+    "id": 1056584585998426113,
+    "id_str": "1056584585998426113",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 273,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Class in session 🌐 https://t.co/nbXskk1NVj",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Oct 12 22:43:25 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "yesjulz.com",
+              "expanded_url": "http://yesjulz.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/r0ICXhA14d"
+            }
+          ]
+        }
+      },
+      "favourites_count": 73992,
+      "follow_request_sent": false,
+      "followers_count": 173866,
+      "following": false,
+      "friends_count": 1836,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 81947940,
+      "id_str": "81947940",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 903,
+      "location": "",
+      "name": "Julz",
+      "notifications": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/81947940/1472950625",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1058267393556914177/Nsn222q3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058267393556914177/Nsn222q3_normal.jpg",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "YesJulz",
+      "statuses_count": 3227,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/r0ICXhA14d",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @YesJulz: Class in session 🌐 https://t.co/nbXskk1NVj",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

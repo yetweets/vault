@@ -1,0 +1,52 @@
+{
+  "created_at": "Tue Apr 24 15:13:01 +0000 2018",
+  "deleted": true,
+  "favorite_count": 58296,
+  "hashtags": [],
+  "id": 988797967908855809,
+  "id_str": "988797967908855809",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/cLGK1lIOp8",
+      "expanded_url": "https://twitter.com/kanyewest/status/988797967908855809/photo/1",
+      "id": 988797960015114245,
+      "media_url": "http://pbs.twimg.com/media/DbjqgXlU8AU1BuP.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DbjqgXlU8AU1BuP.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 1536
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 900
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 510
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/cLGK1lIOp8"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 5467,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "and we danced to music Michael all morning https://t.co/cLGK1lIOp8",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

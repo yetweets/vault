@@ -1,0 +1,57 @@
+{
+  "created_at": "Sun Mar 06 21:58:00 +0000 2016",
+  "deleted": true,
+  "favorite_count": 13507,
+  "hashtags": [],
+  "id": 706599738632699904,
+  "id_str": "706599738632699904",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/qvojAjJNWM",
+      "expanded_url": "https://twitter.com/kanyewest/status/706599738632699904/photo/1",
+      "id": 706599738066518016,
+      "media_url": "http://pbs.twimg.com/media/Cc5Yt9HWwAAkB5n.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Cc5Yt9HWwAAkB5n.jpg",
+      "sizes": {
+        "large": {
+          "h": 960,
+          "resize": "fit",
+          "w": 960
+        },
+        "medium": {
+          "h": 600,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 340,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/qvojAjJNWM"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 3211,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Playing the new Nigel Holt album in Paris …  this is the perfect vibe right now! https://t.co/t047o2i0Vi https://t.co/qvojAjJNWM",
+  "urls": [
+    {
+      "expanded_url": "http://bit.ly/1p9jp2F",
+      "url": "https://t.co/t047o2i0Vi"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

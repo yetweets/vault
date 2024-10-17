@@ -1,0 +1,30 @@
+{
+  "created_at": "Wed Jun 29 18:27:36 +0000 2016",
+  "deleted": true,
+  "favorite_count": 20687,
+  "hashtags": [],
+  "id": 748221396703133696,
+  "id_str": "748221396703133696",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 9722,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Beautiful Morning @adidas https://t.co/y2bRnjJY94",
+  "urls": [
+    {
+      "expanded_url": "http://money.cnn.com/2016/06/29/news/companies/adidas-yeezy-kanye-west/",
+      "url": "https://t.co/y2bRnjJY94"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 300114634,
+      "name": "adidas",
+      "screen_name": "adidas"
+    }
+  ]
+}

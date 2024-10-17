@@ -1,0 +1,480 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Dec 31 22:30:59 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/a64lffr7pm",
+        "expanded_url": "https://twitter.com/subtweetshawn0/status/1079560694327136257/video/1",
+        "id": 1079560606603079680,
+        "id_str": "1079560606603079680",
+        "indices": [
+          43,
+          66
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1079560606603079680/pu/img/mL27QLqiUqRGnbWH.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1079560606603079680/pu/img/mL27QLqiUqRGnbWH.jpg",
+        "sizes": {
+          "large": {
+            "h": 624,
+            "resize": "fit",
+            "w": 1232
+          },
+          "medium": {
+            "h": 608,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 344,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1079560694327136257,
+        "source_status_id_str": "1079560694327136257",
+        "source_user_id": 959511391,
+        "source_user_id_str": "959511391",
+        "type": "photo",
+        "url": "https://t.co/a64lffr7pm"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 959511391,
+        "id_str": "959511391",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Subtweet Shawn",
+        "screen_name": "subtweetshawn0"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Nov 20 03:39:33 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "ENTERTAINER. #LSUDropout . ORIGINAL TWITTER #GetTheGatChallenge Creator",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "forms.gle/SgJYGi5tN1rgVg…",
+                    "expanded_url": "https://forms.gle/SgJYGi5tN1rgVgPK8",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/CxNJ7jMwIu"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 22231,
+            "follow_request_sent": false,
+            "followers_count": 41191,
+            "following": false,
+            "friends_count": 7006,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 959511391,
+            "id_str": "959511391",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 60,
+            "location": "New Orleans, LA",
+            "name": "Subtweet Shawn",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/959511391/1553019988",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1273359764819521543/JjJAhAly_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273359764819521543/JjJAhAly_normal.jpg",
+            "profile_link_color": "7FDBB6",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "subtweetshawn0",
+            "statuses_count": 125325,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/CxNJ7jMwIu",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/a64lffr7pm",
+        "expanded_url": "https://twitter.com/subtweetshawn0/status/1079560694327136257/video/1",
+        "id": 1079560606603079680,
+        "id_str": "1079560606603079680",
+        "indices": [
+          43,
+          66
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1079560606603079680/pu/img/mL27QLqiUqRGnbWH.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1079560606603079680/pu/img/mL27QLqiUqRGnbWH.jpg",
+        "sizes": {
+          "large": {
+            "h": 624,
+            "resize": "fit",
+            "w": 1232
+          },
+          "medium": {
+            "h": 608,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 344,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1079560694327136257,
+        "source_status_id_str": "1079560694327136257",
+        "source_user_id": 959511391,
+        "source_user_id_str": "959511391",
+        "type": "video",
+        "url": "https://t.co/a64lffr7pm",
+        "video_info": {
+          "aspect_ratio": [
+            77,
+            39
+          ],
+          "duration_millis": 16145,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1079560606603079680/pu/vid/1232x624/ldxwWhnB7cng_ah9.mp4?tag=6"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1079560606603079680/pu/vid/710x360/AVRsbgD8WT6cmJPM.mp4?tag=6"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1079560606603079680/pu/pl/cjQNFBSU71wv0vDB.m3u8?tag=6"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1079560606603079680/pu/vid/354x180/h55Id_BwAK3fPbmG.mp4?tag=6"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1079867540594028546,
+  "id_str": "1079867540594028546",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 43293,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 31 02:11:41 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/a64lffr7pm",
+          "expanded_url": "https://twitter.com/subtweetshawn0/status/1079560694327136257/video/1",
+          "id": 1079560606603079680,
+          "id_str": "1079560606603079680",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1079560606603079680/pu/img/mL27QLqiUqRGnbWH.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1079560606603079680/pu/img/mL27QLqiUqRGnbWH.jpg",
+          "sizes": {
+            "large": {
+              "h": 624,
+              "resize": "fit",
+              "w": 1232
+            },
+            "medium": {
+              "h": 608,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 344,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/a64lffr7pm"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/a64lffr7pm",
+          "expanded_url": "https://twitter.com/subtweetshawn0/status/1079560694327136257/video/1",
+          "id": 1079560606603079680,
+          "id_str": "1079560606603079680",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1079560606603079680/pu/img/mL27QLqiUqRGnbWH.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1079560606603079680/pu/img/mL27QLqiUqRGnbWH.jpg",
+          "sizes": {
+            "large": {
+              "h": 624,
+              "resize": "fit",
+              "w": 1232
+            },
+            "medium": {
+              "h": 608,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 344,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/a64lffr7pm",
+          "video_info": {
+            "aspect_ratio": [
+              77,
+              39
+            ],
+            "duration_millis": 16145,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1079560606603079680/pu/vid/1232x624/ldxwWhnB7cng_ah9.mp4?tag=6"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1079560606603079680/pu/vid/710x360/AVRsbgD8WT6cmJPM.mp4?tag=6"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1079560606603079680/pu/pl/cjQNFBSU71wv0vDB.m3u8?tag=6"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1079560606603079680/pu/vid/354x180/h55Id_BwAK3fPbmG.mp4?tag=6"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 141157,
+    "favorited": false,
+    "geo": null,
+    "id": 1079560694327136257,
+    "id_str": "1079560694327136257",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 43293,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I was out numbered ... https://t.co/a64lffr7pm",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Nov 20 03:39:33 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "ENTERTAINER. #LSUDropout . ORIGINAL TWITTER #GetTheGatChallenge Creator",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "forms.gle/SgJYGi5tN1rgVg…",
+              "expanded_url": "https://forms.gle/SgJYGi5tN1rgVgPK8",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/CxNJ7jMwIu"
+            }
+          ]
+        }
+      },
+      "favourites_count": 22231,
+      "follow_request_sent": false,
+      "followers_count": 41191,
+      "following": false,
+      "friends_count": 7006,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 959511391,
+      "id_str": "959511391",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 60,
+      "location": "New Orleans, LA",
+      "name": "Subtweet Shawn",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/959511391/1553019988",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1273359764819521543/JjJAhAly_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273359764819521543/JjJAhAly_normal.jpg",
+      "profile_link_color": "7FDBB6",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "subtweetshawn0",
+      "statuses_count": 125325,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/CxNJ7jMwIu",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @subtweetshawn0: I was out numbered ... https://t.co/a64lffr7pm",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 29792507,
+    "following": true,
+    "friends_count": 259,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 43973,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1234,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "created_at": "Fri Jun 22 06:02:24 +0000 2018",
+  "deleted": true,
+  "favorite_count": 17711,
+  "hashtags": [],
+  "id": 1010040286003654656,
+  "id_str": "1010040286003654656",
+  "lang": "und",
+  "legacy_imported": true,
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 2837,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "https://t.co/gy60h56Izv",
+  "urls": [
+    {
+      "expanded_url": "https://twitter.com/i/events/1009768739196190720",
+      "url": "https://t.co/gy60h56Izv"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

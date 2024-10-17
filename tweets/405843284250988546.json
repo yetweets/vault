@@ -1,0 +1,25 @@
+{
+  "created_at": "Wed Nov 27 23:39:13 +0000 2013",
+  "deleted": true,
+  "favorite_count": 4293,
+  "hashtags": [],
+  "id": 405843284250988546,
+  "id_str": "405843284250988546",
+  "lang": "en",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 3545,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "You inspire us all to be greater and have broken the original doors down that gave us the platform: http://t.co/fFrj884wP6",
+  "urls": [
+    {
+      "expanded_url": "http://bit.ly/IjbEkS",
+      "url": "http://t.co/fFrj884wP6"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

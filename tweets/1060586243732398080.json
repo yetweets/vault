@@ -1,0 +1,127 @@
+{
+  "created_at": "Thu Nov 08 17:33:59 +0000 2018",
+  "deleted": false,
+  "hashtags": [],
+  "id": 1060586243732398080,
+  "id_str": "1060586243732398080",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/5f7YpM9J89",
+      "expanded_url": "https://twitter.com/yeezyenergy/status/1060249867849793538/photo/1",
+      "id": 1060249855484821504,
+      "media_url": "http://pbs.twimg.com/media/DrbDoElVAAASpqG.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DrbDoElVAAASpqG.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 1536
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 900
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 510
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/5f7YpM9J89"
+    }
+  ],
+  "retrieved": "2018-11-23--09-19-37",
+  "retweet_count": 1313,
+  "retweeted_status": {
+    "created_at": "Wed Nov 07 19:17:21 +0000 2018",
+    "favorite_count": 11689,
+    "hashtags": [],
+    "id": 1060249867849793538,
+    "id_str": "1060249867849793538",
+    "lang": "en",
+    "media": [
+      {
+        "display_url": "pic.twitter.com/5f7YpM9J89",
+        "expanded_url": "https://twitter.com/yeezyenergy/status/1060249867849793538/photo/1",
+        "id": 1060249855484821504,
+        "media_url": "http://pbs.twimg.com/media/DrbDoElVAAASpqG.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrbDoElVAAASpqG.jpg",
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1536
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 900
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 510
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/5f7YpM9J89"
+      }
+    ],
+    "retweet_count": 1313,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I’m ready to witness the gods @kanyewest and @KidCudi together again 👻 https://t.co/5f7YpM9J89",
+    "urls": [],
+    "user": {
+      "id": 1037541976164454400
+    },
+    "user_mentions": [
+      {
+        "id": 169686021,
+        "name": "ye",
+        "screen_name": "kanyewest"
+      },
+      {
+        "id": 243287822,
+        "name": "The Chosen One",
+        "screen_name": "KidCudi"
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @yeezyenergy: I’m ready to witness the gods @kanyewest and @KidCudi together again 👻 https://t.co/5f7YpM9J89",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 1037541976164454400,
+      "name": "ken",
+      "screen_name": "yeezyenergy"
+    },
+    {
+      "id": 169686021,
+      "name": "ye",
+      "screen_name": "kanyewest"
+    },
+    {
+      "id": 243287822,
+      "name": "The Chosen One",
+      "screen_name": "KidCudi"
+    }
+  ]
+}

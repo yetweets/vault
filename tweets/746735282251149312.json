@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat Jun 25 16:02:19 +0000 2016",
+  "deleted": true,
+  "favorite_count": 10609,
+  "hashtags": [],
+  "id": 746735282251149312,
+  "id_str": "746735282251149312",
+  "lang": "ht",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 4479,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Famous https://t.co/ZLJDmiooMs",
+  "urls": [
+    {
+      "expanded_url": "http://www.vanityfair.com/culture/2016/06/kanye-famous-video-interview",
+      "url": "https://t.co/ZLJDmiooMs"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

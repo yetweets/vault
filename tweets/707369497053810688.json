@@ -1,0 +1,25 @@
+{
+  "created_at": "Wed Mar 09 00:56:45 +0000 2016",
+  "deleted": true,
+  "favorite_count": 9341,
+  "hashtags": [],
+  "id": 707369497053810688,
+  "id_str": "707369497053810688",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 2518,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Was speaking with @souljaian earlier about a new idea…",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 273065836,
+      "name": "Ian Connor",
+      "screen_name": "souljaian"
+    }
+  ]
+}

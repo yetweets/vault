@@ -1,0 +1,58 @@
+{
+  "created_at": "Wed Jun 18 04:29:51 +0000 2014",
+  "deleted": true,
+  "favorite_count": 54156,
+  "hashtags": [],
+  "id": 479118771500503040,
+  "id_str": "479118771500503040",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/TDk8OmPMUF",
+      "expanded_url": "https://twitter.com/kanyewest/status/479118771500503040/photo/1",
+      "id": 479118769583697921,
+      "media_url": "http://pbs.twimg.com/media/BqYr-4JCMAEVUib.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/BqYr-4JCMAEVUib.jpg",
+      "sizes": {
+        "large": {
+          "h": 1024,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 600,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 340,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/TDk8OmPMUF"
+    }
+  ],
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 39083,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "One of my favorite artists Lana Del Rey’s new album.\nhttp://t.co/14BIkuVvW2 http://t.co/TDk8OmPMUF",
+  "urls": [
+    {
+      "expanded_url": "http://lanadel.re/iTunesSRyt",
+      "url": "http://t.co/14BIkuVvW2"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

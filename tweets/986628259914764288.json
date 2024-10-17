@@ -1,0 +1,100 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Apr 18 15:31:22 +0000 2018",
+  "deleted": true,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9…",
+        "expanded_url": "https://twitter.com/i/web/status/986628259914764288",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/Oeftu34fuh"
+      }
+    ],
+    "user_mentions": []
+  },
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      271
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "full_text": "There's love stories. Pain happiness. It's 3 dementional. There's taste touch sound. It's the most entertaining for of entertainment. Just being. We believe time is a man made construct. Actually time and money are both man made currency. Because you can spend them both."
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 986628259914764288,
+  "id_str": "986628259914764288",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "legacy_imported": true,
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retrieved": "2018-04-18--15-31-22",
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "There's love stories. Pain happiness. It's 3 dementional. There's taste touch sound. It's the most entertaining for… https://t.co/Oeftu34fuh",
+  "timestamp_ms": "1524065482487",
+  "truncated": true,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": null,
+    "favourites_count": 1,
+    "follow_request_sent": null,
+    "followers_count": 12842828,
+    "following": null,
+    "friends_count": 1,
+    "geo_enabled": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 48498,
+    "location": null,
+    "name": "KANYE WEST",
+    "notifications": null,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/390200267/Screen_Shot_2011-12-27_at_11.53.35_PM.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/390200267/Screen_Shot_2011-12-27_at_11.53.35_PM.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/585565077207678977/N_eNSBXi_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/585565077207678977/N_eNSBXi_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 35,
+    "time_zone": "Hawaii",
+    "translator_type": "none",
+    "url": "http://KANYEWEST.COM",
+    "utc_offset": -36000,
+    "verified": true
+  }
+}

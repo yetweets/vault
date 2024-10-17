@@ -1,0 +1,29 @@
+{
+  "created_at": "Thu Jun 12 17:58:51 +0000 2014",
+  "deleted": true,
+  "favorite_count": 7505,
+  "hashtags": [
+    {
+      "text": "Allinornothing"
+    }
+  ],
+  "id": 477148036544888832,
+  "id_str": "477148036544888832",
+  "lang": "und",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 6934,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "http://t.co/8CaiGU28Jq\n#Allinornothing",
+  "urls": [
+    {
+      "expanded_url": "http://youtu.be/Eu1BFo0ZqUY",
+      "url": "http://t.co/8CaiGU28Jq"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

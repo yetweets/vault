@@ -1,0 +1,52 @@
+{
+  "created_at": "Sat Feb 13 08:23:34 +0000 2016",
+  "deleted": true,
+  "favorite_count": 37196,
+  "hashtags": [],
+  "id": 698422247665438720,
+  "id_str": "698422247665438720",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/vt76mwqfnH",
+      "expanded_url": "https://twitter.com/kanyewest/status/698422247665438720/photo/1",
+      "id": 698422246847574016,
+      "media_url": "http://pbs.twimg.com/media/CbFLVUaUcAAoVct.png",
+      "media_url_https": "https://pbs.twimg.com/media/CbFLVUaUcAAoVct.png",
+      "sizes": {
+        "large": {
+          "h": 762,
+          "resize": "fit",
+          "w": 606
+        },
+        "medium": {
+          "h": 754,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 428,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/vt76mwqfnH"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 9187,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "and I’m proud of this picture with me and Caitlyn… She gave the most heart felt speech at my wedding https://t.co/vt76mwqfnH",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

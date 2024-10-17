@@ -1,0 +1,391 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 05 23:06:24 +0000 2018",
+  "deleted": true,
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "",
+          "embeddable": true,
+          "monetizable": false,
+          "title": ""
+        },
+        "display_url": "pic.twitter.com/cTP7Bf3kTy",
+        "expanded_url": "https://twitter.com/MothershipSG/status/992301149125394434/video/1",
+        "id": 992300872334954499,
+        "id_str": "992300872334954499",
+        "indices": [
+          56,
+          79
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/992300872334954499/img/8qJE19eH7uYNBIKH.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/992300872334954499/img/8qJE19eH7uYNBIKH.jpg",
+        "sizes": {
+          "large": {
+            "h": 400,
+            "resize": "fit",
+            "w": 230
+          },
+          "medium": {
+            "h": 400,
+            "resize": "fit",
+            "w": 230
+          },
+          "small": {
+            "h": 400,
+            "resize": "fit",
+            "w": 230
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 992301149125394434,
+        "source_status_id_str": "992301149125394434",
+        "source_user_id": 1619325942,
+        "source_user_id_str": "1619325942",
+        "type": "photo",
+        "url": "https://t.co/cTP7Bf3kTy"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1619325942,
+        "id_str": "1619325942",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Mothership.sg",
+        "screen_name": "MothershipSG"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "",
+          "embeddable": true,
+          "monetizable": false,
+          "title": ""
+        },
+        "display_url": "pic.twitter.com/cTP7Bf3kTy",
+        "expanded_url": "https://twitter.com/MothershipSG/status/992301149125394434/video/1",
+        "id": 992300872334954499,
+        "id_str": "992300872334954499",
+        "indices": [
+          56,
+          79
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/992300872334954499/img/8qJE19eH7uYNBIKH.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/992300872334954499/img/8qJE19eH7uYNBIKH.jpg",
+        "sizes": {
+          "large": {
+            "h": 400,
+            "resize": "fit",
+            "w": 230
+          },
+          "medium": {
+            "h": 400,
+            "resize": "fit",
+            "w": 230
+          },
+          "small": {
+            "h": 400,
+            "resize": "fit",
+            "w": 230
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 992301149125394434,
+        "source_status_id_str": "992301149125394434",
+        "source_user_id": 1619325942,
+        "source_user_id_str": "1619325942",
+        "type": "video",
+        "url": "https://t.co/cTP7Bf3kTy",
+        "video_info": {
+          "aspect_ratio": [
+            23,
+            40
+          ],
+          "duration_millis": 125200,
+          "variants": [
+            {
+              "bitrate": 320000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/992300872334954499/vid/184x320/qM3MuGUsIiSYhMCd.mp4?tag=2"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/992300872334954499/pl/2klkWT-zqeA-1CFG.m3u8?tag=2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 992903368304570369,
+  "id_str": "992903368304570369",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "legacy_imported": true,
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retrieved": "2018-05-05--23-06-25",
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 04 07:13:24 +0000 2018",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/cTP7Bf3kTy",
+          "expanded_url": "https://twitter.com/MothershipSG/status/992301149125394434/video/1",
+          "id": 992300872334954499,
+          "id_str": "992300872334954499",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/992300872334954499/img/8qJE19eH7uYNBIKH.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/992300872334954499/img/8qJE19eH7uYNBIKH.jpg",
+          "sizes": {
+            "large": {
+              "h": 400,
+              "resize": "fit",
+              "w": 230
+            },
+            "medium": {
+              "h": 400,
+              "resize": "fit",
+              "w": 230
+            },
+            "small": {
+              "h": 400,
+              "resize": "fit",
+              "w": 230
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/cTP7Bf3kTy"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/cTP7Bf3kTy",
+          "expanded_url": "https://twitter.com/MothershipSG/status/992301149125394434/video/1",
+          "id": 992300872334954499,
+          "id_str": "992300872334954499",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/992300872334954499/img/8qJE19eH7uYNBIKH.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/992300872334954499/img/8qJE19eH7uYNBIKH.jpg",
+          "sizes": {
+            "large": {
+              "h": 400,
+              "resize": "fit",
+              "w": 230
+            },
+            "medium": {
+              "h": 400,
+              "resize": "fit",
+              "w": 230
+            },
+            "small": {
+              "h": 400,
+              "resize": "fit",
+              "w": 230
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/cTP7Bf3kTy",
+          "video_info": {
+            "aspect_ratio": [
+              23,
+              40
+            ],
+            "duration_millis": 125200,
+            "variants": [
+              {
+                "bitrate": 320000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/992300872334954499/vid/184x320/qM3MuGUsIiSYhMCd.mp4?tag=2"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/992300872334954499/pl/2klkWT-zqeA-1CFG.m3u8?tag=2"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 44529,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 992301149125394434,
+    "id_str": "992301149125394434",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 3246,
+    "reply_count": 842,
+    "retweet_count": 19804,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+    "text": "New type of display seen in Hong Kong https://t.co/cTP7Bf3kTy",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jul 25 04:02:17 +0000 2013",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Mothership is a community news service for Singaporeans.",
+      "favourites_count": 331,
+      "follow_request_sent": null,
+      "followers_count": 57885,
+      "following": null,
+      "friends_count": 313,
+      "geo_enabled": false,
+      "id": 1619325942,
+      "id_str": "1619325942",
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 196,
+      "location": "Singapore",
+      "name": "Mothership.sg",
+      "notifications": null,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1619325942/1498701709",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880244811273388032/mzvF03Lz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880244811273388032/mzvF03Lz_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MothershipSG",
+      "statuses_count": 13206,
+      "time_zone": "Singapore",
+      "translator_type": "none",
+      "url": "http://mothership.sg/",
+      "utc_offset": 28800,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @MothershipSG: New type of display seen in Hong Kong https://t.co/cTP7Bf3kTy",
+  "timestamp_ms": "1525561584913",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": null,
+    "favourites_count": 2,
+    "follow_request_sent": null,
+    "followers_count": 28211727,
+    "following": null,
+    "friends_count": 3,
+    "geo_enabled": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49644,
+    "location": null,
+    "name": "KANYE WEST",
+    "notifications": null,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/390200267/Screen_Shot_2011-12-27_at_11.53.35_PM.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/390200267/Screen_Shot_2011-12-27_at_11.53.35_PM.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/585565077207678977/N_eNSBXi_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/585565077207678977/N_eNSBXi_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 363,
+    "time_zone": "Hawaii",
+    "translator_type": "none",
+    "url": "http://KANYEWEST.COM",
+    "utc_offset": -36000,
+    "verified": true
+  }
+}

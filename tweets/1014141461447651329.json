@@ -1,0 +1,24 @@
+{
+  "created_at": "Tue Jul 03 13:39:00 +0000 2018",
+  "deleted": true,
+  "favorite_count": 27711,
+  "hashtags": [],
+  "id": 1014141461447651329,
+  "id_str": "1014141461447651329",
+  "lang": "und",
+  "legacy_imported": true,
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 4350,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "https://t.co/DS6ntV4Yab",
+  "urls": [
+    {
+      "expanded_url": "https://www.nytimes.com/2018/06/25/arts/music/kanye-west-ye-interview.html",
+      "url": "https://t.co/DS6ntV4Yab"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

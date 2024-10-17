@@ -1,0 +1,24 @@
+{
+  "created_at": "Thu Aug 18 01:05:54 +0000 2016",
+  "deleted": true,
+  "favorite_count": 32393,
+  "hashtags": [],
+  "id": 766078637095415808,
+  "id_str": "766078637095415808",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 15551,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "21 PABLO STORES WORLDWIDE THIS WEEKEND   LOCATIONS HERE\nhttps://t.co/tYuzqs7kJW",
+  "urls": [
+    {
+      "expanded_url": "http://www.kanyewest.com/temporarystores",
+      "url": "https://t.co/tYuzqs7kJW"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

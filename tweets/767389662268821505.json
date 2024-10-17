@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun Aug 21 15:55:27 +0000 2016",
+  "deleted": true,
+  "favorite_count": 19471,
+  "hashtags": [],
+  "id": 767389662268821505,
+  "id_str": "767389662268821505",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/9oL2zvtjHy",
+      "expanded_url": "https://twitter.com/kanyewest/status/767389662268821505/photo/1",
+      "id": 767389584921620480,
+      "media_url": "http://pbs.twimg.com/media/CqZQwv2WcAA_FrA.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CqZQwv2WcAA_FrA.jpg",
+      "sizes": {
+        "large": {
+          "h": 726,
+          "resize": "fit",
+          "w": 729
+        },
+        "medium": {
+          "h": 726,
+          "resize": "fit",
+          "w": 729
+        },
+        "small": {
+          "h": 677,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/9oL2zvtjHy"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 6701,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "BOSTON https://t.co/9oL2zvtjHy",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

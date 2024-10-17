@@ -1,0 +1,53 @@
+{
+  "created_at": "Fri Nov 15 20:59:44 +0000 2013",
+  "deleted": true,
+  "favorite_count": 8779,
+  "hashtags": [],
+  "id": 401454494795300864,
+  "id_str": "401454494795300864",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/VQmRN6Z3tY",
+      "expanded_url": "https://twitter.com/kanyewest/status/401454494795300864/photo/1",
+      "id": 401454494652694529,
+      "media_url": "http://pbs.twimg.com/media/BZJAvGNCAAEfEHo.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/BZJAvGNCAAEfEHo.jpg",
+      "sizes": {
+        "large": {
+          "h": 677,
+          "resize": "fit",
+          "w": 677
+        },
+        "medium": {
+          "h": 600,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 340,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/VQmRN6Z3tY"
+    }
+  ],
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 7166,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "YEEZUS TOUR OFFICIALLY BACK ON THE ROAD http://t.co/VQmRN6Z3tY",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

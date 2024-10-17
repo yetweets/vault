@@ -1,0 +1,52 @@
+{
+  "created_at": "Sat Apr 02 21:41:40 +0000 2016",
+  "deleted": true,
+  "favorite_count": 17493,
+  "hashtags": [],
+  "id": 716380100820754432,
+  "id_str": "716380100820754432",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/tSJgikAUmT",
+      "expanded_url": "https://twitter.com/kanyewest/status/716380100820754432/photo/1",
+      "id": 716380099046543360,
+      "media_url": "http://pbs.twimg.com/media/CfEX54_UEAAEd3N.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CfEX54_UEAAEd3N.jpg",
+      "sizes": {
+        "large": {
+          "h": 1365,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 800,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 453,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/tSJgikAUmT"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 3360,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Royère doesn't make a Polar bear bed but the Polar bear couch is my favorite piece of furniture we own https://t.co/tSJgikAUmT",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

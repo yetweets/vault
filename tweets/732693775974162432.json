@@ -1,0 +1,24 @@
+{
+  "created_at": "Tue May 17 22:06:23 +0000 2016",
+  "deleted": true,
+  "favorite_count": 20546,
+  "hashtags": [],
+  "id": 732693775974162432,
+  "id_str": "732693775974162432",
+  "lang": "pt",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 8471,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "PANDA PANDA PANDA https://t.co/LsVxzvh0mY",
+  "urls": [
+    {
+      "expanded_url": "http://vevo.ly/Eq4wmo",
+      "url": "https://t.co/LsVxzvh0mY"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

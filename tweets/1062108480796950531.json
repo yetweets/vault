@@ -1,0 +1,483 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Nov 12 22:22:49 +0000 2018",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          15,
+          21
+        ],
+        "text": "Kanye"
+      },
+      {
+        "indices": [
+          61,
+          74
+        ],
+        "text": "CampFlogGnaw"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/gXzrHStp9T",
+        "expanded_url": "https://twitter.com/Real923LA/status/1061871112571633664/photo/1",
+        "id": 1061871005142925312,
+        "id_str": "1061871005142925312",
+        "indices": [
+          75,
+          98
+        ],
+        "media_url": "http://pbs.twimg.com/media/DryGDZrUwAASplY.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DryGDZrUwAASplY.jpg",
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 768
+          },
+          "medium": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 768
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 510
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1061871112571633664,
+        "source_status_id_str": "1061871112571633664",
+        "source_user_id": 3018111009,
+        "source_user_id_str": "3018111009",
+        "type": "photo",
+        "url": "https://t.co/gXzrHStp9T"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 3018111009,
+        "id_str": "3018111009",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "REAL 92.3 LA",
+        "screen_name": "Real923LA"
+      },
+      {
+        "id": 19549830,
+        "id_str": "19549830",
+        "indices": [
+          27,
+          34
+        ],
+        "name": "Big Boy",
+        "screen_name": "BigBoy"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/gXzrHStp9T",
+        "expanded_url": "https://twitter.com/Real923LA/status/1061871112571633664/photo/1",
+        "id": 1061871005142925312,
+        "id_str": "1061871005142925312",
+        "indices": [
+          75,
+          98
+        ],
+        "media_url": "http://pbs.twimg.com/media/DryGDZrUwAASplY.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DryGDZrUwAASplY.jpg",
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 768
+          },
+          "medium": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 768
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 510
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1061871112571633664,
+        "source_status_id_str": "1061871112571633664",
+        "source_user_id": 3018111009,
+        "source_user_id_str": "3018111009",
+        "type": "photo",
+        "url": "https://t.co/gXzrHStp9T"
+      },
+      {
+        "display_url": "pic.twitter.com/gXzrHStp9T",
+        "expanded_url": "https://twitter.com/Real923LA/status/1061871112571633664/photo/1",
+        "id": 1061871005495320577,
+        "id_str": "1061871005495320577",
+        "indices": [
+          75,
+          98
+        ],
+        "media_url": "http://pbs.twimg.com/media/DryGDa_V4AE92M0.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DryGDa_V4AE92M0.jpg",
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 768
+          },
+          "medium": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 768
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 510
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1061871112571633664,
+        "source_status_id_str": "1061871112571633664",
+        "source_user_id": 3018111009,
+        "source_user_id_str": "3018111009",
+        "type": "photo",
+        "url": "https://t.co/gXzrHStp9T"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1062108480796950531,
+  "id_str": "1062108480796950531",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 471,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 12 06:39:36 +0000 2018",
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            6
+          ],
+          "text": "Kanye"
+        },
+        {
+          "indices": [
+            46,
+            59
+          ],
+          "text": "CampFlogGnaw"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/gXzrHStp9T",
+          "expanded_url": "https://twitter.com/Real923LA/status/1061871112571633664/photo/1",
+          "id": 1061871005142925312,
+          "id_str": "1061871005142925312",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/DryGDZrUwAASplY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DryGDZrUwAASplY.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 768
+            },
+            "medium": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 768
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/gXzrHStp9T"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 19549830,
+          "id_str": "19549830",
+          "indices": [
+            12,
+            19
+          ],
+          "name": "Big Boy",
+          "screen_name": "BigBoy"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/gXzrHStp9T",
+          "expanded_url": "https://twitter.com/Real923LA/status/1061871112571633664/photo/1",
+          "id": 1061871005142925312,
+          "id_str": "1061871005142925312",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/DryGDZrUwAASplY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DryGDZrUwAASplY.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 768
+            },
+            "medium": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 768
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/gXzrHStp9T"
+        },
+        {
+          "display_url": "pic.twitter.com/gXzrHStp9T",
+          "expanded_url": "https://twitter.com/Real923LA/status/1061871112571633664/photo/1",
+          "id": 1061871005495320577,
+          "id_str": "1061871005495320577",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/DryGDa_V4AE92M0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DryGDa_V4AE92M0.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 768
+            },
+            "medium": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 768
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/gXzrHStp9T"
+        }
+      ]
+    },
+    "favorite_count": 4965,
+    "favorited": false,
+    "geo": null,
+    "id": 1061871112571633664,
+    "id_str": "1061871112571633664",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 471,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "#Kanye gave @bigboy the jacket off his back 🥰 #CampFlogGnaw https://t.co/gXzrHStp9T",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Feb 04 17:23:38 +0000 2015",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "LA's New Home for Hip Hop (866) 246-8923 IG/FB/Snap: @Real923LA",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "REAL923LA.com/listen",
+              "expanded_url": "http://REAL923LA.com/listen",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/yN0BW4xhBZ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 8005,
+      "follow_request_sent": false,
+      "followers_count": 34994,
+      "following": false,
+      "friends_count": 389,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 3018111009,
+      "id_str": "3018111009",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 191,
+      "location": "Los Angeles, CA",
+      "name": "REAL 92.3 LA",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/993545767615774722/9gqvhOri_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/993545767615774722/9gqvhOri_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Real923LA",
+      "statuses_count": 58082,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/yN0BW4xhBZ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @Real923LA: #Kanye gave @bigboy the jacket off his back 🥰 #CampFlogGnaw https://t.co/gXzrHStp9T",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

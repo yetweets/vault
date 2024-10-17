@@ -1,0 +1,359 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Dec 02 00:27:58 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/Eh2lPvnsf1",
+        "expanded_url": "https://twitter.com/dondatimes/status/1598362597719277568/photo/1",
+        "id": 1598362594112413706,
+        "id_str": "1598362594112413706",
+        "indices": [
+          67,
+          90
+        ],
+        "media_url": "http://pbs.twimg.com/media/Fi6GT5RXoAopDdH.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Fi6GT5RXoAopDdH.jpg",
+        "sizes": {
+          "large": {
+            "h": 701,
+            "resize": "fit",
+            "w": 960
+          },
+          "medium": {
+            "h": 701,
+            "resize": "fit",
+            "w": 960
+          },
+          "small": {
+            "h": 497,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1598362597719277568,
+        "source_status_id_str": "1598362597719277568",
+        "source_user_id": 1415777731535458304,
+        "source_user_id_str": "1415777731535458304",
+        "type": "photo",
+        "url": "https://t.co/Eh2lPvnsf1"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1415777731535458304,
+        "id_str": "1415777731535458304",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Donda Times",
+        "screen_name": "dondatimes"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/Eh2lPvnsf1",
+        "expanded_url": "https://twitter.com/dondatimes/status/1598362597719277568/photo/1",
+        "id": 1598362594112413706,
+        "id_str": "1598362594112413706",
+        "indices": [
+          67,
+          90
+        ],
+        "media_url": "http://pbs.twimg.com/media/Fi6GT5RXoAopDdH.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Fi6GT5RXoAopDdH.jpg",
+        "sizes": {
+          "large": {
+            "h": 701,
+            "resize": "fit",
+            "w": 960
+          },
+          "medium": {
+            "h": 701,
+            "resize": "fit",
+            "w": 960
+          },
+          "small": {
+            "h": 497,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1598362597719277568,
+        "source_status_id_str": "1598362597719277568",
+        "source_user_id": 1415777731535458304,
+        "source_user_id_str": "1415777731535458304",
+        "type": "photo",
+        "url": "https://t.co/Eh2lPvnsf1"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1598474017983401985,
+  "id_str": "1598474017983401985",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 734,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 01 17:05:14 +0000 2022",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Eh2lPvnsf1",
+          "expanded_url": "https://twitter.com/dondatimes/status/1598362597719277568/photo/1",
+          "id": 1598362594112413706,
+          "id_str": "1598362594112413706",
+          "indices": [
+            51,
+            74
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fi6GT5RXoAopDdH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fi6GT5RXoAopDdH.jpg",
+          "sizes": {
+            "large": {
+              "h": 701,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 701,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 497,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Eh2lPvnsf1"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Eh2lPvnsf1",
+          "expanded_url": "https://twitter.com/dondatimes/status/1598362597719277568/photo/1",
+          "id": 1598362594112413706,
+          "id_str": "1598362594112413706",
+          "indices": [
+            51,
+            74
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fi6GT5RXoAopDdH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fi6GT5RXoAopDdH.jpg",
+          "sizes": {
+            "large": {
+              "h": 701,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 701,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 497,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Eh2lPvnsf1"
+        }
+      ]
+    },
+    "favorite_count": 7015,
+    "favorited": false,
+    "geo": null,
+    "id": 1598362597719277568,
+    "id_str": "1598362597719277568",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 734,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Kanye is on InfoWars with a Holy Bible in his hand https://t.co/Eh2lPvnsf1",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jul 15 20:59:06 +0000 2021",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "freedove.bigcartel.com/product/chitow…",
+              "expanded_url": "https://freedove.bigcartel.com/product/chitown-bear",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Z4FjojNAtQ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 13992,
+      "follow_request_sent": false,
+      "followers_count": 48454,
+      "following": false,
+      "friends_count": 427,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 1415777731535458304,
+      "id_str": "1415777731535458304",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 76,
+      "location": "",
+      "name": "Donda Times",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1415777731535458304/1643752897",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1488631918249787394/xyzvUozY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1488631918249787394/xyzvUozY_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "dondatimes",
+      "statuses_count": 4028,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Z4FjojNAtQ",
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @dondatimes: Kanye is on InfoWars with a Holy Bible in his hand https://t.co/Eh2lPvnsf1",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 9,
+    "follow_request_sent": false,
+    "followers_count": 32253242,
+    "following": true,
+    "friends_count": 209,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 43464,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1929,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true,
+    "withheld_in_countries": []
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun May 08 17:50:49 +0000 2016",
+  "deleted": true,
+  "favorite_count": 149887,
+  "hashtags": [],
+  "id": 729367967637458945,
+  "id_str": "729367967637458945",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/5EYVY5HGLj",
+      "expanded_url": "https://twitter.com/kanyewest/status/729367967637458945/photo/1",
+      "id": 729367966983196674,
+      "media_url": "http://pbs.twimg.com/media/Ch88TTaVEAI7ZKV.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Ch88TTaVEAI7ZKV.jpg",
+      "sizes": {
+        "large": {
+          "h": 1280,
+          "resize": "fit",
+          "w": 960
+        },
+        "medium": {
+          "h": 800,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 453,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/5EYVY5HGLj"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 38587,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Found this in Mom's storage.  I love and miss you. https://t.co/5EYVY5HGLj",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,169 @@
+{
+  "created_at": "Fri Nov 09 16:46:22 +0000 2018",
+  "deleted": false,
+  "hashtags": [],
+  "id": 1060936646365929472,
+  "id_str": "1060936646365929472",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/hz5tSYnia5",
+      "expanded_url": "https://twitter.com/colinags/status/1060934852604768256/photo/1",
+      "id": 1060934836326711296,
+      "media_url": "http://pbs.twimg.com/media/DrkynNEXQAAi7on.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DrkynNEXQAAi7on.jpg",
+      "sizes": {
+        "large": {
+          "h": 946,
+          "resize": "fit",
+          "w": 1162
+        },
+        "medium": {
+          "h": 946,
+          "resize": "fit",
+          "w": 1162
+        },
+        "small": {
+          "h": 554,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/hz5tSYnia5"
+    },
+    {
+      "display_url": "pic.twitter.com/hz5tSYnia5",
+      "expanded_url": "https://twitter.com/colinags/status/1060934852604768256/photo/1",
+      "id": 1060934836318359552,
+      "media_url": "http://pbs.twimg.com/media/DrkynNCX0AAgN52.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DrkynNCX0AAgN52.jpg",
+      "sizes": {
+        "large": {
+          "h": 1141,
+          "resize": "fit",
+          "w": 1242
+        },
+        "medium": {
+          "h": 1102,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 625,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/hz5tSYnia5"
+    }
+  ],
+  "retrieved": "2018-11-23--09-19-37",
+  "retweet_count": 424,
+  "retweeted_status": {
+    "created_at": "Fri Nov 09 16:39:14 +0000 2018",
+    "favorite_count": 4386,
+    "hashtags": [],
+    "id": 1060934852604768256,
+    "id_str": "1060934852604768256",
+    "lang": "en",
+    "media": [
+      {
+        "display_url": "pic.twitter.com/hz5tSYnia5",
+        "expanded_url": "https://twitter.com/colinags/status/1060934852604768256/photo/1",
+        "id": 1060934836326711296,
+        "media_url": "http://pbs.twimg.com/media/DrkynNEXQAAi7on.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrkynNEXQAAi7on.jpg",
+        "sizes": {
+          "large": {
+            "h": 946,
+            "resize": "fit",
+            "w": 1162
+          },
+          "medium": {
+            "h": 946,
+            "resize": "fit",
+            "w": 1162
+          },
+          "small": {
+            "h": 554,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/hz5tSYnia5"
+      },
+      {
+        "display_url": "pic.twitter.com/hz5tSYnia5",
+        "expanded_url": "https://twitter.com/colinags/status/1060934852604768256/photo/1",
+        "id": 1060934836318359552,
+        "media_url": "http://pbs.twimg.com/media/DrkynNCX0AAgN52.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrkynNCX0AAgN52.jpg",
+        "sizes": {
+          "large": {
+            "h": 1141,
+            "resize": "fit",
+            "w": 1242
+          },
+          "medium": {
+            "h": 1102,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 625,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/hz5tSYnia5"
+      }
+    ],
+    "possibly_sensitive": true,
+    "retweet_count": 424,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "this is how quick the 350s are selling out https://t.co/hz5tSYnia5",
+    "urls": [],
+    "user": {
+      "id": 4235737874
+    },
+    "user_mentions": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @colinags: this is how quick the 350s are selling out https://t.co/hz5tSYnia5",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 4235737874,
+      "name": "colin",
+      "screen_name": "colinags"
+    }
+  ]
+}

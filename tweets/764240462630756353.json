@@ -1,0 +1,52 @@
+{
+  "created_at": "Fri Aug 12 23:21:39 +0000 2016",
+  "deleted": true,
+  "favorite_count": 145261,
+  "hashtags": [],
+  "id": 764240462630756353,
+  "id_str": "764240462630756353",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/pCJCvph2Xr",
+      "expanded_url": "https://twitter.com/kanyewest/status/764240462630756353/photo/1",
+      "id": 764240311480639488,
+      "media_url": "http://pbs.twimg.com/media/Cpsgg6DWYAAVsDC.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Cpsgg6DWYAAVsDC.jpg",
+      "sizes": {
+        "large": {
+          "h": 580,
+          "resize": "fit",
+          "w": 435
+        },
+        "medium": {
+          "h": 580,
+          "resize": "fit",
+          "w": 435
+        },
+        "small": {
+          "h": 580,
+          "resize": "fit",
+          "w": 435
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/pCJCvph2Xr"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 28310,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "So Proud https://t.co/pCJCvph2Xr",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

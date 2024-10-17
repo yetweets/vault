@@ -1,0 +1,281 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jan 01 20:48:08 +0000 2019",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/Treysouls/stat…",
+        "expanded_url": "https://twitter.com/Treysouls/status/1080203440276627456",
+        "indices": [
+          49,
+          72
+        ],
+        "url": "https://t.co/P32M8jxgkK"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 3268437024,
+        "id_str": "3268437024",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "e",
+        "screen_name": "Thugtistics"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1080204046152040448,
+  "id_str": "1080204046152040448",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1080203440276627456,
+  "quoted_status_id_str": "1080203440276627456",
+  "retweet_count": 1704,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 01 20:46:36 +0000 2019",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/Treysouls/stat…",
+          "expanded_url": "https://twitter.com/Treysouls/status/1080203440276627456",
+          "indices": [
+            32,
+            55
+          ],
+          "url": "https://t.co/P32M8jxgkK"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 4947,
+    "favorited": false,
+    "geo": null,
+    "id": 1080203660691456000,
+    "id_str": "1080203660691456000",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Jan 01 20:45:44 +0000 2019",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 678,
+      "favorited": false,
+      "geo": null,
+      "id": 1080203440276627456,
+      "id_str": "1080203440276627456",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 471,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text": "I will never doubt myself again",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 08 22:45:11 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "No. 9 under the stars",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 92155,
+        "follow_request_sent": false,
+        "followers_count": 9256,
+        "following": false,
+        "friends_count": 632,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1578813518,
+        "id_str": "1578813518",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 76,
+        "location": "",
+        "name": "Turbo🔫",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1578813518/1593040145",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1292786060221718529/ZmcvtNy3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1292786060221718529/ZmcvtNy3_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Treysouls",
+        "statuses_count": 110694,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1080203440276627456,
+    "quoted_status_id_str": "1080203440276627456",
+    "retweet_count": 1704,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "have too much talent to do that https://t.co/P32M8jxgkK",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jul 04 23:05:11 +0000 2015",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "tapped into a new level",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 1027,
+      "follow_request_sent": false,
+      "followers_count": 6490,
+      "following": false,
+      "friends_count": 7120,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 3268437024,
+      "id_str": "3268437024",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 6,
+      "location": "",
+      "name": "e",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3268437024/1586200507",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1272155888908935172/FjuwRFog_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272155888908935172/FjuwRFog_normal.jpg",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Thugtistics",
+      "statuses_count": 3783,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @Thugtistics: have too much talent to do that https://t.co/P32M8jxgkK",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 30741012,
+    "following": true,
+    "friends_count": 258,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 44240,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1333,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

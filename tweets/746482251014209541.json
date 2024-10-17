@@ -1,0 +1,24 @@
+{
+  "created_at": "Fri Jun 24 23:16:52 +0000 2016",
+  "deleted": true,
+  "favorite_count": 8323,
+  "hashtags": [],
+  "id": 746482251014209541,
+  "id_str": "746482251014209541",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 2027,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Second Famous screening  just added \nhttps://t.co/chckJNGmTk",
+  "urls": [
+    {
+      "expanded_url": "https://m.ticketmaster.com/event/090050D8D26C70E6",
+      "url": "https://t.co/chckJNGmTk"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

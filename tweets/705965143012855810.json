@@ -1,0 +1,37 @@
+{
+  "created_at": "Sat Mar 05 03:56:20 +0000 2016",
+  "deleted": true,
+  "favorite_count": 14220,
+  "hashtags": [
+    {
+      "text": "Harlem"
+    },
+    {
+      "text": "QB"
+    }
+  ],
+  "id": 705965143012855810,
+  "id_str": "705965143012855810",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 5223,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "we need to bring Max B, Lord (Timothy Ballard) and Barkim back home @nas @FrenchMontana #Harlem #QB",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 96829836,
+      "name": "Nasir Jones",
+      "screen_name": "Nas"
+    },
+    {
+      "id": 18653699,
+      "name": "French Montana",
+      "screen_name": "FrencHMonTanA"
+    }
+  ]
+}

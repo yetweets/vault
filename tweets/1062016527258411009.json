@@ -1,0 +1,65 @@
+{
+  "created_at": "Mon Nov 12 16:17:26 +0000 2018",
+  "deleted": false,
+  "hashtags": [
+    {
+      "text": "PCAs"
+    }
+  ],
+  "id": 1062016527258411009,
+  "id_str": "1062016527258411009",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2018-11-23--09-19-37",
+  "retweet_count": 233,
+  "retweeted_status": {
+    "created_at": "Mon Nov 12 05:31:41 +0000 2018",
+    "favorite_count": 2336,
+    "hashtags": [
+      {
+        "text": "PCAs"
+      }
+    ],
+    "id": 1061854019616980992,
+    "id_str": "1061854019616980992",
+    "lang": "en",
+    "retweet_count": 233,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "The Kardashian’s Winning the #PCAs⁠⁠ for Best Reality TV Show of 2018💕@KimKardashian gave a classy speech like a pr… https://t.co/sFlgxGGEhF",
+    "truncated": true,
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/1061854019616980992",
+        "url": "https://t.co/sFlgxGGEhF"
+      }
+    ],
+    "user": {
+      "id": 4797080188
+    },
+    "user_mentions": [
+      {
+        "id": 25365536,
+        "name": "Kim Kardashian West",
+        "screen_name": "KimKardashian"
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @OKardashWest: The Kardashian’s Winning the #PCAs⁠⁠ for Best Reality TV Show of 2018💕@KimKardashian gave a classy speech like a presiden…",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 4797080188,
+      "name": "Ogechi🌚👑",
+      "screen_name": "OKardashWest"
+    },
+    {
+      "id": 25365536,
+      "name": "Kim Kardashian West",
+      "screen_name": "KimKardashian"
+    }
+  ]
+}

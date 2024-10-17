@@ -1,0 +1,52 @@
+{
+  "created_at": "Wed May 02 18:38:38 +0000 2018",
+  "deleted": true,
+  "favorite_count": 58831,
+  "hashtags": [],
+  "id": 991748818856173569,
+  "id_str": "991748818856173569",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/IknblRx4Pk",
+      "expanded_url": "https://twitter.com/kanyewest/status/991748818856173569/photo/1",
+      "id": 991748810782093312,
+      "media_url": "http://pbs.twimg.com/media/DcNmSfUVMAAZAlK.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DcNmSfUVMAAZAlK.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 946
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 554
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 314
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/IknblRx4Pk"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 7883,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "this is so helpful. I'm always a student. I'm learning about love https://t.co/IknblRx4Pk",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

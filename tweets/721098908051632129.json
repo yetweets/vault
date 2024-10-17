@@ -1,0 +1,70 @@
+{
+  "created_at": "Fri Apr 15 22:12:31 +0000 2016",
+  "deleted": true,
+  "favorite_count": 15104,
+  "hashtags": [],
+  "id": 721098908051632129,
+  "id_str": "721098908051632129",
+  "lang": "und",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/utUdOugetw",
+      "expanded_url": "https://twitter.com/kanyewest/status/721098908051632129/video/1",
+      "id": 721098632867348480,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/721098632867348480/pu/img/DymxwlUVnoq2-v_f.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/721098632867348480/pu/img/DymxwlUVnoq2-v_f.jpg",
+      "sizes": {
+        "large": {
+          "h": 192,
+          "resize": "fit",
+          "w": 108
+        },
+        "medium": {
+          "h": 192,
+          "resize": "fit",
+          "w": 108
+        },
+        "small": {
+          "h": 192,
+          "resize": "fit",
+          "w": 108
+        },
+        "thumb": {
+          "h": 108,
+          "resize": "crop",
+          "w": 108
+        }
+      },
+      "type": "video",
+      "url": "https://t.co/utUdOugetw",
+      "video_info": {
+        "aspect_ratio": [
+          9,
+          16
+        ],
+        "duration_millis": 30000,
+        "variants": [
+          {
+            "bitrate": 320000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/721098632867348480/pu/vid/108x192/3vy7XlgWqg8TFi3s.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/721098632867348480/pu/pl/JyU20hW1vfP4Q7K6.m3u8"
+          }
+        ]
+      }
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 3745,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Wes https://t.co/utUdOugetw",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

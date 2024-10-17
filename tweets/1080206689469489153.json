@@ -1,0 +1,378 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jan 01 20:58:38 +0000 2019",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/RDqTElWzdk",
+        "expanded_url": "https://twitter.com/Maha_Sattva/status/1080206656720564224/photo/1",
+        "id": 1080206650240352256,
+        "id_str": "1080206650240352256",
+        "indices": [
+          28,
+          51
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dv2qOaeXQAALeaK.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dv2qOaeXQAALeaK.jpg",
+        "sizes": {
+          "large": {
+            "h": 616,
+            "resize": "fit",
+            "w": 750
+          },
+          "medium": {
+            "h": 616,
+            "resize": "fit",
+            "w": 750
+          },
+          "small": {
+            "h": 559,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1080206656720564224,
+        "source_status_id_str": "1080206656720564224",
+        "source_user_id": 2730365430,
+        "source_user_id_str": "2730365430",
+        "type": "photo",
+        "url": "https://t.co/RDqTElWzdk"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2730365430,
+        "id_str": "2730365430",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Maha Sattva",
+        "screen_name": "Maha_Sattva"
+      },
+      {
+        "id": 169686021,
+        "id_str": "169686021",
+        "indices": [
+          17,
+          27
+        ],
+        "name": "ye",
+        "screen_name": "kanyewest"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/RDqTElWzdk",
+        "expanded_url": "https://twitter.com/Maha_Sattva/status/1080206656720564224/photo/1",
+        "id": 1080206650240352256,
+        "id_str": "1080206650240352256",
+        "indices": [
+          28,
+          51
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dv2qOaeXQAALeaK.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dv2qOaeXQAALeaK.jpg",
+        "sizes": {
+          "large": {
+            "h": 616,
+            "resize": "fit",
+            "w": 750
+          },
+          "medium": {
+            "h": 616,
+            "resize": "fit",
+            "w": 750
+          },
+          "small": {
+            "h": 559,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1080206656720564224,
+        "source_status_id_str": "1080206656720564224",
+        "source_user_id": 2730365430,
+        "source_user_id_str": "2730365430",
+        "type": "photo",
+        "url": "https://t.co/RDqTElWzdk"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1080206689469489153,
+  "id_str": "1080206689469489153",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 2446,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 01 20:58:30 +0000 2019",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/RDqTElWzdk",
+          "expanded_url": "https://twitter.com/Maha_Sattva/status/1080206656720564224/photo/1",
+          "id": 1080206650240352256,
+          "id_str": "1080206650240352256",
+          "indices": [
+            11,
+            34
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dv2qOaeXQAALeaK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dv2qOaeXQAALeaK.jpg",
+          "sizes": {
+            "large": {
+              "h": 616,
+              "resize": "fit",
+              "w": 750
+            },
+            "medium": {
+              "h": 616,
+              "resize": "fit",
+              "w": 750
+            },
+            "small": {
+              "h": 559,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/RDqTElWzdk"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 169686021,
+          "id_str": "169686021",
+          "indices": [
+            0,
+            10
+          ],
+          "name": "ye",
+          "screen_name": "kanyewest"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/RDqTElWzdk",
+          "expanded_url": "https://twitter.com/Maha_Sattva/status/1080206656720564224/photo/1",
+          "id": 1080206650240352256,
+          "id_str": "1080206650240352256",
+          "indices": [
+            11,
+            34
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dv2qOaeXQAALeaK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dv2qOaeXQAALeaK.jpg",
+          "sizes": {
+            "large": {
+              "h": 616,
+              "resize": "fit",
+              "w": 750
+            },
+            "medium": {
+              "h": 616,
+              "resize": "fit",
+              "w": 750
+            },
+            "small": {
+              "h": 559,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/RDqTElWzdk"
+        }
+      ]
+    },
+    "favorite_count": 22907,
+    "favorited": false,
+    "geo": null,
+    "id": 1080206656720564224,
+    "id_str": "1080206656720564224",
+    "in_reply_to_screen_name": "kanyewest",
+    "in_reply_to_status_id": 1080206072424521728,
+    "in_reply_to_status_id_str": "1080206072424521728",
+    "in_reply_to_user_id": 169686021,
+    "in_reply_to_user_id_str": "169686021",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2446,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@kanyewest https://t.co/RDqTElWzdk",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Aug 13 22:03:54 +0000 2014",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Artist; 28 Year Old Oil Painter from Wisconsin",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "maha-sattva.com",
+              "expanded_url": "http://www.maha-sattva.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/lTZI4lKv1j"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2049,
+      "follow_request_sent": false,
+      "followers_count": 11388,
+      "following": false,
+      "friends_count": 33,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2730365430,
+      "id_str": "2730365430",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8,
+      "location": "",
+      "name": "Maha Sattva",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2730365430/1595524416",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1283753922210017283/ouDjLLjW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283753922210017283/ouDjLLjW_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Maha_Sattva",
+      "statuses_count": 8770,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/lTZI4lKv1j",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @Maha_Sattva: @kanyewest https://t.co/RDqTElWzdk",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 30760502,
+    "following": true,
+    "friends_count": 259,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 44256,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1358,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Sep 17 22:49:44 +0000 2018",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          31,
+          43
+        ],
+        "text": "SNLPremiere"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/r7o6nO5nyv",
+        "expanded_url": "https://twitter.com/nbcsnl/status/1041772068419715072/photo/1",
+        "id": 1041771857937084418,
+        "id_str": "1041771857937084418",
+        "indices": [
+          44,
+          67
+        ],
+        "media_url": "http://pbs.twimg.com/media/DnUd_DlWsAIi7JI.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DnUd_DlWsAIi7JI.jpg",
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1041772068419715072,
+        "source_status_id_str": "1041772068419715072",
+        "source_user_id": 28221296,
+        "source_user_id_str": "28221296",
+        "type": "photo",
+        "url": "https://t.co/r7o6nO5nyv"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 28221296,
+        "id_str": "28221296",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "Saturday Night Live - SNL",
+        "screen_name": "nbcsnl"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/r7o6nO5nyv",
+        "expanded_url": "https://twitter.com/nbcsnl/status/1041772068419715072/photo/1",
+        "id": 1041771857937084418,
+        "id_str": "1041771857937084418",
+        "indices": [
+          44,
+          67
+        ],
+        "media_url": "http://pbs.twimg.com/media/DnUd_DlWsAIi7JI.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DnUd_DlWsAIi7JI.jpg",
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1041772068419715072,
+        "source_status_id_str": "1041772068419715072",
+        "source_user_id": 28221296,
+        "source_user_id_str": "28221296",
+        "type": "photo",
+        "url": "https://t.co/r7o6nO5nyv"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1041821536137568256,
+  "id_str": "1041821536137568256",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 5541,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 17 19:33:10 +0000 2018",
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            19,
+            31
+          ],
+          "text": "SNLPremiere"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/r7o6nO5nyv",
+          "expanded_url": "https://twitter.com/nbcsnl/status/1041772068419715072/photo/1",
+          "id": 1041771857937084418,
+          "id_str": "1041771857937084418",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnUd_DlWsAIi7JI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnUd_DlWsAIi7JI.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/r7o6nO5nyv"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/r7o6nO5nyv",
+          "expanded_url": "https://twitter.com/nbcsnl/status/1041772068419715072/photo/1",
+          "id": 1041771857937084418,
+          "id_str": "1041771857937084418",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnUd_DlWsAIi7JI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnUd_DlWsAIi7JI.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/r7o6nO5nyv"
+        }
+      ]
+    },
+    "favorite_count": 30268,
+    "favorited": false,
+    "geo": null,
+    "id": 1041772068419715072,
+    "id_str": "1041772068419715072",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5541,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Big day, big news. #SNLPremiere https://t.co/r7o6nO5nyv",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Apr 01 23:06:46 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official Twitter for Saturday Night Live. Watch live coast to coast Saturdays at 11:30 ET/8:30 PT on @NBC.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nbc.com/snl/",
+              "expanded_url": "http://nbc.com/snl/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/GuHv1SnCkO"
+            }
+          ]
+        }
+      },
+      "favourites_count": 8247,
+      "follow_request_sent": false,
+      "followers_count": 2410492,
+      "following": false,
+      "friends_count": 622,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 28221296,
+      "id_str": "28221296",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 8917,
+      "location": "NBC",
+      "name": "Saturday Night Live - SNL",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/28221296/1503675485",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/925021095350153217/dkWHR2Mg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/925021095350153217/dkWHR2Mg_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "nbcsnl",
+      "statuses_count": 18878,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/GuHv1SnCkO",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @nbcsnl: Big day, big news. #SNLPremiere https://t.co/r7o6nO5nyv",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

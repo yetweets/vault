@@ -1,0 +1,222 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Oct 30 11:25:32 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "BEWOKE.VOTE",
+        "expanded_url": "http://BEWOKE.VOTE",
+        "indices": [
+          64,
+          87
+        ],
+        "url": "https://t.co/HMG1Wp4dJY"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 25365536,
+        "id_str": "25365536",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Kim Kardashian West",
+        "screen_name": "KimKardashian"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1057232027995553794,
+  "id_str": "1057232027995553794",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 451,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 29 22:54:50 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "BEWOKE.VOTE",
+          "expanded_url": "http://BEWOKE.VOTE",
+          "indices": [
+            45,
+            68
+          ],
+          "url": "https://t.co/HMG1Wp4dJY"
+        },
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1057043109207400453",
+          "indices": [
+            118,
+            141
+          ],
+          "url": "https://t.co/mjkvkd1xnq"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 4319,
+    "favorited": false,
+    "geo": null,
+    "id": 1057043109207400453,
+    "id_str": "1057043109207400453",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 451,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Please check out exclusive interviews now on https://t.co/HMG1Wp4dJY site! Everyone needs to get out &amp; vote now!… https://t.co/mjkvkd1xnq",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 19 19:21:56 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@KKWBEAUTY @KKWFRAGRANCE",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "KKWBEAUTY.COM",
+              "expanded_url": "http://KKWBEAUTY.COM",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/1GAnUjOqG1"
+            }
+          ]
+        }
+      },
+      "favourites_count": 9,
+      "follow_request_sent": false,
+      "followers_count": 60003624,
+      "following": true,
+      "friends_count": 146,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25365536,
+      "id_str": "25365536",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 81988,
+      "location": " ",
+      "name": "Kim Kardashian West",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25365536/1483463179",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1044786302443372544/3bIbMHgS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044786302443372544/3bIbMHgS_normal.jpg",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KimKardashian",
+      "statuses_count": 28952,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/1GAnUjOqG1",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @KimKardashian: Please check out exclusive interviews now on https://t.co/HMG1Wp4dJY site! Everyone needs to get out &amp; vote now!  #youar…",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "created_at": "Wed Apr 25 15:26:43 +0000 2018",
+  "deleted": true,
+  "favorite_count": 34778,
+  "hashtags": [],
+  "id": 989163803626516482,
+  "id_str": "989163803626516482",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/nJQdQ2aVKn",
+      "expanded_url": "https://twitter.com/kanyewest/status/989163803626516482/photo/1",
+      "id": 989163798845050880,
+      "media_url": "http://pbs.twimg.com/media/Dbo3O_bV0AA9kHr.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Dbo3O_bV0AA9kHr.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 1536
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 900
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 510
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/nJQdQ2aVKn"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 4581,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "more tweets from the sunken place 😂 https://t.co/nJQdQ2aVKn",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

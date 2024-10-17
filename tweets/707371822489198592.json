@@ -1,0 +1,25 @@
+{
+  "created_at": "Wed Mar 09 01:05:59 +0000 2016",
+  "deleted": true,
+  "favorite_count": 37951,
+  "hashtags": [],
+  "id": 707371822489198592,
+  "id_str": "707371822489198592",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 16476,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": ". @Adidas is making a million Yeezys this year, opening up new factories…",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 300114634,
+      "name": "adidas",
+      "screen_name": "adidas"
+    }
+  ]
+}

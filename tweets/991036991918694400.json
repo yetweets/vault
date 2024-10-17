@@ -1,0 +1,145 @@
+{
+  "created_at": "Mon Apr 30 19:30:06 +0000 2018",
+  "deleted": true,
+  "favorite_count": 7866,
+  "hashtags": [],
+  "id": 991036991918694400,
+  "id_str": "991036991918694400",
+  "lang": "und",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/kuyAZxv85h",
+      "expanded_url": "https://twitter.com/kanyewest/status/991036991918694400/photo/1",
+      "id": 991036976768868352,
+      "media_url": "http://pbs.twimg.com/media/DcDe4S-V4AAOJDw.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DcDe4S-V4AAOJDw.jpg",
+      "sizes": {
+        "large": {
+          "h": 1536,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 900,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 510,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/kuyAZxv85h"
+    },
+    {
+      "display_url": "pic.twitter.com/kuyAZxv85h",
+      "expanded_url": "https://twitter.com/kanyewest/status/991036991918694400/photo/1",
+      "id": 991036976760479745,
+      "media_url": "http://pbs.twimg.com/media/DcDe4S8V4AE37fx.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DcDe4S8V4AE37fx.jpg",
+      "sizes": {
+        "large": {
+          "h": 1536,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 900,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 510,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/kuyAZxv85h"
+    },
+    {
+      "display_url": "pic.twitter.com/kuyAZxv85h",
+      "expanded_url": "https://twitter.com/kanyewest/status/991036991918694400/photo/1",
+      "id": 991036976760471553,
+      "media_url": "http://pbs.twimg.com/media/DcDe4S8VwAE6FLV.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DcDe4S8VwAE6FLV.jpg",
+      "sizes": {
+        "large": {
+          "h": 1536,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 900,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 510,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/kuyAZxv85h"
+    },
+    {
+      "display_url": "pic.twitter.com/kuyAZxv85h",
+      "expanded_url": "https://twitter.com/kanyewest/status/991036991918694400/photo/1",
+      "id": 991036976760373249,
+      "media_url": "http://pbs.twimg.com/media/DcDe4S8UQAEh7aZ.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DcDe4S8UQAEh7aZ.jpg",
+      "sizes": {
+        "large": {
+          "h": 1536,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 900,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 510,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/kuyAZxv85h"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 661,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "https://t.co/kuyAZxv85h",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

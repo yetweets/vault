@@ -1,0 +1,173 @@
+{
+  "created_at": "Tue Oct 30 16:53:38 +0000 2018",
+  "deleted": false,
+  "hashtags": [],
+  "id": 1057314596791468032,
+  "id_str": "1057314596791468032",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/FXFrbE9Hjp",
+      "expanded_url": "https://twitter.com/petemhn/status/1056928296011776000/video/1",
+      "id": 1056928132157059073,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056928132157059073/pu/img/J7nt3ePxRK2JPZMd.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056928132157059073/pu/img/J7nt3ePxRK2JPZMd.jpg",
+      "sizes": {
+        "large": {
+          "h": 720,
+          "resize": "fit",
+          "w": 1280
+        },
+        "medium": {
+          "h": 675,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 383,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "video",
+      "url": "https://t.co/FXFrbE9Hjp",
+      "video_info": {
+        "aspect_ratio": [
+          16,
+          9
+        ],
+        "duration_millis": 8040,
+        "variants": [
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1056928132157059073/pu/vid/640x360/N7eCJxo4bpthJdGo.mp4?tag=5"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1056928132157059073/pu/pl/8w9KapU1wEuqn-u7.m3u8?tag=5"
+          },
+          {
+            "bitrate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1056928132157059073/pu/vid/320x180/rmYfs9ECzWHkFjJi.mp4?tag=5"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1056928132157059073/pu/vid/1280x720/5z42TAiSxMY5HxFE.mp4?tag=5"
+          }
+        ]
+      }
+    }
+  ],
+  "retrieved": "2018-10-31--14-13-30",
+  "retweet_count": 1819,
+  "retweeted_status": {
+    "created_at": "Mon Oct 29 15:18:37 +0000 2018",
+    "favorite_count": 8849,
+    "hashtags": [],
+    "id": 1056928296011776000,
+    "id_str": "1056928296011776000",
+    "lang": "en",
+    "media": [
+      {
+        "display_url": "pic.twitter.com/FXFrbE9Hjp",
+        "expanded_url": "https://twitter.com/petemhn/status/1056928296011776000/video/1",
+        "id": 1056928132157059073,
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056928132157059073/pu/img/J7nt3ePxRK2JPZMd.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056928132157059073/pu/img/J7nt3ePxRK2JPZMd.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/FXFrbE9Hjp",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 8040,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1056928132157059073/pu/vid/640x360/N7eCJxo4bpthJdGo.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1056928132157059073/pu/pl/8w9KapU1wEuqn-u7.m3u8?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1056928132157059073/pu/vid/320x180/rmYfs9ECzWHkFjJi.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1056928132157059073/pu/vid/1280x720/5z42TAiSxMY5HxFE.mp4?tag=5"
+            }
+          ]
+        }
+      }
+    ],
+    "retweet_count": 1819,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": ".@kanyewest this is how it's going to feel to play YANDHI for the first time https://t.co/FXFrbE9Hjp",
+    "urls": [],
+    "user": {
+      "id": 2221804583
+    },
+    "user_mentions": [
+      {
+        "id": 169686021,
+        "name": "ye",
+        "screen_name": "kanyewest"
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @petemhn: .@kanyewest this is how it's going to feel to play YANDHI for the first time https://t.co/FXFrbE9Hjp",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 2221804583,
+      "name": "pete",
+      "screen_name": "petemhn"
+    },
+    {
+      "id": 169686021,
+      "name": "ye",
+      "screen_name": "kanyewest"
+    }
+  ]
+}

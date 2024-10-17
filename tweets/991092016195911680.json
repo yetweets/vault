@@ -1,0 +1,80 @@
+{
+  "created_at": "Mon Apr 30 23:08:44 +0000 2018",
+  "deleted": true,
+  "favorite_count": 13399,
+  "hashtags": [],
+  "id": 991092016195911680,
+  "id_str": "991092016195911680",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/FlNgliReGv",
+      "expanded_url": "https://twitter.com/kanyewest/status/991092016195911680/video/1",
+      "id": 991091953990189057,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/991091953990189057/pu/img/h2QqkBL3Wbayj-i4.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/991091953990189057/pu/img/h2QqkBL3Wbayj-i4.jpg",
+      "sizes": {
+        "large": {
+          "h": 1280,
+          "resize": "fit",
+          "w": 720
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 675
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 383
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "video",
+      "url": "https://t.co/FlNgliReGv",
+      "video_info": {
+        "aspect_ratio": [
+          9,
+          16
+        ],
+        "duration_millis": 8598,
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/991091953990189057/pu/pl/Iq1NtSzELQ4b9Gbc.m3u8?tag=3"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/991091953990189057/pu/vid/720x1280/TweYmUcpyHh74BqM.mp4?tag=3"
+          },
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/991091953990189057/pu/vid/360x640/tsgixRFgzsK6nL_A.mp4?tag=3"
+          },
+          {
+            "bitrate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/991091953990189057/pu/vid/180x320/SpEPd8urpKkrlDs0.mp4?tag=3"
+          }
+        ]
+      }
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 1353,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Eli with the drip https://t.co/FlNgliReGv",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

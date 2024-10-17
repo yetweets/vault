@@ -1,0 +1,52 @@
+{
+  "created_at": "Wed Apr 25 14:55:23 +0000 2018",
+  "deleted": true,
+  "favorite_count": 94814,
+  "hashtags": [],
+  "id": 989155921048756224,
+  "id_str": "989155921048756224",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/eZxxEucALw",
+      "expanded_url": "https://twitter.com/kanyewest/status/989155921048756224/photo/1",
+      "id": 989155913679302656,
+      "media_url": "http://pbs.twimg.com/media/DbowEA5U8AAAOS0.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DbowEA5U8AAAOS0.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 1536
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 900
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 510
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/eZxxEucALw"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 9369,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "North found a lady bug 🐜 🐛 🕷 😊🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 https://t.co/eZxxEucALw",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

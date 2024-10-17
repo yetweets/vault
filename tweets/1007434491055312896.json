@@ -1,0 +1,125 @@
+{
+  "created_at": "Fri Jun 15 01:27:54 +0000 2018",
+  "deleted": true,
+  "hashtags": [
+    {
+      "text": "NASIR"
+    }
+  ],
+  "id": 1007434491055312896,
+  "id_str": "1007434491055312896",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/gpRUBT7FPU",
+      "expanded_url": "https://twitter.com/Nas/status/1007400462973169664/photo/1",
+      "id": 1007399441433686016,
+      "media_url": "http://pbs.twimg.com/media/DfsAdF2U8AAz1f_.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DfsAdF2U8AAz1f_.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/gpRUBT7FPU"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 26217,
+  "retweeted_status": {
+    "created_at": "Thu Jun 14 23:12:41 +0000 2018",
+    "favorite_count": 58812,
+    "hashtags": [
+      {
+        "text": "NASIR"
+      }
+    ],
+    "id": 1007400462973169664,
+    "id_str": "1007400462973169664",
+    "lang": "en",
+    "media": [
+      {
+        "display_url": "pic.twitter.com/gpRUBT7FPU",
+        "expanded_url": "https://twitter.com/Nas/status/1007400462973169664/photo/1",
+        "id": 1007399441433686016,
+        "media_url": "http://pbs.twimg.com/media/DfsAdF2U8AAz1f_.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DfsAdF2U8AAz1f_.jpg",
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/gpRUBT7FPU"
+      }
+    ],
+    "retweet_count": 26217,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "The Kids Are Our Future. NASIR out everywhere tomorrow! Executive Produced by @kanyewest #NASIR https://t.co/gpRUBT7FPU",
+    "urls": [],
+    "user": {
+      "id": 96829836
+    },
+    "user_mentions": [
+      {
+        "id": 169686021,
+        "name": "KANYE WEST",
+        "screen_name": "kanyewest"
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @Nas: The Kids Are Our Future. NASIR out everywhere tomorrow! Executive Produced by @kanyewest #NASIR https://t.co/gpRUBT7FPU",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 96829836,
+      "name": "Nasir Jones",
+      "screen_name": "Nas"
+    },
+    {
+      "id": 169686021,
+      "name": "KANYE WEST",
+      "screen_name": "kanyewest"
+    }
+  ]
+}

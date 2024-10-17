@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat Jun 16 04:39:05 +0000 2018",
+  "deleted": true,
+  "favorite_count": 51332,
+  "hashtags": [],
+  "id": 1007844989806579712,
+  "id_str": "1007844989806579712",
+  "lang": "und",
+  "legacy_imported": true,
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 12374,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "https://t.co/sxOn37QP0h",
+  "urls": [
+    {
+      "expanded_url": "https://nas.lnk.to/Nasir",
+      "url": "https://t.co/sxOn37QP0h"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

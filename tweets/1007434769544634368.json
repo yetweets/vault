@@ -1,0 +1,247 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jun 15 01:29:00 +0000 2018",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          90,
+          96
+        ],
+        "text": "NASIR"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "youtu.be/LHdd2f-9dEc",
+        "expanded_url": "https://youtu.be/LHdd2f-9dEc",
+        "indices": [
+          66,
+          89
+        ],
+        "url": "https://t.co/KF1DIxFaw4"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 96829836,
+        "id_str": "96829836",
+        "indices": [
+          3,
+          7
+        ],
+        "name": "Nasir Jones",
+        "screen_name": "Nas"
+      },
+      {
+        "id": 880142286176231425,
+        "id_str": "880142286176231425",
+        "indices": [
+          50,
+          63
+        ],
+        "name": "YouTube Music",
+        "screen_name": "youtubemusic"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1007434769544634368,
+  "id_str": "1007434769544634368",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 3951,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 15 00:38:54 +0000 2018",
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            81,
+            87
+          ],
+          "text": "NASIR"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "youtu.be/LHdd2f-9dEc",
+          "expanded_url": "https://youtu.be/LHdd2f-9dEc",
+          "indices": [
+            57,
+            80
+          ],
+          "url": "https://t.co/KF1DIxFaw4"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 880142286176231425,
+          "id_str": "880142286176231425",
+          "indices": [
+            41,
+            54
+          ],
+          "name": "YouTube Music",
+          "screen_name": "youtubemusic"
+        }
+      ]
+    },
+    "favorite_count": 13445,
+    "favorited": false,
+    "geo": null,
+    "id": 1007422159319228417,
+    "id_str": "1007422159319228417",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3951,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "My album release party tonight LIVE with @YouTubeMusic → https://t.co/KF1DIxFaw4 #NASIR",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Dec 14 20:03:45 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "#NASIR album out now!  https://t.co/0sAFnQCZX5",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "nas.lnk.to/Nasir",
+              "expanded_url": "https://nas.lnk.to/Nasir",
+              "indices": [
+                23,
+                46
+              ],
+              "url": "https://t.co/0sAFnQCZX5"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7,
+      "follow_request_sent": false,
+      "followers_count": 2278951,
+      "following": false,
+      "friends_count": 194,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 96829836,
+      "id_str": "96829836",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 8669,
+      "location": "NYC",
+      "name": "Nasir Jones",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/96829836/1529121822",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/561373039611633664/nz0FbI_m_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/561373039611633664/nz0FbI_m_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Nas",
+      "statuses_count": 5260,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @Nas: My album release party tonight LIVE with @YouTubeMusic → https://t.co/KF1DIxFaw4 #NASIR",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "created_at": "Wed Mar 09 23:31:02 +0000 2016",
+  "deleted": true,
+  "favorite_count": 24887,
+  "hashtags": [],
+  "id": 707710313932713985,
+  "id_str": "707710313932713985",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 9886,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "If you wouldn’t invite me to your house then don’t invite me to your show.",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

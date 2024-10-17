@@ -1,0 +1,19 @@
+{
+  "created_at": "Wed Mar 09 23:24:05 +0000 2016",
+  "deleted": true,
+  "favorite_count": 8207,
+  "hashtags": [],
+  "id": 707708564576608256,
+  "id_str": "707708564576608256",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 1576,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Sorry I couldn’t be at Virgil’s show because I had a meeting in another city.",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

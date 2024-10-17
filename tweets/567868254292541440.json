@@ -1,0 +1,40 @@
+{
+  "created_at": "Wed Feb 18 02:08:36 +0000 2015",
+  "deleted": true,
+  "favorite_count": 3243,
+  "hashtags": [
+    {
+      "text": "NAACP"
+    },
+    {
+      "text": "BHP2"
+    }
+  ],
+  "id": 567868254292541440,
+  "id_str": "567868254292541440",
+  "in_reply_to_screen_name": "CyhiThePrynce",
+  "in_reply_to_user_id": 94338259,
+  "lang": "und",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2018-04-15--23-57-35",
+  "retweet_count": 1809,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "@cyhitheprynce #NAACP #BHP2 https://t.co/qzYsutMFrN",
+  "urls": [
+    {
+      "expanded_url": "https://soundcloud.com/1cyhitheprynce/sets/bhp2-naacp",
+      "url": "https://t.co/qzYsutMFrN"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 94338259,
+      "name": "CYHI THE PRYNCE",
+      "screen_name": "CyhiThePrynce"
+    }
+  ]
+}

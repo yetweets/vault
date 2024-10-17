@@ -1,0 +1,58 @@
+{
+  "created_at": "Tue Nov 19 19:01:36 +0000 2013",
+  "deleted": true,
+  "favorite_count": 10317,
+  "hashtags": [],
+  "id": 402874313486774274,
+  "id_str": "402874313486774274",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/ojSNK8IRWI",
+      "expanded_url": "https://twitter.com/kanyewest/status/402874313486774274/photo/1",
+      "id": 402874313495162880,
+      "media_url": "http://pbs.twimg.com/media/BZdMDbkCMAAV3yE.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/BZdMDbkCMAAV3yE.jpg",
+      "sizes": {
+        "large": {
+          "h": 607,
+          "resize": "fit",
+          "w": 609
+        },
+        "medium": {
+          "h": 598,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 339,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/ojSNK8IRWI"
+    }
+  ],
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 9029,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "BOUND 2 VIDEO @ http://t.co/shjFIROujA http://t.co/ojSNK8IRWI",
+  "urls": [
+    {
+      "expanded_url": "http://kanyewest.com",
+      "url": "http://t.co/shjFIROujA"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

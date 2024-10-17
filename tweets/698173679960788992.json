@@ -1,0 +1,24 @@
+{
+  "created_at": "Fri Feb 12 15:55:51 +0000 2016",
+  "deleted": true,
+  "favorite_count": 54792,
+  "hashtags": [],
+  "id": 698173679960788992,
+  "id_str": "698173679960788992",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 42332,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Now that the album is finally finished it’s back to Good Fridays. https://t.co/j5vq347xCC",
+  "urls": [
+    {
+      "expanded_url": "http://bit.ly/1LkZ3rC",
+      "url": "https://t.co/j5vq347xCC"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

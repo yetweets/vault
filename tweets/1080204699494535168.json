@@ -1,0 +1,359 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jan 01 20:50:44 +0000 2019",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/btopYDbxBA",
+        "expanded_url": "https://twitter.com/IconicYeezy/status/1080204587804647424/photo/1",
+        "id": 1080204566757548032,
+        "id_str": "1080204566757548032",
+        "indices": [
+          17,
+          40
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dv2oVI5WoAAUrpX.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dv2oVI5WoAAUrpX.jpg",
+        "sizes": {
+          "large": {
+            "h": 280,
+            "resize": "fit",
+            "w": 500
+          },
+          "medium": {
+            "h": 280,
+            "resize": "fit",
+            "w": 500
+          },
+          "small": {
+            "h": 280,
+            "resize": "fit",
+            "w": 500
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1080204587804647424,
+        "source_status_id_str": "1080204587804647424",
+        "source_user_id": 992944112709132289,
+        "source_user_id_str": "992944112709132289",
+        "type": "photo",
+        "url": "https://t.co/btopYDbxBA"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/btopYDbxBA",
+        "expanded_url": "https://twitter.com/IconicYeezy/status/1080204587804647424/photo/1",
+        "id": 1080204566757548032,
+        "id_str": "1080204566757548032",
+        "indices": [
+          17,
+          40
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dv2oVI5WoAAUrpX.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dv2oVI5WoAAUrpX.jpg",
+        "sizes": {
+          "large": {
+            "h": 280,
+            "resize": "fit",
+            "w": 500
+          },
+          "medium": {
+            "h": 280,
+            "resize": "fit",
+            "w": 500
+          },
+          "small": {
+            "h": 280,
+            "resize": "fit",
+            "w": 500
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1080204587804647424,
+        "source_status_id_str": "1080204587804647424",
+        "source_user_id": 992944112709132289,
+        "source_user_id_str": "992944112709132289",
+        "type": "animated_gif",
+        "url": "https://t.co/btopYDbxBA",
+        "video_info": {
+          "aspect_ratio": [
+            25,
+            14
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/Dv2oVI5WoAAUrpX.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1080204699494535168,
+  "id_str": "1080204699494535168",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 730,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 01 20:50:17 +0000 2019",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/btopYDbxBA",
+          "expanded_url": "https://twitter.com/IconicYeezy/status/1080204587804647424/photo/1",
+          "id": 1080204566757548032,
+          "id_str": "1080204566757548032",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dv2oVI5WoAAUrpX.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dv2oVI5WoAAUrpX.jpg",
+          "sizes": {
+            "large": {
+              "h": 280,
+              "resize": "fit",
+              "w": 500
+            },
+            "medium": {
+              "h": 280,
+              "resize": "fit",
+              "w": 500
+            },
+            "small": {
+              "h": 280,
+              "resize": "fit",
+              "w": 500
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/btopYDbxBA"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/btopYDbxBA",
+          "expanded_url": "https://twitter.com/IconicYeezy/status/1080204587804647424/photo/1",
+          "id": 1080204566757548032,
+          "id_str": "1080204566757548032",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dv2oVI5WoAAUrpX.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dv2oVI5WoAAUrpX.jpg",
+          "sizes": {
+            "large": {
+              "h": 280,
+              "resize": "fit",
+              "w": 500
+            },
+            "medium": {
+              "h": 280,
+              "resize": "fit",
+              "w": 500
+            },
+            "small": {
+              "h": 280,
+              "resize": "fit",
+              "w": 500
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/btopYDbxBA",
+          "video_info": {
+            "aspect_ratio": [
+              25,
+              14
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/Dv2oVI5WoAAUrpX.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 4902,
+    "favorited": false,
+    "geo": null,
+    "id": 1080204587804647424,
+    "id_str": "1080204587804647424",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 730,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "https://t.co/btopYDbxBA",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun May 06 01:48:19 +0000 2018",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Kanye West Propaganda Machine",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 208,
+      "follow_request_sent": false,
+      "followers_count": 2578,
+      "following": false,
+      "friends_count": 127,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 992944112709132289,
+      "id_str": "992944112709132289",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 5,
+      "location": "",
+      "name": "KWC",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/992944112709132289/1550962249",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1108096252141547522/htRXTbZM_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108096252141547522/htRXTbZM_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KanyeWestClips",
+      "statuses_count": 912,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @IconicYeezy: https://t.co/btopYDbxBA",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29265776,
+    "following": true,
+    "friends_count": 269,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49863,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1173,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

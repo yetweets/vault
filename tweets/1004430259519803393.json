@@ -1,0 +1,65 @@
+{
+  "created_at": "Wed Jun 06 18:30:09 +0000 2018",
+  "deleted": true,
+  "hashtags": [
+    {
+      "text": "AliceMarieJohnson"
+    }
+  ],
+  "id": 1004430259519803393,
+  "id_str": "1004430259519803393",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 9074,
+  "retweeted_status": {
+    "created_at": "Wed Jun 06 16:35:37 +0000 2018",
+    "favorite_count": 28152,
+    "hashtags": [
+      {
+        "text": "AliceMarieJohnson"
+      }
+    ],
+    "id": 1004401435658936320,
+    "id_str": "1004401435658936320",
+    "lang": "en",
+    "retweet_count": 9074,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+    "text": "BREAKING: President Trump has granted clemency to #AliceMarieJohnson after meeting with @KimKardashian West to talk… https://t.co/miLhO65DHL",
+    "truncated": true,
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/1004401435658936320",
+        "url": "https://t.co/miLhO65DHL"
+      }
+    ],
+    "user": {
+      "id": 139909832
+    },
+    "user_mentions": [
+      {
+        "id": 25365536,
+        "name": "Kim Kardashian West",
+        "screen_name": "KimKardashian"
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @mic: BREAKING: President Trump has granted clemency to #AliceMarieJohnson after meeting with @KimKardashian West to talk about her case…",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 139909832,
+      "name": "Mic",
+      "screen_name": "mic"
+    },
+    {
+      "id": 25365536,
+      "name": "Kim Kardashian West",
+      "screen_name": "KimKardashian"
+    }
+  ]
+}

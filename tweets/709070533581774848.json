@@ -1,0 +1,25 @@
+{
+  "created_at": "Sun Mar 13 17:36:03 +0000 2016",
+  "deleted": true,
+  "favorite_count": 146300,
+  "hashtags": [],
+  "id": 709070533581774848,
+  "id_str": "709070533581774848",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 94850,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "What do you mean by @JustinBieber was my favorite song of 2015",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 27260086,
+      "name": "Justin Bieber",
+      "screen_name": "justinbieber"
+    }
+  ]
+}

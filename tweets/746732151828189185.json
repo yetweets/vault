@@ -1,0 +1,58 @@
+{
+  "created_at": "Sat Jun 25 15:49:53 +0000 2016",
+  "deleted": true,
+  "favorite_count": 19289,
+  "hashtags": [],
+  "id": 746732151828189185,
+  "id_str": "746732151828189185",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/TmPvfb5Odq",
+      "expanded_url": "https://twitter.com/kanyewest/status/746732151828189185/photo/1",
+      "id": 746731956503601152,
+      "media_url": "http://pbs.twimg.com/media/ClzswhHUYAA_ULL.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/ClzswhHUYAA_ULL.jpg",
+      "sizes": {
+        "large": {
+          "h": 480,
+          "resize": "fit",
+          "w": 960
+        },
+        "medium": {
+          "h": 480,
+          "resize": "fit",
+          "w": 960
+        },
+        "small": {
+          "h": 340,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/TmPvfb5Odq"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 4748,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Sooooo good! @therealkidult https://t.co/TmPvfb5Odq",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 434504380,
+      "name": "KIDULT",
+      "screen_name": "therealkidult"
+    }
+  ]
+}

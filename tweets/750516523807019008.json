@@ -1,0 +1,24 @@
+{
+  "created_at": "Wed Jul 06 02:27:37 +0000 2016",
+  "deleted": true,
+  "favorite_count": 7519,
+  "hashtags": [],
+  "id": 750516523807019008,
+  "id_str": "750516523807019008",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 2019,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Jay hype https://t.co/keMAUx8ur9",
+  "urls": [
+    {
+      "expanded_url": "https://soundcloud.com/jayhypegod/sets/who-did-it-better",
+      "url": "https://t.co/keMAUx8ur9"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

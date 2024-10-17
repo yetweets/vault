@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun Apr 29 05:34:26 +0000 2018",
+  "deleted": true,
+  "favorite_count": 150705,
+  "hashtags": [],
+  "id": 990464301386293248,
+  "id_str": "990464301386293248",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/Jdo82LtW7a",
+      "expanded_url": "https://twitter.com/kanyewest/status/990464301386293248/photo/1",
+      "id": 990464293358395392,
+      "media_url": "http://pbs.twimg.com/media/Db7WBvBV4AAQ3KS.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Db7WBvBV4AAQ3KS.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 1536
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 900
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 510
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/Jdo82LtW7a"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 19363,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Happy birthday Trav https://t.co/Jdo82LtW7a",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

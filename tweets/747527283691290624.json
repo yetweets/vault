@@ -1,0 +1,24 @@
+{
+  "created_at": "Mon Jun 27 20:29:27 +0000 2016",
+  "deleted": true,
+  "favorite_count": 11204,
+  "hashtags": [],
+  "id": 747527283691290624,
+  "id_str": "747527283691290624",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 5073,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "New Desiigner mixtape https://t.co/n3ViemcQWF",
+  "urls": [
+    {
+      "expanded_url": "http://tidal.com/album/62400895",
+      "url": "https://t.co/n3ViemcQWF"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,24 @@
+{
+  "created_at": "Thu Jun 14 00:11:31 +0000 2018",
+  "deleted": true,
+  "favorite_count": 16646,
+  "hashtags": [],
+  "id": 1007052882451968000,
+  "id_str": "1007052882451968000",
+  "lang": "und",
+  "legacy_imported": true,
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 1825,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "https://t.co/GBaHHmLIL3",
+  "urls": [
+    {
+      "expanded_url": "http://www.dailymail.co.uk/news/article-5841343/Kim-Kardashian-hugs-Alice-Johnson-pardoned-womans-home.html",
+      "url": "https://t.co/GBaHHmLIL3"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

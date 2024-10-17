@@ -1,0 +1,24 @@
+{
+  "created_at": "Mon May 16 01:13:30 +0000 2016",
+  "deleted": true,
+  "favorite_count": 53107,
+  "hashtags": [],
+  "id": 732016090620928000,
+  "id_str": "732016090620928000",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 18181,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "My brother Chance!!! Thank you for letting me work on this masterpiece. One of my favorite people. https://t.co/V0ja6oDDoF",
+  "urls": [
+    {
+      "expanded_url": "http://bit.ly/Chance3Tweet",
+      "url": "https://t.co/V0ja6oDDoF"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

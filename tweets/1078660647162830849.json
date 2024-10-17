@@ -1,0 +1,322 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Dec 28 14:35:13 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "youtube.com/watch?v=zR5LXl…",
+        "expanded_url": "https://www.youtube.com/watch?v=zR5LXlf8fzM",
+        "indices": [
+          113,
+          136
+        ],
+        "url": "https://t.co/38GPpJk0BF"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 945782864184045569,
+        "id_str": "945782864184045569",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Spaghetti Boys",
+        "screen_name": "SpaghettiBoys1"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1078660647162830849,
+  "id_str": "1078660647162830849",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 1108,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 28 04:43:20 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/PpZ3bga1UY",
+          "expanded_url": "https://twitter.com/SpaghettiBoys1/status/1078511695293599744/video/1",
+          "id": 1078511604004777984,
+          "id_str": "1078511604004777984",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1078511604004777984/pu/img/JLLraQK9c53caA4D.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1078511604004777984/pu/img/JLLraQK9c53caA4D.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/PpZ3bga1UY"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "youtube.com/watch?v=zR5LXl…",
+          "expanded_url": "https://www.youtube.com/watch?v=zR5LXlf8fzM",
+          "indices": [
+            93,
+            116
+          ],
+          "url": "https://t.co/38GPpJk0BF"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/PpZ3bga1UY",
+          "expanded_url": "https://twitter.com/SpaghettiBoys1/status/1078511695293599744/video/1",
+          "id": 1078511604004777984,
+          "id_str": "1078511604004777984",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1078511604004777984/pu/img/JLLraQK9c53caA4D.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1078511604004777984/pu/img/JLLraQK9c53caA4D.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/PpZ3bga1UY",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 39873,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1078511604004777984/pu/vid/1280x720/6xjhmN7vgSDRnOMP.mp4?tag=6"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1078511604004777984/pu/vid/320x180/x_zjxSCZt32E80Rt.mp4?tag=6"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1078511604004777984/pu/vid/640x360/Tf4rwvSzPZseckjb.mp4?tag=6"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1078511604004777984/pu/pl/rLT8AVKUQhRmg-W9.m3u8?tag=6"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 7516,
+    "favorited": false,
+    "geo": null,
+    "id": 1078511695293599744,
+    "id_str": "1078511695293599744",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1108,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "KERWIN FROST PRESENTS THE 2018 KARDASHIAN-JENNER-WEST CHRISTMAS PARTY\n\nWATCH THE FULL VIDEO: https://t.co/38GPpJk0BF https://t.co/PpZ3bga1UY",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 26 22:26:21 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "📞 CALL 1-(877)-989-9877 RIGHT NOW!!! 📞 📩 PO BOX 20232 New York, NY 10021 📩",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "spaghettiboys.world",
+              "expanded_url": "http://www.spaghettiboys.world",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/GT7L376C3K"
+            }
+          ]
+        }
+      },
+      "favourites_count": 469,
+      "follow_request_sent": false,
+      "followers_count": 2541,
+      "following": false,
+      "friends_count": 0,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 945782864184045569,
+      "id_str": "945782864184045569",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 0,
+      "location": "New York, NY",
+      "name": "Spaghetti Boys",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/945782864184045569/1514331574",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/945800980850978816/krrGFPB3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/945800980850978816/krrGFPB3_normal.jpg",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "SpaghettiBoys1",
+      "statuses_count": 153,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/GT7L376C3K",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @SpaghettiBoys1: KERWIN FROST PRESENTS THE 2018 KARDASHIAN-JENNER-WEST CHRISTMAS PARTY\n\nWATCH THE FULL VIDEO: https://t.co/38GPpJk0BF ht…",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 29792507,
+    "following": true,
+    "friends_count": 259,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 43973,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1234,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

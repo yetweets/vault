@@ -1,0 +1,441 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jan 01 20:55:35 +0000 2019",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/sZOcjMePHc",
+        "expanded_url": "https://twitter.com/KanyeStanWV/status/1080205000188592130/photo/1",
+        "id": 1080204991569281024,
+        "id_str": "1080204991569281024",
+        "indices": [
+          43,
+          66
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dv2ot3cXQAA00f6.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dv2ot3cXQAA00f6.jpg",
+        "sizes": {
+          "large": {
+            "h": 960,
+            "resize": "fit",
+            "w": 960
+          },
+          "medium": {
+            "h": 960,
+            "resize": "fit",
+            "w": 960
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1080205000188592130,
+        "source_status_id_str": "1080205000188592130",
+        "source_user_id": 393786837,
+        "source_user_id_str": "393786837",
+        "type": "photo",
+        "url": "https://t.co/sZOcjMePHc"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 393786837,
+        "id_str": "393786837",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Kanye Stan in WV",
+        "screen_name": "KanyeStanWV"
+      },
+      {
+        "id": 169686021,
+        "id_str": "169686021",
+        "indices": [
+          24,
+          34
+        ],
+        "name": "ye",
+        "screen_name": "kanyewest"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/sZOcjMePHc",
+        "expanded_url": "https://twitter.com/KanyeStanWV/status/1080205000188592130/photo/1",
+        "id": 1080204991569281024,
+        "id_str": "1080204991569281024",
+        "indices": [
+          43,
+          66
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dv2ot3cXQAA00f6.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dv2ot3cXQAA00f6.jpg",
+        "sizes": {
+          "large": {
+            "h": 960,
+            "resize": "fit",
+            "w": 960
+          },
+          "medium": {
+            "h": 960,
+            "resize": "fit",
+            "w": 960
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1080205000188592130,
+        "source_status_id_str": "1080205000188592130",
+        "source_user_id": 393786837,
+        "source_user_id_str": "393786837",
+        "type": "photo",
+        "url": "https://t.co/sZOcjMePHc"
+      },
+      {
+        "display_url": "pic.twitter.com/sZOcjMePHc",
+        "expanded_url": "https://twitter.com/KanyeStanWV/status/1080205000188592130/photo/1",
+        "id": 1080204991569240065,
+        "id_str": "1080204991569240065",
+        "indices": [
+          43,
+          66
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dv2ot3cWoAEh2fa.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dv2ot3cWoAEh2fa.jpg",
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1536
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 900
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 510
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1080205000188592130,
+        "source_status_id_str": "1080205000188592130",
+        "source_user_id": 393786837,
+        "source_user_id_str": "393786837",
+        "type": "photo",
+        "url": "https://t.co/sZOcjMePHc"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1080205920431296512,
+  "id_str": "1080205920431296512",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 561,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 01 20:51:55 +0000 2019",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/sZOcjMePHc",
+          "expanded_url": "https://twitter.com/KanyeStanWV/status/1080205000188592130/photo/1",
+          "id": 1080204991569281024,
+          "id_str": "1080204991569281024",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dv2ot3cXQAA00f6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dv2ot3cXQAA00f6.jpg",
+          "sizes": {
+            "large": {
+              "h": 960,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 960,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/sZOcjMePHc"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 169686021,
+          "id_str": "169686021",
+          "indices": [
+            7,
+            17
+          ],
+          "name": "ye",
+          "screen_name": "kanyewest"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/sZOcjMePHc",
+          "expanded_url": "https://twitter.com/KanyeStanWV/status/1080205000188592130/photo/1",
+          "id": 1080204991569281024,
+          "id_str": "1080204991569281024",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dv2ot3cXQAA00f6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dv2ot3cXQAA00f6.jpg",
+          "sizes": {
+            "large": {
+              "h": 960,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 960,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/sZOcjMePHc"
+        },
+        {
+          "display_url": "pic.twitter.com/sZOcjMePHc",
+          "expanded_url": "https://twitter.com/KanyeStanWV/status/1080205000188592130/photo/1",
+          "id": 1080204991569240065,
+          "id_str": "1080204991569240065",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dv2ot3cWoAEh2fa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dv2ot3cWoAEh2fa.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/sZOcjMePHc"
+        }
+      ]
+    },
+    "favorite_count": 8615,
+    "favorited": false,
+    "geo": null,
+    "id": 1080205000188592130,
+    "id_str": "1080205000188592130",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 561,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "My two @kanyewest tattoos https://t.co/sZOcjMePHc",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Oct 19 02:23:21 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Kanye West is my hero and I owe him everything for saving my life! My tweets reflect my own personal views and opinions. Followed by Ye",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 13205,
+      "follow_request_sent": false,
+      "followers_count": 1849,
+      "following": false,
+      "friends_count": 328,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 393786837,
+      "id_str": "393786837",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 20,
+      "location": "West Virginia, USA",
+      "name": "Kanye Stan in WV",
+      "notifications": false,
+      "profile_background_color": "18048A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/393786837/1555863056",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1065609008898338816/EFPY-dcp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1065609008898338816/EFPY-dcp_normal.jpg",
+      "profile_link_color": "1629F5",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D3D1E3",
+      "profile_text_color": "EBD805",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KanyeStanWV",
+      "statuses_count": 23585,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @KanyeStanWV: My two @kanyewest tattoos https://t.co/sZOcjMePHc",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29188672,
+    "following": true,
+    "friends_count": 266,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 49636,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1171,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

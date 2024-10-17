@@ -1,0 +1,24 @@
+{
+  "created_at": "Mon Jun 27 18:31:18 +0000 2016",
+  "deleted": true,
+  "favorite_count": 8651,
+  "hashtags": [],
+  "id": 747497549628485632,
+  "id_str": "747497549628485632",
+  "lang": "und",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 3299,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "https://t.co/zmSOWLMvqV",
+  "urls": [
+    {
+      "expanded_url": "http://Famous.Tidal.com",
+      "url": "https://t.co/zmSOWLMvqV"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

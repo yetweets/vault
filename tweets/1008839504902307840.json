@@ -1,0 +1,52 @@
+{
+  "created_at": "Mon Jun 18 22:30:55 +0000 2018",
+  "deleted": true,
+  "favorite_count": 883868,
+  "hashtags": [],
+  "id": 1008839504902307840,
+  "id_str": "1008839504902307840",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/QU7DR3Ghbw",
+      "expanded_url": "https://twitter.com/kanyewest/status/1008839504902307840/photo/1",
+      "id": 1008839498740822016,
+      "media_url": "http://pbs.twimg.com/media/DgAeLdXUcAAQyOM.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DgAeLdXUcAAQyOM.jpg",
+      "sizes": {
+        "large": {
+          "h": 500,
+          "resize": "fit",
+          "w": 759
+        },
+        "medium": {
+          "h": 500,
+          "resize": "fit",
+          "w": 759
+        },
+        "small": {
+          "h": 448,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/QU7DR3Ghbw"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 251614,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "rest in peace 🙏🙏🙏  I never told you how much you inspired me when you were here   thank you for existing https://t.co/QU7DR3Ghbw",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

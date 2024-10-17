@@ -1,0 +1,19 @@
+{
+  "created_at": "Mon Mar 07 17:36:35 +0000 2016",
+  "deleted": true,
+  "favorite_count": 53322,
+  "hashtags": [],
+  "id": 706896340425568258,
+  "id_str": "706896340425568258",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 47406,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "I want people to be the best version of themselves and I will be the best version of me.",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,294 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Aug 11 01:20:22 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 189470083,
+        "id_str": "189470083",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "TeamKanyeDaily",
+        "screen_name": "TeamKanyeDaily"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1292994233779929089,
+  "id_str": "1292994233779929089",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1292160403741593608,
+  "quoted_status_id_str": "1292160403741593608",
+  "retweet_count": 3212,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 09 02:39:19 +0000 2020",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/ajexpress01/st…",
+          "expanded_url": "https://twitter.com/ajexpress01/status/1292160403741593608",
+          "indices": [
+            47,
+            70
+          ],
+          "url": "https://t.co/gDbiKLz4WE"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 26813,
+    "favorited": false,
+    "geo": null,
+    "id": 1292289327070945281,
+    "id_str": "1292289327070945281",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Aug 08 18:07:02 +0000 2020",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "expanded_url": "https://twitter.com/i/web/status/1292160403741593608",
+            "indices": [
+              117,
+              140
+            ],
+            "url": "https://t.co/VXc4eHx8tL"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 21947,
+      "favorited": false,
+      "geo": null,
+      "id": 1292160403741593608,
+      "id_str": "1292160403741593608",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 5267,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text": "Whenever I'm bored I just watch Kanye and Jay Z perform Otis at the 2011 VMA's and then I'm not bored anymore. Happ… https://t.co/VXc4eHx8tL",
+      "truncated": true,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 24 17:16:27 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Kanye West retweeted me one time                \n\n                               \n\n\nProfile pic by @cm_desiigns",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 117425,
+        "follow_request_sent": false,
+        "followers_count": 474,
+        "following": false,
+        "friends_count": 639,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 768497208996003841,
+        "id_str": "768497208996003841",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Woodstock, NY",
+        "name": "AJ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/768497208996003841/1596648896",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1291064805391044610/V2HagJmJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1291064805391044610/V2HagJmJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ajexpress01",
+        "statuses_count": 3586,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1292160403741593608,
+    "quoted_status_id_str": "1292160403741593608",
+    "retweet_count": 3212,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Run up on Yeezy the wrong way, I might murk ya https://t.co/gDbiKLz4WE",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Sep 11 10:25:35 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Updates on all things Kanye West. teamkanyedaily@gmail.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "teamkanyedaily.com",
+              "expanded_url": "http://teamkanyedaily.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/3hHdeRpyM1"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1628,
+      "follow_request_sent": false,
+      "followers_count": 259705,
+      "following": false,
+      "friends_count": 490,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 189470083,
+      "id_str": "189470083",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 412,
+      "location": "",
+      "name": "TeamKanyeDaily",
+      "notifications": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/189470083/1591765967",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1270324039643471873/Kce83JT4_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270324039643471873/Kce83JT4_normal.jpg",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TeamKanyeDaily",
+      "statuses_count": 29042,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/3hHdeRpyM1",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @TeamKanyeDaily: Run up on Yeezy the wrong way, I might murk ya",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 30905763,
+    "following": true,
+    "friends_count": 259,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 44357,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1503,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

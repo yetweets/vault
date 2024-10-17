@@ -1,0 +1,52 @@
+{
+  "created_at": "Mon Apr 20 18:12:31 +0000 2015",
+  "deleted": true,
+  "favorite_count": 25666,
+  "hashtags": [],
+  "id": 590216488277016576,
+  "id_str": "590216488277016576",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/nU2dRO57SK",
+      "expanded_url": "https://twitter.com/kanyewest/status/590216488277016576/photo/1",
+      "id": 590216487484325888,
+      "media_url": "http://pbs.twimg.com/media/CDDexK0VAAAWzJ0.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CDDexK0VAAAWzJ0.jpg",
+      "sizes": {
+        "large": {
+          "h": 912,
+          "resize": "fit",
+          "w": 912
+        },
+        "medium": {
+          "h": 600,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 340,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/nU2dRO57SK"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 12416,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "New PAPER mag http://t.co/nU2dRO57SK",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

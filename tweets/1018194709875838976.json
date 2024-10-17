@@ -1,0 +1,52 @@
+{
+  "created_at": "Sat Jul 14 18:05:10 +0000 2018",
+  "deleted": true,
+  "favorite_count": 48844,
+  "hashtags": [],
+  "id": 1018194709875838976,
+  "id_str": "1018194709875838976",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/GaFZE3Q0Ph",
+      "expanded_url": "https://twitter.com/kanyewest/status/1018194709875838976/photo/1",
+      "id": 1018194687872491521,
+      "media_url": "http://pbs.twimg.com/media/DiFarIrUYAEjvfl.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DiFarIrUYAEjvfl.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 1536
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 900
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 510
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/GaFZE3Q0Ph"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-34",
+  "retweet_count": 3695,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "need this rug https://t.co/GaFZE3Q0Ph",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,233 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jun 26 19:20:42 +0000 2020",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          78,
+          90
+        ],
+        "text": "WESTDAYEVER"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/KidCudi/status…",
+        "expanded_url": "https://twitter.com/KidCudi/status/1276523939846451200",
+        "indices": [
+          91,
+          114
+        ],
+        "url": "https://t.co/Od2TifJhSx"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 243287822,
+        "id_str": "243287822",
+        "indices": [
+          55,
+          63
+        ],
+        "name": "The Chosen One",
+        "screen_name": "KidCudi"
+      },
+      {
+        "id": 116585717,
+        "id_str": "116585717",
+        "indices": [
+          64,
+          75
+        ],
+        "name": "takashi murakami",
+        "screen_name": "takashipom"
+      }
+    ]
+  },
+  "favorite_count": 69008,
+  "favorited": false,
+  "geo": null,
+  "id": 1276596267246931975,
+  "id_str": "1276596267246931975",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 26 14:33:18 +0000 2020",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1276523939846451200",
+          "indices": [
+            117,
+            140
+          ],
+          "url": "https://t.co/8ZbOppg095"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 97623,
+    "favorited": false,
+    "geo": null,
+    "id": 1276523939846451200,
+    "id_str": "1276523939846451200",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 29400,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "KIDS SEE GHOSTS ANIMATED SHOW TEASER!! \n\nDIRECTED BY TAKASHI MURAKAMI\nKANYE BEAR VOICED BY KANYE WEST\nKID FOX VOICE… https://t.co/8ZbOppg095",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 26 18:34:00 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "musical anarchist/the originator",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "kidcudi.com",
+              "expanded_url": "http://www.kidcudi.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/XdC61avdEH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4015,
+      "follow_request_sent": false,
+      "followers_count": 2402791,
+      "following": false,
+      "friends_count": 11,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 243287822,
+      "id_str": "243287822",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3946,
+      "location": "some place higher",
+      "name": "The Chosen One",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/243287822/1388341893",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1276531162521825283/b23e-qPd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276531162521825283/b23e-qPd_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KidCudi",
+      "statuses_count": 13279,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/XdC61avdEH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1276523939846451200,
+  "quoted_status_id_str": "1276523939846451200",
+  "retweet_count": 11778,
+  "retweeted": false,
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "text": "KIDS SEE GHOSTS ANIMATED SHOW PREVIEW WITH MY BROTHERS @KIDCUDI @TAKASHIPOM\n \n#WESTDAYEVER https://t.co/Od2TifJhSx",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 30798949,
+    "following": true,
+    "friends_count": 259,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 44268,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1410,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

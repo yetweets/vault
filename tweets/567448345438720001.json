@@ -1,0 +1,58 @@
+{
+  "created_at": "Mon Feb 16 22:20:02 +0000 2015",
+  "deleted": true,
+  "favorite_count": 7962,
+  "hashtags": [],
+  "id": 567448345438720001,
+  "id_str": "567448345438720001",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/LpVuwSvy0Q",
+      "expanded_url": "https://twitter.com/kanyewest/status/567448345438720001/photo/1",
+      "id": 567448339319238656,
+      "media_url": "http://pbs.twimg.com/media/B9_7QhWCMAA5MjX.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/B9_7QhWCMAA5MjX.jpg",
+      "sizes": {
+        "large": {
+          "h": 880,
+          "resize": "fit",
+          "w": 1010
+        },
+        "medium": {
+          "h": 523,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 296,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/LpVuwSvy0Q"
+    }
+  ],
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 4635,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "LET'S GO!!! http://t.co/eZlDcSw9wZ http://t.co/LpVuwSvy0Q",
+  "urls": [
+    {
+      "expanded_url": "http://hypebeast.com/2015/2/the-adidas-plan-to-take-over-america",
+      "url": "http://t.co/eZlDcSw9wZ"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

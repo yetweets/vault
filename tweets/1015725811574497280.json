@@ -1,0 +1,52 @@
+{
+  "created_at": "Sat Jul 07 22:34:39 +0000 2018",
+  "deleted": true,
+  "favorite_count": 37438,
+  "hashtags": [],
+  "id": 1015725811574497280,
+  "id_str": "1015725811574497280",
+  "lang": "pt",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/WLjXq5wsj1",
+      "expanded_url": "https://twitter.com/kanyewest/status/1015725811574497280/photo/1",
+      "id": 1015725803017928704,
+      "media_url": "http://pbs.twimg.com/media/DhiVPH4VAAAFgKZ.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DhiVPH4VAAAFgKZ.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 1536
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 900
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 510
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/WLjXq5wsj1"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 4710,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "essentialism https://t.co/WLjXq5wsj1",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

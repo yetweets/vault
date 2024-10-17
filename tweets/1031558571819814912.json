@@ -1,0 +1,52 @@
+{
+  "created_at": "Mon Aug 20 15:08:23 +0000 2018",
+  "deleted": true,
+  "favorite_count": 25858,
+  "hashtags": [],
+  "id": 1031558571819814912,
+  "id_str": "1031558571819814912",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/xpSNq9DO6A",
+      "expanded_url": "https://twitter.com/kanyewest/status/1031558571819814912/photo/1",
+      "id": 1031558564916027397,
+      "media_url": "http://pbs.twimg.com/media/DlDVDKLU4AUPsdf.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DlDVDKLU4AUPsdf.jpg",
+      "sizes": {
+        "large": {
+          "h": 1536,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 900,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 510,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/xpSNq9DO6A"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-34",
+  "retweet_count": 2662,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Steven Smith’s been reworking the bottom unit on the 451     I’m super excited about where he got it      YEEZY 2019 https://t.co/xpSNq9DO6A",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

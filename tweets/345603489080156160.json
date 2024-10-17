@@ -1,0 +1,25 @@
+{
+  "created_at": "Fri Jun 14 18:07:47 +0000 2013",
+  "deleted": true,
+  "favorite_count": 2332,
+  "hashtags": [],
+  "id": 345603489080156160,
+  "id_str": "345603489080156160",
+  "lang": "en",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 3583,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "NEW MUSIC AT NEW PROJECTION LOCATIONS @ http://t.co/7BZwfPawwZ",
+  "urls": [
+    {
+      "expanded_url": "http://KANYEWEST.COM",
+      "url": "http://t.co/7BZwfPawwZ"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

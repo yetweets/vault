@@ -1,0 +1,19 @@
+{
+  "created_at": "Mon Mar 14 16:03:33 +0000 2016",
+  "deleted": true,
+  "favorite_count": 47033,
+  "hashtags": [],
+  "id": 709409643387297792,
+  "id_str": "709409643387297792",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 28807,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "My tweets are a form of contemporary art only compromised by people trying to tell me what to tweet and not to tweet...",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,25 @@
+{
+  "created_at": "Tue Jun 18 02:32:06 +0000 2013",
+  "deleted": true,
+  "favorite_count": 6638,
+  "hashtags": [],
+  "id": 346817569472249856,
+  "id_str": "346817569472249856",
+  "lang": "en",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 13610,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "YEEZUS ALBUM NOW AVAILABLE AT http://t.co/7BZwfPawwZ",
+  "urls": [
+    {
+      "expanded_url": "http://KANYEWEST.COM",
+      "url": "http://t.co/7BZwfPawwZ"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

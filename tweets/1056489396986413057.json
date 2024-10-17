@@ -1,0 +1,57 @@
+{
+  "created_at": "Sun Oct 28 10:14:35 +0000 2018",
+  "deleted": false,
+  "hashtags": [],
+  "id": 1056489396986413057,
+  "id_str": "1056489396986413057",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2018-11-23--09-19-37",
+  "retweet_count": 1294,
+  "retweeted_status": {
+    "created_at": "Sun Oct 28 09:32:02 +0000 2018",
+    "favorite_count": 5531,
+    "hashtags": [],
+    "id": 1056478686768185349,
+    "id_str": "1056478686768185349",
+    "lang": "en",
+    "retweet_count": 1294,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RayJ said here that @kanyewest meeting with Prez Trump was a big opportunity to make change happen which is also a… https://t.co/vaDQIIlWp4",
+    "truncated": true,
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/1056478686768185349",
+        "url": "https://t.co/vaDQIIlWp4"
+      }
+    ],
+    "user": {
+      "id": 4797080188
+    },
+    "user_mentions": [
+      {
+        "id": 169686021,
+        "name": "ye",
+        "screen_name": "kanyewest"
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @OKardashWest: RayJ said here that @kanyewest meeting with Prez Trump was a big opportunity to make change happen which is also a huge r…",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 4797080188,
+      "name": "Ogechi🌚👑",
+      "screen_name": "OKardashWest"
+    },
+    {
+      "id": 169686021,
+      "name": "ye",
+      "screen_name": "kanyewest"
+    }
+  ]
+}

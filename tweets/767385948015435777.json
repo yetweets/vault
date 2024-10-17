@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun Aug 21 15:40:42 +0000 2016",
+  "deleted": true,
+  "favorite_count": 15368,
+  "hashtags": [],
+  "id": 767385948015435777,
+  "id_str": "767385948015435777",
+  "lang": "es",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/m67IPL9zkE",
+      "expanded_url": "https://twitter.com/kanyewest/status/767385948015435777/photo/1",
+      "id": 767385895209164800,
+      "media_url": "http://pbs.twimg.com/media/CqZNZ-mWYAApEre.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CqZNZ-mWYAApEre.jpg",
+      "sizes": {
+        "large": {
+          "h": 558,
+          "resize": "fit",
+          "w": 560
+        },
+        "medium": {
+          "h": 558,
+          "resize": "fit",
+          "w": 560
+        },
+        "small": {
+          "h": 558,
+          "resize": "fit",
+          "w": 560
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/m67IPL9zkE"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 4712,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "LAS VEGAS https://t.co/m67IPL9zkE",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

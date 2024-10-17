@@ -1,0 +1,52 @@
+{
+  "created_at": "Mon Aug 27 15:34:44 +0000 2018",
+  "deleted": true,
+  "favorite_count": 60937,
+  "hashtags": [],
+  "id": 1034101919340347392,
+  "id_str": "1034101919340347392",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/mbOK9u8u23",
+      "expanded_url": "https://twitter.com/kanyewest/status/1034101919340347392/photo/1",
+      "id": 1034101915284426752,
+      "media_url": "http://pbs.twimg.com/media/DlneNooUUAATVIQ.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DlneNooUUAATVIQ.jpg",
+      "sizes": {
+        "large": {
+          "h": 640,
+          "resize": "fit",
+          "w": 480
+        },
+        "medium": {
+          "h": 640,
+          "resize": "fit",
+          "w": 480
+        },
+        "small": {
+          "h": 640,
+          "resize": "fit",
+          "w": 480
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/mbOK9u8u23"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-34",
+  "retweet_count": 12196,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Katsuhiro Otomo the creator of Akira      This movie is my biggest  creative inspiration https://t.co/mbOK9u8u23",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,80 @@
+{
+  "created_at": "Mon Apr 23 16:30:05 +0000 2018",
+  "deleted": true,
+  "favorite_count": 18255,
+  "hashtags": [],
+  "id": 988454975738068993,
+  "id_str": "988454975738068993",
+  "lang": "und",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/0u9NnvAQ17",
+      "expanded_url": "https://twitter.com/kanyewest/status/988454975738068993/video/1",
+      "id": 988454719335972864,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/988454719335972864/pu/img/0TXaxCuwrJlpy5a5.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/988454719335972864/pu/img/0TXaxCuwrJlpy5a5.jpg",
+      "sizes": {
+        "large": {
+          "h": 1280,
+          "resize": "fit",
+          "w": 720
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 675
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 383
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "video",
+      "url": "https://t.co/0u9NnvAQ17",
+      "video_info": {
+        "aspect_ratio": [
+          9,
+          16
+        ],
+        "duration_millis": 45002,
+        "variants": [
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/988454719335972864/pu/vid/720x1280/KPm5Lmivo45NsxUV.mp4?tag=3"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/988454719335972864/pu/pl/FSUomqjxSLf_T_xO.m3u8?tag=3"
+          },
+          {
+            "bitrate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/988454719335972864/pu/vid/180x320/AjWw-man1VJZ_moy.mp4?tag=3"
+          },
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/988454719335972864/pu/vid/360x640/J_LuDQ1H_7MFA6yu.mp4?tag=3"
+          }
+        ]
+      }
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 3910,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "https://t.co/0u9NnvAQ17",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

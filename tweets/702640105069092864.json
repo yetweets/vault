@@ -1,0 +1,52 @@
+{
+  "created_at": "Wed Feb 24 23:43:50 +0000 2016",
+  "deleted": true,
+  "favorite_count": 47864,
+  "hashtags": [],
+  "id": 702640105069092864,
+  "id_str": "702640105069092864",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/wdsIr7NzhR",
+      "expanded_url": "https://twitter.com/kanyewest/status/702640105069092864/photo/1",
+      "id": 702640098010112002,
+      "media_url": "http://pbs.twimg.com/media/CcBHckbWoAIysJQ.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CcBHckbWoAIysJQ.jpg",
+      "sizes": {
+        "large": {
+          "h": 1600,
+          "resize": "fit",
+          "w": 1200
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 900
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 510
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/wdsIr7NzhR"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 16684,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "number 1 streamed song this week https://t.co/wdsIr7NzhR",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

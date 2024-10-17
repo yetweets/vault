@@ -1,0 +1,564 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Sep 14 05:54:13 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/iCp3h1irNd",
+        "expanded_url": "https://twitter.com/media330/status/1305294207964385281/video/1",
+        "id": 1305293759559729152,
+        "id_str": "1305293759559729152",
+        "indices": [
+          86,
+          109
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1305293759559729152/pu/img/hI-U32OvbbJSyAi5.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1305293759559729152/pu/img/hI-U32OvbbJSyAi5.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1305294207964385281,
+        "source_status_id_str": "1305294207964385281",
+        "source_user_id": 1163417000493928448,
+        "source_user_id_str": "1163417000493928448",
+        "type": "photo",
+        "url": "https://t.co/iCp3h1irNd"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1868011381,
+        "id_str": "1868011381",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "V-ROB",
+        "screen_name": "vrob330"
+      },
+      {
+        "id": 27195114,
+        "id_str": "27195114",
+        "indices": [
+          44,
+          50
+        ],
+        "name": "Drizzy",
+        "screen_name": "Drake"
+      },
+      {
+        "id": 169686021,
+        "id_str": "169686021",
+        "indices": [
+          53,
+          63
+        ],
+        "name": "ye",
+        "screen_name": "kanyewest"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Aug 19 11:46:52 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "media account💜",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "favourites_count": 2143,
+            "follow_request_sent": false,
+            "followers_count": 279,
+            "following": false,
+            "friends_count": 519,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1163417000493928448,
+            "id_str": "1163417000493928448",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 0,
+            "location": "",
+            "name": "Sub to V-ROB on YouTube",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1163417000493928448/1591063912",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1267640040580100099/AcTN86E4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267640040580100099/AcTN86E4_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "media330",
+            "statuses_count": 277,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/iCp3h1irNd",
+        "expanded_url": "https://twitter.com/media330/status/1305294207964385281/video/1",
+        "id": 1305293759559729152,
+        "id_str": "1305293759559729152",
+        "indices": [
+          86,
+          109
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1305293759559729152/pu/img/hI-U32OvbbJSyAi5.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1305293759559729152/pu/img/hI-U32OvbbJSyAi5.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1305294207964385281,
+        "source_status_id_str": "1305294207964385281",
+        "source_user_id": 1163417000493928448,
+        "source_user_id_str": "1163417000493928448",
+        "type": "video",
+        "url": "https://t.co/iCp3h1irNd",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 77297,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1305293759559729152/pu/vid/480x480/BvJCAW7U8yBY9g1-.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1305293759559729152/pu/pl/rgxR3D7z1ds88-xb.m3u8?tag=10"
+            },
+            {
+              "bitrate": 432000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1305293759559729152/pu/vid/320x320/-PmTmalgbKv99-_F.mp4?tag=10"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1305293759559729152/pu/vid/720x720/UjUOg5A3hF9UWsB0.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1305384336825315328,
+  "id_str": "1305384336825315328",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "in",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 1713,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 13 23:57:21 +0000 2020",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/iCp3h1irNd",
+          "expanded_url": "https://twitter.com/media330/status/1305294207964385281/video/1",
+          "id": 1305293759559729152,
+          "id_str": "1305293759559729152",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1305293759559729152/pu/img/hI-U32OvbbJSyAi5.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1305293759559729152/pu/img/hI-U32OvbbJSyAi5.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1305294207964385281,
+          "source_status_id_str": "1305294207964385281",
+          "source_user_id": 1163417000493928448,
+          "source_user_id_str": "1163417000493928448",
+          "type": "photo",
+          "url": "https://t.co/iCp3h1irNd"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 27195114,
+          "id_str": "27195114",
+          "indices": [
+            31,
+            37
+          ],
+          "name": "Drizzy",
+          "screen_name": "Drake"
+        },
+        {
+          "id": 169686021,
+          "id_str": "169686021",
+          "indices": [
+            40,
+            50
+          ],
+          "name": "ye",
+          "screen_name": "kanyewest"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Mon Aug 19 11:46:52 +0000 2019",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "media account💜",
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "favourites_count": 2143,
+              "follow_request_sent": false,
+              "followers_count": 279,
+              "following": false,
+              "friends_count": 519,
+              "geo_enabled": false,
+              "has_extended_profile": true,
+              "id": 1163417000493928448,
+              "id_str": "1163417000493928448",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 0,
+              "location": "",
+              "name": "Sub to V-ROB on YouTube",
+              "notifications": false,
+              "profile_background_color": "F5F8FA",
+              "profile_background_image_url": null,
+              "profile_background_image_url_https": null,
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1163417000493928448/1591063912",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1267640040580100099/AcTN86E4_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267640040580100099/AcTN86E4_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "media330",
+              "statuses_count": 277,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": null,
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/iCp3h1irNd",
+          "expanded_url": "https://twitter.com/media330/status/1305294207964385281/video/1",
+          "id": 1305293759559729152,
+          "id_str": "1305293759559729152",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1305293759559729152/pu/img/hI-U32OvbbJSyAi5.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1305293759559729152/pu/img/hI-U32OvbbJSyAi5.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1305294207964385281,
+          "source_status_id_str": "1305294207964385281",
+          "source_user_id": 1163417000493928448,
+          "source_user_id_str": "1163417000493928448",
+          "type": "video",
+          "url": "https://t.co/iCp3h1irNd",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 77297,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1305293759559729152/pu/vid/480x480/BvJCAW7U8yBY9g1-.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1305293759559729152/pu/pl/rgxR3D7z1ds88-xb.m3u8?tag=10"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1305293759559729152/pu/vid/320x320/-PmTmalgbKv99-_F.mp4?tag=10"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1305293759559729152/pu/vid/720x720/UjUOg5A3hF9UWsB0.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 14219,
+    "favorited": false,
+    "geo": null,
+    "id": 1305294526626639872,
+    "id_str": "1305294526626639872",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1713,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "CALABASAS\nIS THE NEW\nABU DHABI\n@Drake x @kanyewest 👼🦉 \nOVO festival 2016\nhttps://t.co/iCp3h1irNd",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Sep 15 14:39:58 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Content Creator//EST. in Akron, Ohio 🌺//All Love//Ft. on Disney's \"NBA Experience\" promo, ESPN's 2018 NBA Finals promo, Whistle Sports 5x// #LakeShow",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "vrob.productions",
+              "expanded_url": "https://vrob.productions/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/gy1rqGcNjQ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 46149,
+      "follow_request_sent": false,
+      "followers_count": 2824,
+      "following": false,
+      "friends_count": 1379,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 1868011381,
+      "id_str": "1868011381",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 7,
+      "location": "Email: vrob.inquires@gmail.com",
+      "name": "V-ROB",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868011381/1588087618",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1298656693308530688/tDpvLj3f_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1298656693308530688/tDpvLj3f_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "vrob330",
+      "statuses_count": 7184,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/gy1rqGcNjQ",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @vrob330: CALABASAS\nIS THE NEW\nABU DHABI\n@Drake x @kanyewest 👼🦉 \nOVO festival 2016\nhttps://t.co/iCp3h1irNd",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 30905763,
+    "following": true,
+    "friends_count": 259,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 44357,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1503,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

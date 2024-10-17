@@ -1,0 +1,483 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Dec 02 00:48:33 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/iyzc8yM5oi",
+        "expanded_url": "https://twitter.com/CelticsGRD/status/1598168378535202817/video/1",
+        "id": 1598168325896421380,
+        "id_str": "1598168325896421380",
+        "indices": [
+          77,
+          100
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1598168325896421380/pu/img/n7YZEB1dlqJzdkqL.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1598168325896421380/pu/img/n7YZEB1dlqJzdkqL.jpg",
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1598168378535202817,
+        "source_status_id_str": "1598168378535202817",
+        "source_user_id": 797646483545845760,
+        "source_user_id_str": "797646483545845760",
+        "type": "photo",
+        "url": "https://t.co/iyzc8yM5oi"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 797646483545845760,
+        "id_str": "797646483545845760",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "GreenRunsDeep",
+        "screen_name": "CelticsGRD"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Nov 13 03:45:16 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "go celtics or gfys",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "instagram.com/greenrunsdeep",
+                    "expanded_url": "http://instagram.com/greenrunsdeep",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/Gj5Wc0eD2R"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 3298,
+            "follow_request_sent": false,
+            "followers_count": 11689,
+            "following": false,
+            "friends_count": 82,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 797646483545845760,
+            "id_str": "797646483545845760",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 59,
+            "location": "📍 BLEED GREEN BOULEVARD",
+            "name": "GreenRunsDeep",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/797646483545845760/1669943315",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1597064937834221569/hb4e2A_F_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1597064937834221569/hb4e2A_F_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "CelticsGRD",
+            "statuses_count": 6585,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/Gj5Wc0eD2R",
+            "utc_offset": null,
+            "verified": false,
+            "withheld_in_countries": []
+          }
+        },
+        "display_url": "pic.twitter.com/iyzc8yM5oi",
+        "expanded_url": "https://twitter.com/CelticsGRD/status/1598168378535202817/video/1",
+        "id": 1598168325896421380,
+        "id_str": "1598168325896421380",
+        "indices": [
+          77,
+          100
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1598168325896421380/pu/img/n7YZEB1dlqJzdkqL.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1598168325896421380/pu/img/n7YZEB1dlqJzdkqL.jpg",
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1598168378535202817,
+        "source_status_id_str": "1598168378535202817",
+        "source_user_id": 797646483545845760,
+        "source_user_id_str": "797646483545845760",
+        "type": "video",
+        "url": "https://t.co/iyzc8yM5oi",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 16300,
+          "variants": [
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1598168325896421380/pu/vid/320x568/D1INNJPFmBBTlAkA.mp4?tag=14"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1598168325896421380/pu/vid/480x852/Xs4jIYeUxVbV7p5C.mp4?tag=14"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1598168325896421380/pu/pl/kMlIrekNbbosQ59i.m3u8?tag=14&container=fmp4"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1598168325896421380/pu/vid/720x1280/-jsLfk4CmKh6OR95.mp4?tag=14"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1598479195537281025,
+  "id_str": "1598479195537281025",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 7001,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 01 04:13:28 +0000 2022",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/iyzc8yM5oi",
+          "expanded_url": "https://twitter.com/CelticsGRD/status/1598168378535202817/video/1",
+          "id": 1598168325896421380,
+          "id_str": "1598168325896421380",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1598168325896421380/pu/img/n7YZEB1dlqJzdkqL.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1598168325896421380/pu/img/n7YZEB1dlqJzdkqL.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iyzc8yM5oi"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/iyzc8yM5oi",
+          "expanded_url": "https://twitter.com/CelticsGRD/status/1598168378535202817/video/1",
+          "id": 1598168325896421380,
+          "id_str": "1598168325896421380",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1598168325896421380/pu/img/n7YZEB1dlqJzdkqL.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1598168325896421380/pu/img/n7YZEB1dlqJzdkqL.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/iyzc8yM5oi",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 16300,
+            "variants": [
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1598168325896421380/pu/vid/320x568/D1INNJPFmBBTlAkA.mp4?tag=14"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1598168325896421380/pu/vid/480x852/Xs4jIYeUxVbV7p5C.mp4?tag=14"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1598168325896421380/pu/pl/kMlIrekNbbosQ59i.m3u8?tag=14&container=fmp4"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1598168325896421380/pu/vid/720x1280/-jsLfk4CmKh6OR95.mp4?tag=14"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 51065,
+    "favorited": false,
+    "geo": null,
+    "id": 1598168378535202817,
+    "id_str": "1598168378535202817",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7001,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Jaylen Brown on playing in front of the Prince and Princess: https://t.co/iyzc8yM5oi",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Nov 13 03:45:16 +0000 2016",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "go celtics or gfys",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/greenrunsdeep",
+              "expanded_url": "http://instagram.com/greenrunsdeep",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Gj5Wc0eD2R"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3298,
+      "follow_request_sent": false,
+      "followers_count": 11689,
+      "following": false,
+      "friends_count": 82,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 797646483545845760,
+      "id_str": "797646483545845760",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 59,
+      "location": "📍 BLEED GREEN BOULEVARD",
+      "name": "GreenRunsDeep",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/797646483545845760/1669943315",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1597064937834221569/hb4e2A_F_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1597064937834221569/hb4e2A_F_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "CelticsGRD",
+      "statuses_count": 6585,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Gj5Wc0eD2R",
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @CelticsGRD: Jaylen Brown on playing in front of the Prince and Princess: https://t.co/iyzc8yM5oi",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 9,
+    "follow_request_sent": false,
+    "followers_count": 32253242,
+    "following": true,
+    "friends_count": 209,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 43464,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1929,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true,
+    "withheld_in_countries": []
+  }
+}

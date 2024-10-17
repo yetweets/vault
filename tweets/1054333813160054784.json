@@ -1,0 +1,433 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Oct 22 11:29:04 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/UR7OIbujny",
+        "expanded_url": "https://twitter.com/PRADACCIA/status/1052705038139830272/photo/1",
+        "id": 1052704990945468416,
+        "id_str": "1052704990945468416",
+        "indices": [
+          78,
+          101
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dpv1nJ6V4AAoGdq.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dpv1nJ6V4AAoGdq.jpg",
+        "sizes": {
+          "large": {
+            "h": 1350,
+            "resize": "fit",
+            "w": 1080
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 960
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 544
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1052705038139830272,
+        "source_status_id_str": "1052705038139830272",
+        "source_user_id": 2909894891,
+        "source_user_id_str": "2909894891",
+        "type": "photo",
+        "url": "https://t.co/UR7OIbujny"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1092078839176593409,
+        "id_str": "1092078839176593409",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Miuse Magazine",
+        "screen_name": "PRADACCIA"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/UR7OIbujny",
+        "expanded_url": "https://twitter.com/PRADACCIA/status/1052705038139830272/photo/1",
+        "id": 1052704990945468416,
+        "id_str": "1052704990945468416",
+        "indices": [
+          78,
+          101
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dpv1nJ6V4AAoGdq.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dpv1nJ6V4AAoGdq.jpg",
+        "sizes": {
+          "large": {
+            "h": 1350,
+            "resize": "fit",
+            "w": 1080
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 960
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 544
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1052705038139830272,
+        "source_status_id_str": "1052705038139830272",
+        "source_user_id": 2909894891,
+        "source_user_id_str": "2909894891",
+        "type": "photo",
+        "url": "https://t.co/UR7OIbujny"
+      },
+      {
+        "display_url": "pic.twitter.com/UR7OIbujny",
+        "expanded_url": "https://twitter.com/PRADACCIA/status/1052705038139830272/photo/1",
+        "id": 1052704990886862848,
+        "id_str": "1052704990886862848",
+        "indices": [
+          78,
+          101
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dpv1nJsXoAAVjAS.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dpv1nJsXoAAVjAS.jpg",
+        "sizes": {
+          "large": {
+            "h": 1350,
+            "resize": "fit",
+            "w": 1080
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 960
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 544
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1052705038139830272,
+        "source_status_id_str": "1052705038139830272",
+        "source_user_id": 2909894891,
+        "source_user_id_str": "2909894891",
+        "type": "photo",
+        "url": "https://t.co/UR7OIbujny"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1054333813160054784,
+  "id_str": "1054333813160054784",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 680,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 17 23:36:54 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/UR7OIbujny",
+          "expanded_url": "https://twitter.com/PRADACCIA/status/1052705038139830272/photo/1",
+          "id": 1052704990945468416,
+          "id_str": "1052704990945468416",
+          "indices": [
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dpv1nJ6V4AAoGdq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dpv1nJ6V4AAoGdq.jpg",
+          "sizes": {
+            "large": {
+              "h": 1350,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 544
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/UR7OIbujny"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/UR7OIbujny",
+          "expanded_url": "https://twitter.com/PRADACCIA/status/1052705038139830272/photo/1",
+          "id": 1052704990945468416,
+          "id_str": "1052704990945468416",
+          "indices": [
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dpv1nJ6V4AAoGdq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dpv1nJ6V4AAoGdq.jpg",
+          "sizes": {
+            "large": {
+              "h": 1350,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 544
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/UR7OIbujny"
+        },
+        {
+          "display_url": "pic.twitter.com/UR7OIbujny",
+          "expanded_url": "https://twitter.com/PRADACCIA/status/1052705038139830272/photo/1",
+          "id": 1052704990886862848,
+          "id_str": "1052704990886862848",
+          "indices": [
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dpv1nJsXoAAVjAS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dpv1nJsXoAAVjAS.jpg",
+          "sizes": {
+            "large": {
+              "h": 1350,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 544
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/UR7OIbujny"
+        }
+      ]
+    },
+    "favorite_count": 4090,
+    "favorited": false,
+    "geo": null,
+    "id": 1052705038139830272,
+    "id_str": "1052705038139830272",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": true,
+    "retweet_count": 680,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Solange in Thierry Mugler S/S 1991 photographed by Cary Fagan. https://t.co/UR7OIbujny",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Dec 07 21:21:59 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Founder of Miuse Magazine",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "miuse.co.uk",
+              "expanded_url": "https://www.miuse.co.uk",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/qkUp9rEKSR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 86032,
+      "follow_request_sent": false,
+      "followers_count": 72988,
+      "following": false,
+      "friends_count": 202,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2909894891,
+      "id_str": "2909894891",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1319,
+      "location": "",
+      "name": "♥ ♥ ♥",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2909894891/1466030620",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1098622727315951618/6XLnZyAi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098622727315951618/6XLnZyAi_normal.jpg",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "MIUSEOFFICIAL",
+      "statuses_count": 19358,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/qkUp9rEKSR",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @PRADACCIA: Solange in Thierry Mugler S/S 1991 photographed by Cary Fagan. https://t.co/UR7OIbujny",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

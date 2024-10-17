@@ -1,0 +1,25 @@
+{
+  "created_at": "Mon Apr 30 21:05:20 +0000 2018",
+  "deleted": true,
+  "favorite_count": 38024,
+  "hashtags": [],
+  "id": 991060961170620416,
+  "id_str": "991060961170620416",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 4127,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Open letter from Jan Adams    This is amazing. Thank you so much for this connection brother. I can't wait to sit w… https://t.co/ZRRDi0r8GY",
+  "truncated": true,
+  "urls": [
+    {
+      "expanded_url": "https://twitter.com/i/web/status/991060961170620416",
+      "url": "https://t.co/ZRRDi0r8GY"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

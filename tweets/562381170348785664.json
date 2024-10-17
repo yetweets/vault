@@ -1,0 +1,29 @@
+{
+  "created_at": "Mon Feb 02 22:44:54 +0000 2015",
+  "deleted": true,
+  "favorite_count": 21829,
+  "hashtags": [],
+  "id": 562381170348785664,
+  "id_str": "562381170348785664",
+  "lang": "en",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 16104,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "ONLY ONE directed by Spike Jonze, concept by Vanessa Beecroft http://t.co/QharTmKV5N\nhttps://t.co/E8drMkoPDB",
+  "urls": [
+    {
+      "expanded_url": "http://www.kanyewest.com",
+      "url": "http://t.co/QharTmKV5N"
+    },
+    {
+      "expanded_url": "https://amp.twimg.com/v/eb50dc5f-32ac-484f-948b-ca46ef14600a",
+      "url": "https://t.co/E8drMkoPDB"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,53 @@
+{
+  "created_at": "Sun May 19 05:18:24 +0000 2013",
+  "deleted": true,
+  "favorite_count": 10922,
+  "hashtags": [],
+  "id": 335987784068255744,
+  "id_str": "335987784068255744",
+  "lang": "in",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/eRErgwx8hc",
+      "expanded_url": "https://twitter.com/kanyewest/status/335987784068255744/photo/1",
+      "id": 335987784072450048,
+      "media_url": "http://pbs.twimg.com/media/BKmrHAaCUAAIgVU.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/BKmrHAaCUAAIgVU.jpg",
+      "sizes": {
+        "large": {
+          "h": 1024,
+          "resize": "fit",
+          "w": 577
+        },
+        "medium": {
+          "h": 1024,
+          "resize": "fit",
+          "w": 577
+        },
+        "small": {
+          "h": 603,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/eRErgwx8hc"
+    }
+  ],
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 10440,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "BLK SKN HEAD 2 http://t.co/eRErgwx8hc",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

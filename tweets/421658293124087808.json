@@ -1,0 +1,25 @@
+{
+  "created_at": "Fri Jan 10 15:02:25 +0000 2014",
+  "deleted": true,
+  "favorite_count": 3379,
+  "hashtags": [],
+  "id": 421658293124087808,
+  "id_str": "421658293124087808",
+  "lang": "en",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 2133,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "YEEZUS TOUR ON SALE NOW http://t.co/shjFIROujA",
+  "urls": [
+    {
+      "expanded_url": "http://kanyewest.com",
+      "url": "http://t.co/shjFIROujA"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

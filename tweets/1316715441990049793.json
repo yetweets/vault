@@ -1,0 +1,397 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 15 12:19:59 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 25365536,
+        "id_str": "25365536",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Kim Kardashian",
+        "screen_name": "KimKardashian"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1316715441990049793,
+  "id_str": "1316715441990049793",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "art",
+  "place": null,
+  "quoted_status_id": 1316586596351635457,
+  "quoted_status_id_str": "1316586596351635457",
+  "retweet_count": 1534,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 15 05:29:48 +0000 2020",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/BBMAs/status/1…",
+          "expanded_url": "https://twitter.com/BBMAs/status/1316586596351635457",
+          "indices": [
+            5,
+            28
+          ],
+          "url": "https://t.co/zDjbS60dGZ"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 31608,
+    "favorited": false,
+    "geo": null,
+    "id": 1316612218201333766,
+    "id_str": "1316612218201333766",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "art",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Oct 15 03:48:00 +0000 2020",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              32
+            ],
+            "text": "BBMAs"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ZBGjdFUf4c",
+            "expanded_url": "https://twitter.com/BBMAs/status/1316586596351635457/photo/1",
+            "id": 1316584271222513671,
+            "id_str": "1316584271222513671",
+            "indices": [
+              46,
+              69
+            ],
+            "media_url": "http://pbs.twimg.com/media/EkVya0sVoAciTAC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EkVya0sVoAciTAC.jpg",
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "resize": "fit",
+                "w": 1080
+              },
+              "medium": {
+                "h": 1080,
+                "resize": "fit",
+                "w": 1080
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ZBGjdFUf4c"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 169686021,
+            "id_str": "169686021",
+            "indices": [
+              1,
+              11
+            ],
+            "name": "ye",
+            "screen_name": "kanyewest"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ZBGjdFUf4c",
+            "expanded_url": "https://twitter.com/BBMAs/status/1316586596351635457/photo/1",
+            "id": 1316584271222513671,
+            "id_str": "1316584271222513671",
+            "indices": [
+              46,
+              69
+            ],
+            "media_url": "http://pbs.twimg.com/media/EkVya0sVoAciTAC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EkVya0sVoAciTAC.jpg",
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "resize": "fit",
+                "w": 1080
+              },
+              "medium": {
+                "h": 1080,
+                "resize": "fit",
+                "w": 1080
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ZBGjdFUf4c"
+          }
+        ]
+      },
+      "favorite_count": 10088,
+      "favorited": false,
+      "geo": null,
+      "id": 1316586596351635457,
+      "id_str": "1316586596351635457",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1490,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "text": ".@kanyewest just won FOUR #BBMAs. CONGRATS! 🤍 https://t.co/ZBGjdFUf4c",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 07 18:26:22 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Congrats to all of the winners at the 2022 #BBMAs! 🏆",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "billboardmusicawards.com",
+                "expanded_url": "http://www.billboardmusicawards.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/wiNSyEd6dN"
+              }
+            ]
+          }
+        },
+        "favourites_count": 2835,
+        "follow_request_sent": false,
+        "followers_count": 3966039,
+        "following": false,
+        "friends_count": 2235,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 278662460,
+        "id_str": "278662460",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3192,
+        "location": "",
+        "name": "Billboard Music Awards",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/278662460/1652678607",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1512189772978040859/qCJRReyu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1512189772978040859/qCJRReyu_normal.jpg",
+        "profile_link_color": "005BD8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "BBMAs",
+        "statuses_count": 10038,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/wiNSyEd6dN",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+      }
+    },
+    "quoted_status_id": 1316586596351635457,
+    "quoted_status_id_str": "1316586596351635457",
+    "retweet_count": 1534,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "🎤🎤🎤🎤 https://t.co/zDjbS60dGZ",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 19 19:21:56 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@SKIMS @SKKN @SKKYPartners",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "skkn.social/tw-shop-skkn",
+              "expanded_url": "http://skkn.social/tw-shop-skkn",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/TRbotrB3Vz"
+            }
+          ]
+        }
+      },
+      "favourites_count": 206,
+      "follow_request_sent": false,
+      "followers_count": 74331554,
+      "following": true,
+      "friends_count": 122,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25365536,
+      "id_str": "25365536",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 72172,
+      "location": " ",
+      "name": "Kim Kardashian",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25365536/1662565800",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1589659852271280128/KhrL02UB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1589659852271280128/KhrL02UB_normal.jpg",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KimKardashian",
+      "statuses_count": 36119,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/TRbotrB3Vz",
+      "utc_offset": null,
+      "verified": true,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @KimKardashian: 🎤🎤🎤🎤",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 9,
+    "follow_request_sent": false,
+    "followers_count": 32253242,
+    "following": true,
+    "friends_count": 209,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 43464,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1929,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true,
+    "withheld_in_countries": []
+  }
+}

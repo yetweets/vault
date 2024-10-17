@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat May 21 11:52:15 +0000 2016",
+  "deleted": true,
+  "favorite_count": 14630,
+  "hashtags": [],
+  "id": 733988777161412608,
+  "id_str": "733988777161412608",
+  "lang": "es",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 3644,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "NO MORE PARTIES IN LA https://t.co/WZnV0lMoXM",
+  "urls": [
+    {
+      "expanded_url": "http://shop.kanyewest.com",
+      "url": "https://t.co/WZnV0lMoXM"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

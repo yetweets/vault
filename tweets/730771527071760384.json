@@ -1,0 +1,25 @@
+{
+  "created_at": "Thu May 12 14:48:03 +0000 2016",
+  "deleted": true,
+  "favorite_count": 46261,
+  "hashtags": [],
+  "id": 730771527071760384,
+  "id_str": "730771527071760384",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 24840,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": ".@ScHoolBoyQ GET TOP DAWG ON THE PHONE !",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 22736017,
+      "name": "ScHoolboy Q",
+      "screen_name": "ScHoolboyQ"
+    }
+  ]
+}

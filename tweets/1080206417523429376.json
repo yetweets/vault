@@ -1,0 +1,480 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jan 01 20:57:33 +0000 2019",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/NvsovzihjT",
+        "expanded_url": "https://twitter.com/yetaughtni/status/1076129579943620610/video/1",
+        "id": 1076129492156977152,
+        "id_str": "1076129492156977152",
+        "indices": [
+          94,
+          117
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1076129492156977152/pu/img/D8oIJSTfral8w4up.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1076129492156977152/pu/img/D8oIJSTfral8w4up.jpg",
+        "sizes": {
+          "large": {
+            "h": 592,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 555,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 315,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1076129579943620610,
+        "source_status_id_str": "1076129579943620610",
+        "source_user_id": 487518440,
+        "source_user_id_str": "487518440",
+        "type": "photo",
+        "url": "https://t.co/NvsovzihjT"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 487518440,
+        "id_str": "487518440",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "ni",
+        "screen_name": "yetaughtni"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Feb 09 13:03:47 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "Instagram.com/yetaughtni",
+                    "expanded_url": "http://Instagram.com/yetaughtni",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/hyoWt8cChs"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 112986,
+            "follow_request_sent": false,
+            "followers_count": 2148,
+            "following": false,
+            "friends_count": 396,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 487518440,
+            "id_str": "487518440",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 15,
+            "location": "miami",
+            "name": "ni",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/487518440/1589738525",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1289006700448698370/hy4cJ6U__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1289006700448698370/hy4cJ6U__normal.jpg",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "yetaughtni",
+            "statuses_count": 14986,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/hyoWt8cChs",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/NvsovzihjT",
+        "expanded_url": "https://twitter.com/yetaughtni/status/1076129579943620610/video/1",
+        "id": 1076129492156977152,
+        "id_str": "1076129492156977152",
+        "indices": [
+          94,
+          117
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1076129492156977152/pu/img/D8oIJSTfral8w4up.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1076129492156977152/pu/img/D8oIJSTfral8w4up.jpg",
+        "sizes": {
+          "large": {
+            "h": 592,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 555,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 315,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1076129579943620610,
+        "source_status_id_str": "1076129579943620610",
+        "source_user_id": 487518440,
+        "source_user_id_str": "487518440",
+        "type": "video",
+        "url": "https://t.co/NvsovzihjT",
+        "video_info": {
+          "aspect_ratio": [
+            80,
+            37
+          ],
+          "duration_millis": 57933,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1076129492156977152/pu/vid/778x360/KOLMOllrFKdhe7fH.mp4?tag=6"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1076129492156977152/pu/vid/388x180/AhUN-HjE2NFjkHcC.mp4?tag=6"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1076129492156977152/pu/vid/1280x592/BXuDBgkyIglBgdi1.mp4?tag=6"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1076129492156977152/pu/pl/n32SkwXx1IzyvPN6.m3u8?tag=6"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1080206417523429376,
+  "id_str": "1080206417523429376",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 13923,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 21 14:57:40 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/NvsovzihjT",
+          "expanded_url": "https://twitter.com/yetaughtni/status/1076129579943620610/video/1",
+          "id": 1076129492156977152,
+          "id_str": "1076129492156977152",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1076129492156977152/pu/img/D8oIJSTfral8w4up.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1076129492156977152/pu/img/D8oIJSTfral8w4up.jpg",
+          "sizes": {
+            "large": {
+              "h": 592,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 555,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 315,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/NvsovzihjT"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/NvsovzihjT",
+          "expanded_url": "https://twitter.com/yetaughtni/status/1076129579943620610/video/1",
+          "id": 1076129492156977152,
+          "id_str": "1076129492156977152",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1076129492156977152/pu/img/D8oIJSTfral8w4up.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1076129492156977152/pu/img/D8oIJSTfral8w4up.jpg",
+          "sizes": {
+            "large": {
+              "h": 592,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 555,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 315,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/NvsovzihjT",
+          "video_info": {
+            "aspect_ratio": [
+              80,
+              37
+            ],
+            "duration_millis": 57933,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1076129492156977152/pu/vid/778x360/KOLMOllrFKdhe7fH.mp4?tag=6"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1076129492156977152/pu/vid/388x180/AhUN-HjE2NFjkHcC.mp4?tag=6"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1076129492156977152/pu/vid/1280x592/BXuDBgkyIglBgdi1.mp4?tag=6"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1076129492156977152/pu/pl/n32SkwXx1IzyvPN6.m3u8?tag=6"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 45034,
+    "favorited": false,
+    "geo": null,
+    "id": 1076129579943620610,
+    "id_str": "1076129579943620610",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13923,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Honestly felt like the TL needed this... words of wisdom from the wisest ✨✨✨✨ https://t.co/NvsovzihjT",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 09 13:03:47 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/yetaughtni",
+              "expanded_url": "http://Instagram.com/yetaughtni",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/hyoWt8cChs"
+            }
+          ]
+        }
+      },
+      "favourites_count": 112986,
+      "follow_request_sent": false,
+      "followers_count": 2148,
+      "following": false,
+      "friends_count": 396,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 487518440,
+      "id_str": "487518440",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 15,
+      "location": "miami",
+      "name": "ni",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/487518440/1589738525",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1289006700448698370/hy4cJ6U__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1289006700448698370/hy4cJ6U__normal.jpg",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "yetaughtni",
+      "statuses_count": 14986,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/hyoWt8cChs",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @yetaughtni: Honestly felt like the TL needed this... words of wisdom from the wisest ✨✨✨✨ https://t.co/NvsovzihjT",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 30760502,
+    "following": true,
+    "friends_count": 259,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 44256,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1358,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

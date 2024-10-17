@@ -1,0 +1,354 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jul 01 18:22:06 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/tydollasign/st…",
+        "expanded_url": "https://twitter.com/tydollasign/status/1278360802945204224",
+        "indices": [
+          15,
+          38
+        ],
+        "url": "https://t.co/E95eZMWJki"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 75557,
+  "favorited": false,
+  "geo": null,
+  "id": 1278393456377896960,
+  "id_str": "1278393456377896960",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 01 16:12:20 +0000 2020",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/fkiQQ0pvCW",
+          "expanded_url": "https://twitter.com/tydollasign/status/1278360802945204224/video/1",
+          "id": 1278360765141901312,
+          "id_str": "1278360765141901312",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1278360765141901312/pu/img/yQI91epwisUD_guL.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1278360765141901312/pu/img/yQI91epwisUD_guL.jpg",
+          "sizes": {
+            "large": {
+              "h": 960,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 960,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/fkiQQ0pvCW"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "dollasign.lnk.to/EgoDeath",
+          "expanded_url": "http://dollasign.lnk.to/EgoDeath",
+          "indices": [
+            22,
+            45
+          ],
+          "url": "https://t.co/7AhkazqKyR"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 169686021,
+          "id_str": "169686021",
+          "indices": [
+            47,
+            57
+          ],
+          "name": "ye",
+          "screen_name": "kanyewest"
+        },
+        {
+          "id": 748020092,
+          "id_str": "748020092",
+          "indices": [
+            59,
+            68
+          ],
+          "name": "FKA twigs",
+          "screen_name": "FKAtwigs"
+        },
+        {
+          "id": 18825961,
+          "id_str": "18825961",
+          "indices": [
+            70,
+            79
+          ],
+          "name": "Skrillex",
+          "screen_name": "Skrillex"
+        },
+        {
+          "id": 742461349691838464,
+          "id_str": "742461349691838464",
+          "indices": [
+            81,
+            97
+          ],
+          "name": "serpent",
+          "screen_name": "serpentwithfeet"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/fkiQQ0pvCW",
+          "expanded_url": "https://twitter.com/tydollasign/status/1278360802945204224/video/1",
+          "id": 1278360765141901312,
+          "id_str": "1278360765141901312",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1278360765141901312/pu/img/yQI91epwisUD_guL.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1278360765141901312/pu/img/yQI91epwisUD_guL.jpg",
+          "sizes": {
+            "large": {
+              "h": 960,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 960,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/fkiQQ0pvCW",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 17131,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1278360765141901312/pu/pl/gYlKRZwXgsCF6eXQ.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1278360765141901312/pu/vid/480x480/HH_NZtMXr7TcdHdg.mp4?tag=10"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1278360765141901312/pu/vid/720x720/r5cF-gMos99xp_Co.mp4?tag=10"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1278360765141901312/pu/vid/320x320/d2bRUq8WjWrYRHtq.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 23922,
+    "favorited": false,
+    "geo": null,
+    "id": 1278360802945204224,
+    "id_str": "1278360802945204224",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4156,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "“EGO DEATH” OUT NOW!!\nhttps://t.co/7AhkazqKyR\n\n@kanyewest \n@FKAtwigs \n@Skrillex \n@serpentwithfeet https://t.co/fkiQQ0pvCW",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Mar 23 02:10:19 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Expensive ft @nickiminaj out now!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "dollasign.lnk.to/Expensive",
+              "expanded_url": "https://dollasign.lnk.to/Expensive",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/5QXhoZMRun"
+            }
+          ]
+        }
+      },
+      "favourites_count": 15094,
+      "follow_request_sent": false,
+      "followers_count": 1593513,
+      "following": false,
+      "friends_count": 1672,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25932445,
+      "id_str": "25932445",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1380,
+      "location": "Los Angeles, CA",
+      "name": "Ty Dolla $ign",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25932445/1597725308",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1298306577233895424/h9qYieXC_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1298306577233895424/h9qYieXC_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "tydollasign",
+      "statuses_count": 14387,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/5QXhoZMRun",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1278360802945204224,
+  "quoted_status_id_str": "1278360802945204224",
+  "retweet_count": 8319,
+  "retweeted": false,
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "text": "new joint w ty https://t.co/E95eZMWJki",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 30875094,
+    "following": true,
+    "friends_count": 258,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 44274,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1420,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

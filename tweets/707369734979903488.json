@@ -1,0 +1,25 @@
+{
+  "created_at": "Wed Mar 09 00:57:41 +0000 2016",
+  "deleted": true,
+  "favorite_count": 9165,
+  "hashtags": [],
+  "id": 707369734979903488,
+  "id_str": "707369734979903488",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 2006,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Met with @Hermes_Paris family yesterday… been out here fighting for 13 years and it feels like we’re finally seeing wins…",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 537989713,
+      "name": "Hermès Paris",
+      "screen_name": "Hermes_Paris"
+    }
+  ]
+}

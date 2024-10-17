@@ -1,0 +1,480 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Nov 01 17:38:57 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/LRD9BN2M6K",
+        "expanded_url": "https://twitter.com/KimKardashian/status/1057845073369423872/video/1",
+        "id": 1057845042411229186,
+        "id_str": "1057845042411229186",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057845042411229186/pu/img/MdCTzC0xMjufTDUJ.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057845042411229186/pu/img/MdCTzC0xMjufTDUJ.jpg",
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1057845073369423872,
+        "source_status_id_str": "1057845073369423872",
+        "source_user_id": 25365536,
+        "source_user_id_str": "25365536",
+        "type": "photo",
+        "url": "https://t.co/LRD9BN2M6K"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 25365536,
+        "id_str": "25365536",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Kim Kardashian West",
+        "screen_name": "KimKardashian"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Mar 19 19:21:56 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "@KKWBEAUTY @KKWFRAGRANCE",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "KKWBEAUTY.COM",
+                    "expanded_url": "http://KKWBEAUTY.COM",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/1GAnUjOqG1"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 9,
+            "follow_request_sent": false,
+            "followers_count": 60003624,
+            "following": true,
+            "friends_count": 146,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 25365536,
+            "id_str": "25365536",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 81988,
+            "location": " ",
+            "name": "Kim Kardashian West",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25365536/1483463179",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1044786302443372544/3bIbMHgS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044786302443372544/3bIbMHgS_normal.jpg",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "KimKardashian",
+            "statuses_count": 28952,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/1GAnUjOqG1",
+            "utc_offset": null,
+            "verified": true
+          }
+        },
+        "display_url": "pic.twitter.com/LRD9BN2M6K",
+        "expanded_url": "https://twitter.com/KimKardashian/status/1057845073369423872/video/1",
+        "id": 1057845042411229186,
+        "id_str": "1057845042411229186",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057845042411229186/pu/img/MdCTzC0xMjufTDUJ.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057845042411229186/pu/img/MdCTzC0xMjufTDUJ.jpg",
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1057845073369423872,
+        "source_status_id_str": "1057845073369423872",
+        "source_user_id": 25365536,
+        "source_user_id_str": "25365536",
+        "type": "video",
+        "url": "https://t.co/LRD9BN2M6K",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 5773,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1057845042411229186/pu/vid/360x640/BmRr4bvMcXg3cvO_.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1057845042411229186/pu/pl/1DYCZ8D37Zyr-7on.m3u8?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1057845042411229186/pu/vid/180x320/JykCvY_9jj2cU-GR.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1057845042411229186/pu/vid/720x1280/uSj7KTuM3KDFR11h.mp4?tag=5"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1058050777988587521,
+  "id_str": "1058050777988587521",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 3911,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 01 04:01:33 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/LRD9BN2M6K",
+          "expanded_url": "https://twitter.com/KimKardashian/status/1057845073369423872/video/1",
+          "id": 1057845042411229186,
+          "id_str": "1057845042411229186",
+          "indices": [
+            10,
+            33
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057845042411229186/pu/img/MdCTzC0xMjufTDUJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057845042411229186/pu/img/MdCTzC0xMjufTDUJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/LRD9BN2M6K"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/LRD9BN2M6K",
+          "expanded_url": "https://twitter.com/KimKardashian/status/1057845073369423872/video/1",
+          "id": 1057845042411229186,
+          "id_str": "1057845042411229186",
+          "indices": [
+            10,
+            33
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057845042411229186/pu/img/MdCTzC0xMjufTDUJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057845042411229186/pu/img/MdCTzC0xMjufTDUJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/LRD9BN2M6K",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 5773,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1057845042411229186/pu/vid/360x640/BmRr4bvMcXg3cvO_.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1057845042411229186/pu/pl/1DYCZ8D37Zyr-7on.m3u8?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1057845042411229186/pu/vid/180x320/JykCvY_9jj2cU-GR.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1057845042411229186/pu/vid/720x1280/uSj7KTuM3KDFR11h.mp4?tag=5"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 57880,
+    "favorited": false,
+    "geo": null,
+    "id": 1057845073369423872,
+    "id_str": "1057845073369423872",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3911,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Guess who https://t.co/LRD9BN2M6K",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 19 19:21:56 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@KKWBEAUTY @KKWFRAGRANCE",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "KKWBEAUTY.COM",
+              "expanded_url": "http://KKWBEAUTY.COM",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/1GAnUjOqG1"
+            }
+          ]
+        }
+      },
+      "favourites_count": 9,
+      "follow_request_sent": false,
+      "followers_count": 60003624,
+      "following": true,
+      "friends_count": 146,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25365536,
+      "id_str": "25365536",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 81988,
+      "location": " ",
+      "name": "Kim Kardashian West",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25365536/1483463179",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1044786302443372544/3bIbMHgS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044786302443372544/3bIbMHgS_normal.jpg",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KimKardashian",
+      "statuses_count": 28952,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/1GAnUjOqG1",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @KimKardashian: Guess who https://t.co/LRD9BN2M6K",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

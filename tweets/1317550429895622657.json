@@ -1,0 +1,206 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Oct 17 19:37:56 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/9FOPjU36K3",
+        "expanded_url": "https://twitter.com/kanyewest/status/1317550429895622657/photo/1",
+        "id": 1317550422966632449,
+        "id_str": "1317550422966632449",
+        "indices": [
+          80,
+          103
+        ],
+        "media_url": "http://pbs.twimg.com/media/EkjhIQaXgAEAA3H.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EkjhIQaXgAEAA3H.jpg",
+        "sizes": {
+          "large": {
+            "h": 1920,
+            "resize": "fit",
+            "w": 887
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 554
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 314
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/9FOPjU36K3"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/9FOPjU36K3",
+        "expanded_url": "https://twitter.com/kanyewest/status/1317550429895622657/photo/1",
+        "id": 1317550422966632449,
+        "id_str": "1317550422966632449",
+        "indices": [
+          80,
+          103
+        ],
+        "media_url": "http://pbs.twimg.com/media/EkjhIQaXgAEAA3H.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EkjhIQaXgAEAA3H.jpg",
+        "sizes": {
+          "large": {
+            "h": 1920,
+            "resize": "fit",
+            "w": 887
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 554
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 314
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/9FOPjU36K3"
+      },
+      {
+        "display_url": "pic.twitter.com/9FOPjU36K3",
+        "expanded_url": "https://twitter.com/kanyewest/status/1317550429895622657/photo/1",
+        "id": 1317550426003279890,
+        "id_str": "1317550426003279890",
+        "indices": [
+          80,
+          103
+        ],
+        "media_url": "http://pbs.twimg.com/media/EkjhIbuXEBI5MpD.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EkjhIbuXEBI5MpD.jpg",
+        "sizes": {
+          "large": {
+            "h": 887,
+            "resize": "fit",
+            "w": 1920
+          },
+          "medium": {
+            "h": 554,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 314,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/9FOPjU36K3"
+      }
+    ]
+  },
+  "favorite_count": 193269,
+  "favorited": false,
+  "geo": null,
+  "id": 1317550429895622657,
+  "id_str": "1317550429895622657",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 17149,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Joe Rogan said it’s cool for me to design the set for our podcast this Friday ⛷ https://t.co/9FOPjU36K3",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 9,
+    "follow_request_sent": false,
+    "followers_count": 32253242,
+    "following": true,
+    "friends_count": 209,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 43464,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1929,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true,
+    "withheld_in_countries": []
+  }
+}

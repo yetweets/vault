@@ -1,0 +1,24 @@
+{
+  "created_at": "Wed Jul 27 19:28:39 +0000 2016",
+  "deleted": true,
+  "favorite_count": 14804,
+  "hashtags": [],
+  "id": 758383618267881472,
+  "id_str": "758383618267881472",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 5246,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "ASK SOMEBODY https://t.co/y4BjwvEUgD",
+  "urls": [
+    {
+      "expanded_url": "https://m.soundcloud.com/cons192/ask-somebody-feat-ty-dolla-sign-tony-yayo",
+      "url": "https://t.co/y4BjwvEUgD"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

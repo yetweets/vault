@@ -1,0 +1,263 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Oct 23 00:56:57 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 34616510,
+        "id_str": "34616510",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Dennis Rodman",
+        "screen_name": "dennisrodman"
+      },
+      {
+        "id": 169686021,
+        "id_str": "169686021",
+        "indices": [
+          44,
+          54
+        ],
+        "name": "ye",
+        "screen_name": "kanyewest"
+      },
+      {
+        "id": 1002177303655452672,
+        "id_str": "1002177303655452672",
+        "indices": [
+          81,
+          90
+        ],
+        "name": "Darren Prince",
+        "screen_name": "AgentD_P"
+      },
+      {
+        "id": 1003694987865935872,
+        "id_str": "1003694987865935872",
+        "indices": [
+          100,
+          111
+        ],
+        "name": "AimingHighBook",
+        "screen_name": "AimingBook"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1054537126304534528,
+  "id_str": "1054537126304534528",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 756,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 23 00:56:29 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1054537008343867393",
+          "indices": [
+            116,
+            139
+          ],
+          "url": "https://t.co/ZvjU555qbc"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 169686021,
+          "id_str": "169686021",
+          "indices": [
+            26,
+            36
+          ],
+          "name": "ye",
+          "screen_name": "kanyewest"
+        },
+        {
+          "id": 1002177303655452672,
+          "id_str": "1002177303655452672",
+          "indices": [
+            63,
+            72
+          ],
+          "name": "Darren Prince",
+          "screen_name": "AgentD_P"
+        },
+        {
+          "id": 1003694987865935872,
+          "id_str": "1003694987865935872",
+          "indices": [
+            82,
+            93
+          ],
+          "name": "AimingHighBook",
+          "screen_name": "AimingBook"
+        }
+      ]
+    },
+    "favorite_count": 5475,
+    "favorited": false,
+    "geo": null,
+    "id": 1054537008343867393,
+    "id_str": "1054537008343867393",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 756,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Great hanging with my bro @kanyewest today. Just like my agent @AgentD_P 's book \"@AimingBook\". We both have Aimed… https://t.co/ZvjU555qbc",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Apr 23 13:51:51 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "NBA Hall of Famer. Just being me.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "dennisrodman.com",
+              "expanded_url": "http://www.dennisrodman.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/KayT8oRhKq"
+            }
+          ]
+        }
+      },
+      "favourites_count": 683,
+      "follow_request_sent": false,
+      "followers_count": 374122,
+      "following": false,
+      "friends_count": 177,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 34616510,
+      "id_str": "34616510",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 3198,
+      "location": "",
+      "name": "Dennis Rodman",
+      "notifications": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/34616510/1552278893",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1067911152074670082/iduY7ZMt_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067911152074670082/iduY7ZMt_normal.jpg",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "dennisrodman",
+      "statuses_count": 5371,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/KayT8oRhKq",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @dennisrodman: Great hanging with my bro @kanyewest today. Just like my agent @AgentD_P 's book \"@AimingBook\". We both have Aimed High o…",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

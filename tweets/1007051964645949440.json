@@ -1,0 +1,199 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jun 14 00:07:53 +0000 2018",
+  "deleted": true,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/luisragon7/sta…",
+        "expanded_url": "https://twitter.com/luisragon7/status/1006327910322655233?s=21",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/ncdn4z8Zno"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1007051964645949440,
+  "id_str": "1007051964645949440",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "legacy_imported": true,
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 12 00:10:45 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1006327910322655233",
+          "indices": [
+            117,
+            140
+          ],
+          "url": "https://t.co/DYnKJbxgw6"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        235
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              221,
+              235
+            ],
+            "text": "KidsSeeGhosts"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "full_text": "\"Everybody want world peace, till your niece gets shot in the dome-piece, then you go and get your own piece, hoping it'll help you find your own peace\" \nThese lyrics are the most accurate description of todays world imo #KidsSeeGhosts"
+    },
+    "favorite_count": 4,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1006327910322655233,
+    "id_str": "1006327910322655233",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "\"Everybody want world peace, till your niece gets shot in the dome-piece, then you go and get your own piece, hopin… https://t.co/DYnKJbxgw6",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 13 06:25:39 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "King of Turtles Fantasy Football Champion ×2 '14, '17\n#CowboysNation #MFFL #TexasRangers",
+      "favourites_count": 8294,
+      "follow_request_sent": null,
+      "followers_count": 299,
+      "following": null,
+      "friends_count": 270,
+      "geo_enabled": true,
+      "id": 435575575,
+      "id_str": "435575575",
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 3,
+      "location": "the great state of texas",
+      "name": "Luis Ragon",
+      "notifications": null,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/435575575/1484357604",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/944646507491405824/dpSqD55E_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/944646507491405824/dpSqD55E_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "FFFF05",
+      "profile_sidebar_fill_color": "FCF9FC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "LuisRagon7",
+      "statuses_count": 6245,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1006327910322655233,
+  "quoted_status_id_str": "1006327910322655233",
+  "quoted_status_permalink": {
+    "display": "twitter.com/luisragon7/sta…",
+    "expanded": "https://twitter.com/luisragon7/status/1006327910322655233?s=21",
+    "url": "https://t.co/ncdn4z8Zno"
+  },
+  "reply_count": 0,
+  "retrieved": "2018-06-14--00-07-53",
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "https://t.co/ncdn4z8Zno",
+  "timestamp_ms": "1528934873149",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": null,
+    "favourites_count": 2,
+    "follow_request_sent": null,
+    "followers_count": 28418675,
+    "following": null,
+    "friends_count": 4,
+    "geo_enabled": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49902,
+    "location": null,
+    "name": "KANYE WEST",
+    "notifications": null,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/585565077207678977/N_eNSBXi_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/585565077207678977/N_eNSBXi_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 481,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "http://KANYEWEST.COM",
+    "utc_offset": null,
+    "verified": true
+  }
+}

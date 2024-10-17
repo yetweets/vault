@@ -1,0 +1,25 @@
+{
+  "created_at": "Mon Jul 22 08:04:24 +0000 2013",
+  "deleted": true,
+  "favorite_count": 4287,
+  "hashtags": [],
+  "id": 359222382658985984,
+  "id_str": "359222382658985984",
+  "lang": "in",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 7873,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "BLKKK SKKKN HEAD http://t.co/ctery9mHJA",
+  "urls": [
+    {
+      "expanded_url": "http://www.kanyewest.com",
+      "url": "http://t.co/ctery9mHJA"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

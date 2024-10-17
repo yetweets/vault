@@ -1,0 +1,52 @@
+{
+  "created_at": "Sat Apr 02 21:24:54 +0000 2016",
+  "deleted": true,
+  "favorite_count": 23742,
+  "hashtags": [],
+  "id": 716375879715139584,
+  "id_str": "716375879715139584",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/aEPqoBGY4b",
+      "expanded_url": "https://twitter.com/kanyewest/status/716375879715139584/photo/1",
+      "id": 716375877467017216,
+      "media_url": "http://pbs.twimg.com/media/CfEUEKYUkAAjcn_.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CfEUEKYUkAAjcn_.jpg",
+      "sizes": {
+        "large": {
+          "h": 1365,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 800,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 453,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/aEPqoBGY4b"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 6482,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "I've been trying to figure out the bed design for the master bedroom at our Hidden Hills compound... https://t.co/aEPqoBGY4b",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

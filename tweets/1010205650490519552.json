@@ -1,0 +1,80 @@
+{
+  "created_at": "Fri Jun 22 16:59:30 +0000 2018",
+  "deleted": true,
+  "favorite_count": 155862,
+  "hashtags": [],
+  "id": 1010205650490519552,
+  "id_str": "1010205650490519552",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/bHZApDf3Ol",
+      "expanded_url": "https://twitter.com/kanyewest/status/1010205650490519552/video/1",
+      "id": 1010205395548114944,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1010205395548114944/pu/img/zeSp7Uv3aTg_jx6k.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1010205395548114944/pu/img/zeSp7Uv3aTg_jx6k.jpg",
+      "sizes": {
+        "large": {
+          "h": 1280,
+          "resize": "fit",
+          "w": 720
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 675
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 383
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "video",
+      "url": "https://t.co/bHZApDf3Ol",
+      "video_info": {
+        "aspect_ratio": [
+          9,
+          16
+        ],
+        "duration_millis": 59108,
+        "variants": [
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1010205395548114944/pu/vid/360x640/KGJ-45DiwvcWXH4A.mp4?tag=3"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1010205395548114944/pu/pl/z0JfUzVHfOSdQ77R.m3u8?tag=3"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1010205395548114944/pu/vid/720x1280/tEDDU-b0jNKk6zWe.mp4?tag=3"
+          },
+          {
+            "bitrate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1010205395548114944/pu/vid/180x320/z1eB-WeFZMA-XojJ.mp4?tag=3"
+          }
+        ]
+      }
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 24207,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "I love you brother   congratulations https://t.co/bHZApDf3Ol",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

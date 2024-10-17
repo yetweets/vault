@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun Apr 22 18:05:04 +0000 2018",
+  "deleted": true,
+  "favorite_count": 13939,
+  "hashtags": [],
+  "id": 988116492817334272,
+  "id_str": "988116492817334272",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/1V7Tb3LuWm",
+      "expanded_url": "https://twitter.com/kanyewest/status/988116492817334272/photo/1",
+      "id": 988116485426921472,
+      "media_url": "http://pbs.twimg.com/media/DbZ-tU6UQAA4oFQ.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DbZ-tU6UQAA4oFQ.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 1438
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 843
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 477
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/1V7Tb3LuWm"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 1439,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "David Hammons Higher Goals. https://t.co/1V7Tb3LuWm",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

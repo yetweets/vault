@@ -1,0 +1,27 @@
+{
+  "created_at": "Wed Mar 02 18:30:06 +0000 2016",
+  "deleted": true,
+  "favorite_count": 45405,
+  "hashtags": [],
+  "id": 705097867757752322,
+  "id_str": "705097867757752322",
+  "in_reply_to_screen_name": "deadmau5",
+  "in_reply_to_user_id": 22412376,
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 39014,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "@Deadmau5 … is this person’s name pronounced dead-mow-five?",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 22412376,
+      "name": "dead mow cinco",
+      "screen_name": "deadmau5"
+    }
+  ]
+}

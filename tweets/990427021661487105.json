@@ -1,0 +1,57 @@
+{
+  "created_at": "Sun Apr 29 03:06:17 +0000 2018",
+  "deleted": true,
+  "hashtags": [],
+  "id": 990427021661487105,
+  "id_str": "990427021661487105",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 1735,
+  "retweeted_status": {
+    "created_at": "Sat Apr 28 21:27:30 +0000 2018",
+    "favorite_count": 9819,
+    "hashtags": [],
+    "id": 990341762366357504,
+    "id_str": "990341762366357504",
+    "lang": "en",
+    "retweet_count": 1735,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Weigh the argument against LOVE. Kanye sees this and as a Lincoln-Douglas Debater so does @ali. It is about the val… https://t.co/j2CwdWKhfa",
+    "truncated": true,
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/990341762366357504",
+        "url": "https://t.co/j2CwdWKhfa"
+      }
+    ],
+    "user": {
+      "id": 45092806
+    },
+    "user_mentions": [
+      {
+        "id": 6782762,
+        "name": "Ali Alexander",
+        "screen_name": "ali"
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @alialexanderorg: Weigh the argument against LOVE. Kanye sees this and as a Lincoln-Douglas Debater so does @ali. It is about the value…",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 45092806,
+      "name": "@Ali",
+      "screen_name": "alialexanderorg"
+    },
+    {
+      "id": 6782762,
+      "name": "Ali Alexander",
+      "screen_name": "ali"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "created_at": "Tue Feb 25 23:03:57 +0000 2014",
+  "deleted": true,
+  "favorite_count": 10054,
+  "hashtags": [],
+  "id": 438449315531333633,
+  "id_str": "438449315531333633",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 6199,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "I'm performing tonight on @LateNightSeth",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 570290656,
+      "name": "Late Night",
+      "screen_name": "LateNightSeth"
+    }
+  ]
+}

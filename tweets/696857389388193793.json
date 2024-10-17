@@ -1,0 +1,58 @@
+{
+  "created_at": "Tue Feb 09 00:45:23 +0000 2016",
+  "deleted": true,
+  "favorite_count": 15794,
+  "hashtags": [],
+  "id": 696857389388193793,
+  "id_str": "696857389388193793",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/QHeDGN4Zix",
+      "expanded_url": "https://twitter.com/kanyewest/status/696857389388193793/photo/1",
+      "id": 696857385034448896,
+      "media_url": "http://pbs.twimg.com/media/Cau8GX4WAAAt0L1.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Cau8GX4WAAAt0L1.jpg",
+      "sizes": {
+        "large": {
+          "h": 1024,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 600,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 340,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/QHeDGN4Zix"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 5573,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "@ fitting /@asaprocky https://t.co/QHeDGN4Zix",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 3131379431,
+      "name": "ASAPRocky",
+      "screen_name": "ASAPRocky"
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Nov 08 17:50:02 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/virgilabloh/st…",
+        "expanded_url": "https://twitter.com/virgilabloh/status/1060386982721998849",
+        "indices": [
+          21,
+          44
+        ],
+        "url": "https://t.co/8H5Lhi2QiO"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 548640851,
+        "id_str": "548640851",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "ً",
+        "screen_name": "JaidaRaymond"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1060590280100012032,
+  "id_str": "1060590280100012032",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1060386982721998849,
+  "quoted_status_id_str": "1060386982721998849",
+  "retweet_count": 393,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 08 17:47:47 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/virgilabloh/st…",
+          "expanded_url": "https://twitter.com/virgilabloh/status/1060386982721998849",
+          "indices": [
+            3,
+            26
+          ],
+          "url": "https://t.co/8H5Lhi2QiO"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 4430,
+    "favorited": false,
+    "geo": null,
+    "id": 1060589715546664962,
+    "id_str": "1060589715546664962",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Nov 08 04:22:12 +0000 2018",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Q1bD53UmKC",
+            "expanded_url": "https://twitter.com/virgilabloh/status/1060386982721998849/photo/1",
+            "id": 1060386976682119168,
+            "id_str": "1060386976682119168",
+            "indices": [
+              6,
+              29
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrdAVk2WkAAmpqY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrdAVk2WkAAmpqY.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1342
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 786
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 446
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Q1bD53UmKC"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Q1bD53UmKC",
+            "expanded_url": "https://twitter.com/virgilabloh/status/1060386982721998849/photo/1",
+            "id": 1060386976682119168,
+            "id_str": "1060386976682119168",
+            "indices": [
+              6,
+              29
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrdAVk2WkAAmpqY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrdAVk2WkAAmpqY.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1342
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 786
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 446
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Q1bD53UmKC"
+          }
+        ]
+      },
+      "favorite_count": 9842,
+      "favorited": false,
+      "geo": null,
+      "id": 1060386982721998849,
+      "id_str": "1060386982721998849",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "und",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1784,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text": "✨✨✨™️ https://t.co/Q1bD53UmKC",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 25 07:37:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Off-White™ +1-855-633-9483",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "off---white.com",
+                "expanded_url": "http://www.off---white.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/xD2wYJc2Ze"
+              }
+            ]
+          }
+        },
+        "favourites_count": 21169,
+        "follow_request_sent": false,
+        "followers_count": 359695,
+        "following": false,
+        "friends_count": 1983,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 21845792,
+        "id_str": "21845792",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 978,
+        "location": "Around",
+        "name": "virgil abloh",
+        "notifications": false,
+        "profile_background_color": "807D80",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21845792/1388068821",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/918960289898430464/xWXpqG9H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/918960289898430464/xWXpqG9H_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "virgilabloh",
+        "statuses_count": 18193,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/xD2wYJc2Ze",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1060386982721998849,
+    "quoted_status_id_str": "1060386982721998849",
+    "retweet_count": 393,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "🐐🐐 https://t.co/8H5Lhi2QiO",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Apr 08 18:59:24 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "yes i still stan kanye, we exist. ye follows💜",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "KANYEWEST.COM",
+              "expanded_url": "http://KANYEWEST.COM",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/R6cANtKbeA"
+            }
+          ]
+        }
+      },
+      "favourites_count": 17518,
+      "follow_request_sent": false,
+      "followers_count": 3858,
+      "following": false,
+      "friends_count": 332,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 548640851,
+      "id_str": "548640851",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 40,
+      "location": "",
+      "name": "ً",
+      "notifications": false,
+      "profile_background_color": "DBE9ED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/548640851/1535764838",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1042152181330259971/lrQ-nojF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042152181330259971/lrQ-nojF_normal.jpg",
+      "profile_link_color": "CC3366",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "JaidaRaymond",
+      "statuses_count": 74916,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/R6cANtKbeA",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @JaidaRaymond: 🐐🐐 https://t.co/8H5Lhi2QiO",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

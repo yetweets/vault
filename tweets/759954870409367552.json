@@ -1,0 +1,30 @@
+{
+  "created_at": "Mon Aug 01 03:32:15 +0000 2016",
+  "deleted": true,
+  "favorite_count": 15289,
+  "hashtags": [],
+  "id": 759954870409367552,
+  "id_str": "759954870409367552",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 4267,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "First music video that is also an ad campaign directed by Steven Klein for @BALMAIN https://t.co/VJwvkKEx1i",
+  "urls": [
+    {
+      "expanded_url": "http://www.balmain.com",
+      "url": "https://t.co/VJwvkKEx1i"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 549470860,
+      "name": "Balmain",
+      "screen_name": "Balmain"
+    }
+  ]
+}

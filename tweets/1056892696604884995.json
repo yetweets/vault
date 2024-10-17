@@ -1,0 +1,202 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Oct 29 12:57:09 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 7428362,
+        "id_str": "7428362",
+        "indices": [
+          3,
+          7
+        ],
+        "name": "Black Eyed Peas",
+        "screen_name": "bep"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1056892696604884995,
+  "id_str": "1056892696604884995",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1147,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 26 04:08:49 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1055672574972182529",
+          "indices": [
+            116,
+            139
+          ],
+          "url": "https://t.co/nSM17vo95d"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 3919,
+    "favorited": false,
+    "geo": null,
+    "id": 1055672574972182529,
+    "id_str": "1055672574972182529",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1147,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Get ready for the new age… New chapter, check the new page...\nOur new album MASTERS OF THE SUN VOL. 1 is out now ✊… https://t.co/nSM17vo95d",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jul 12 13:25:51 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "MASTERS OF THE SUN VOL. 1 Out Now | Tour 10/27 - 11/18 #mastersofthesun #MOTSTour",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "youtu.be/XAdQOVYVs6A",
+              "expanded_url": "https://youtu.be/XAdQOVYVs6A",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/DoExBdQilI"
+            }
+          ]
+        }
+      },
+      "favourites_count": 902,
+      "follow_request_sent": false,
+      "followers_count": 4980217,
+      "following": false,
+      "friends_count": 44894,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 7428362,
+      "id_str": "7428362",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 10803,
+      "location": "Los Angeles",
+      "name": "Black Eyed Peas",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/7428362/1540526284",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1039726814820618240/CVG6vw82_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039726814820618240/CVG6vw82_normal.jpg",
+      "profile_link_color": "0E6BE4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "bep",
+      "statuses_count": 3047,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/DoExBdQilI",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @bep: Get ready for the new age… New chapter, check the new page...\nOur new album MASTERS OF THE SUN VOL. 1 is out now ✊ #mastersofthesu…",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

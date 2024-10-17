@@ -1,0 +1,168 @@
+{
+  "created_at": "Wed Nov 07 16:51:23 +0000 2018",
+  "deleted": false,
+  "hashtags": [],
+  "id": 1060213135225708545,
+  "id_str": "1060213135225708545",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/dOXlGbwctX",
+      "expanded_url": "https://twitter.com/OKardashWest/status/1060158346186186752/photo/1",
+      "id": 1060158176870457344,
+      "media_url": "http://pbs.twimg.com/media/DrZwPrIW4AAAtnb.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DrZwPrIW4AAAtnb.jpg",
+      "sizes": {
+        "large": {
+          "h": 1024,
+          "resize": "fit",
+          "w": 682
+        },
+        "medium": {
+          "h": 1024,
+          "resize": "fit",
+          "w": 682
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 453
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/dOXlGbwctX"
+    },
+    {
+      "display_url": "pic.twitter.com/dOXlGbwctX",
+      "expanded_url": "https://twitter.com/OKardashWest/status/1060158346186186752/photo/1",
+      "id": 1060158175968706561,
+      "media_url": "http://pbs.twimg.com/media/DrZwPnxXQAE4fYI.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DrZwPnxXQAE4fYI.jpg",
+      "sizes": {
+        "large": {
+          "h": 1024,
+          "resize": "fit",
+          "w": 682
+        },
+        "medium": {
+          "h": 1024,
+          "resize": "fit",
+          "w": 682
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 453
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/dOXlGbwctX"
+    }
+  ],
+  "retrieved": "2018-11-23--09-19-37",
+  "retweet_count": 294,
+  "retweeted_status": {
+    "created_at": "Wed Nov 07 13:13:41 +0000 2018",
+    "favorite_count": 4908,
+    "hashtags": [],
+    "id": 1060158346186186752,
+    "id_str": "1060158346186186752",
+    "lang": "en",
+    "media": [
+      {
+        "display_url": "pic.twitter.com/dOXlGbwctX",
+        "expanded_url": "https://twitter.com/OKardashWest/status/1060158346186186752/photo/1",
+        "id": 1060158176870457344,
+        "media_url": "http://pbs.twimg.com/media/DrZwPrIW4AAAtnb.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrZwPrIW4AAAtnb.jpg",
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 682
+          },
+          "medium": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 682
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/dOXlGbwctX"
+      },
+      {
+        "display_url": "pic.twitter.com/dOXlGbwctX",
+        "expanded_url": "https://twitter.com/OKardashWest/status/1060158346186186752/photo/1",
+        "id": 1060158175968706561,
+        "media_url": "http://pbs.twimg.com/media/DrZwPnxXQAE4fYI.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrZwPnxXQAE4fYI.jpg",
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 682
+          },
+          "medium": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 682
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 453
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/dOXlGbwctX"
+      }
+    ],
+    "retweet_count": 294,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Kim Kardashian leaving a restaurant yesterday 🔥🔥🔥 incredibly beautiful ❣️ https://t.co/dOXlGbwctX",
+    "urls": [],
+    "user": {
+      "id": 4797080188
+    },
+    "user_mentions": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @OKardashWest: Kim Kardashian leaving a restaurant yesterday 🔥🔥🔥 incredibly beautiful ❣️ https://t.co/dOXlGbwctX",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 4797080188,
+      "name": "Ogechi🌚👑",
+      "screen_name": "OKardashWest"
+    }
+  ]
+}

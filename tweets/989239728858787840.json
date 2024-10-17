@@ -1,0 +1,52 @@
+{
+  "created_at": "Wed Apr 25 20:28:25 +0000 2018",
+  "deleted": true,
+  "favorite_count": 18235,
+  "hashtags": [],
+  "id": 989239728858787840,
+  "id_str": "989239728858787840",
+  "lang": "und",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/DXh6H4qkKR",
+      "expanded_url": "https://twitter.com/kanyewest/status/989239728858787840/photo/1",
+      "id": 989239723305521153,
+      "media_url": "http://pbs.twimg.com/media/Dbp8SYFU0AEbw-i.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Dbp8SYFU0AEbw-i.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 946
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 554
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 314
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/DXh6H4qkKR"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 1790,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "https://t.co/DXh6H4qkKR",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

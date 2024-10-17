@@ -1,0 +1,97 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Sep 15 00:42:03 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/1…",
+        "expanded_url": "https://twitter.com/i/web/status/1305668166111039488",
+        "indices": [
+          116,
+          139
+        ],
+        "url": "https://t.co/oCgEqG8JvG"
+      }
+    ],
+    "user_mentions": []
+  },
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      178
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "full_text": "I’m sure Steve Stoute was hurt that he didn’t do the McDonald’s deal ... Steve’s a good man Trav is a good man ... my brothers let’s rise up ... we don’t even own these companies"
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1305668166111039488,
+  "id_str": "1305668166111039488",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "I’m sure Steve Stoute was hurt that he didn’t do the McDonald’s deal ... Steve’s a good man Trav is a good man ...… https://t.co/oCgEqG8JvG",
+  "timestamp_ms": "1600130523599",
+  "truncated": true,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": null,
+    "favourites_count": 7,
+    "follow_request_sent": null,
+    "followers_count": 30911637,
+    "following": null,
+    "friends_count": 259,
+    "geo_enabled": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 44308,
+    "location": null,
+    "name": "ye",
+    "notifications": null,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1456,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "http://KANYEWEST.COM",
+    "utc_offset": null,
+    "verified": true
+  }
+}

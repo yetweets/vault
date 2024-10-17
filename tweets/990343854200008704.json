@@ -1,0 +1,52 @@
+{
+  "created_at": "Sat Apr 28 21:35:49 +0000 2018",
+  "deleted": true,
+  "favorite_count": 57447,
+  "hashtags": [],
+  "id": 990343854200008704,
+  "id_str": "990343854200008704",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/BtqdEghrLf",
+      "expanded_url": "https://twitter.com/kanyewest/status/990343854200008704/photo/1",
+      "id": 990343837942923264,
+      "media_url": "http://pbs.twimg.com/media/Db5oeToVwAAkKYk.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Db5oeToVwAAkKYk.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 1536
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 900
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 510
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/BtqdEghrLf"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 5750,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "f the world changed to love the world 🗺 https://t.co/BtqdEghrLf",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

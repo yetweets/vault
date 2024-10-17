@@ -1,0 +1,30 @@
+{
+  "created_at": "Wed Mar 09 00:56:07 +0000 2016",
+  "deleted": true,
+  "favorite_count": 7818,
+  "hashtags": [],
+  "id": 707369338760781825,
+  "id_str": "707369338760781825",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 1870,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "So proud of my brother @VirgilAbloh with his new @OffWht collection!!!",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 21845792,
+      "name": "virgil abloh",
+      "screen_name": "virgilabloh"
+    },
+    {
+      "id": 1390520113,
+      "name": "Off-White™",
+      "screen_name": "OffWht"
+    }
+  ]
+}

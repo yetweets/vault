@@ -1,0 +1,19 @@
+{
+  "created_at": "Mon Dec 09 17:22:32 +0000 2013",
+  "deleted": true,
+  "favorite_count": 15901,
+  "hashtags": [],
+  "id": 410097143261589504,
+  "id_str": "410097143261589504",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 18000,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Thank you, Mandela, for your life's work and may it serve as a guiding light to illuminate our future.",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

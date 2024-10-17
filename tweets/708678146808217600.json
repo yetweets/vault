@@ -1,0 +1,52 @@
+{
+  "created_at": "Sat Mar 12 15:36:51 +0000 2016",
+  "deleted": true,
+  "favorite_count": 63119,
+  "hashtags": [],
+  "id": 708678146808217600,
+  "id_str": "708678146808217600",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/msQNDIoHgA",
+      "expanded_url": "https://twitter.com/kanyewest/status/708678146808217600/photo/1",
+      "id": 708678145537224706,
+      "media_url": "http://pbs.twimg.com/media/CdW7BMTUMAItX2U.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CdW7BMTUMAItX2U.jpg",
+      "sizes": {
+        "large": {
+          "h": 703,
+          "resize": "fit",
+          "w": 558
+        },
+        "medium": {
+          "h": 703,
+          "resize": "fit",
+          "w": 558
+        },
+        "small": {
+          "h": 428,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/msQNDIoHgA"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 22952,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "mood https://t.co/msQNDIoHgA",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

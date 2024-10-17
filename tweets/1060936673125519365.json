@@ -1,0 +1,344 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Nov 09 16:46:28 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/ErEXGDd530",
+        "expanded_url": "https://twitter.com/jeremyyyywest/status/1060845586331656192/photo/1",
+        "id": 1060845581420060672,
+        "id_str": "1060845581420060672",
+        "indices": [
+          24,
+          47
+        ],
+        "media_url": "http://pbs.twimg.com/media/Drjhb4oV4AA46Bd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Drjhb4oV4AA46Bd.jpg",
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 946
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 554
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 314
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1060845586331656192,
+        "source_status_id_str": "1060845586331656192",
+        "source_user_id": 2218556806,
+        "source_user_id_str": "2218556806",
+        "type": "photo",
+        "url": "https://t.co/ErEXGDd530"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2218556806,
+        "id_str": "2218556806",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "🥶",
+        "screen_name": "jeremyyyywest"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/ErEXGDd530",
+        "expanded_url": "https://twitter.com/jeremyyyywest/status/1060845586331656192/photo/1",
+        "id": 1060845581420060672,
+        "id_str": "1060845581420060672",
+        "indices": [
+          24,
+          47
+        ],
+        "media_url": "http://pbs.twimg.com/media/Drjhb4oV4AA46Bd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Drjhb4oV4AA46Bd.jpg",
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 946
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 554
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 314
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1060845586331656192,
+        "source_status_id_str": "1060845586331656192",
+        "source_user_id": 2218556806,
+        "source_user_id_str": "2218556806",
+        "type": "photo",
+        "url": "https://t.co/ErEXGDd530"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1060936673125519365,
+  "id_str": "1060936673125519365",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 262,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 09 10:44:31 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ErEXGDd530",
+          "expanded_url": "https://twitter.com/jeremyyyywest/status/1060845586331656192/photo/1",
+          "id": 1060845581420060672,
+          "id_str": "1060845581420060672",
+          "indices": [
+            5,
+            28
+          ],
+          "media_url": "http://pbs.twimg.com/media/Drjhb4oV4AA46Bd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Drjhb4oV4AA46Bd.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 946
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 554
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 314
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ErEXGDd530"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ErEXGDd530",
+          "expanded_url": "https://twitter.com/jeremyyyywest/status/1060845586331656192/photo/1",
+          "id": 1060845581420060672,
+          "id_str": "1060845581420060672",
+          "indices": [
+            5,
+            28
+          ],
+          "media_url": "http://pbs.twimg.com/media/Drjhb4oV4AA46Bd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Drjhb4oV4AA46Bd.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 946
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 554
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 314
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ErEXGDd530"
+        }
+      ]
+    },
+    "favorite_count": 3435,
+    "favorited": false,
+    "geo": null,
+    "id": 1060845586331656192,
+    "id_str": "1060845586331656192",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": true,
+    "retweet_count": 262,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "GOAT https://t.co/ErEXGDd530",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Dec 11 00:33:58 +0000 2013",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "4/26",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 33726,
+      "follow_request_sent": false,
+      "followers_count": 934,
+      "following": false,
+      "friends_count": 498,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 2218556806,
+      "id_str": "2218556806",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 48,
+      "location": "PR",
+      "name": "🧱",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2218556806/1552021913",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1104742411903946754/TqRvy8vj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104742411903946754/TqRvy8vj_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "jeremyyyywest",
+      "statuses_count": 132959,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @jeremyyyywest: GOAT https://t.co/ErEXGDd530",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,473 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 30 21:12:27 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/YLgCYWZVIu",
+        "expanded_url": "https://twitter.com/SheckJesus/status/1322240596149456897/video/1",
+        "id": 1322240563681386496,
+        "id_str": "1322240563681386496",
+        "indices": [
+          59,
+          82
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1322240563681386496/pu/img/R0gY357SMOxY0_DY.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1322240563681386496/pu/img/R0gY357SMOxY0_DY.jpg",
+        "sizes": {
+          "large": {
+            "h": 480,
+            "resize": "fit",
+            "w": 480
+          },
+          "medium": {
+            "h": 480,
+            "resize": "fit",
+            "w": 480
+          },
+          "small": {
+            "h": 480,
+            "resize": "fit",
+            "w": 480
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1322240596149456897,
+        "source_status_id_str": "1322240596149456897",
+        "source_user_id": 860259681159262208,
+        "source_user_id_str": "860259681159262208",
+        "type": "photo",
+        "url": "https://t.co/YLgCYWZVIu"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 860259681159262208,
+        "id_str": "860259681159262208",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Sheck Jesus",
+        "screen_name": "SheckJesus"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Thu May 04 22:27:45 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Number one page for all Sheck Wes content!",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "fanlink.to/MUDBOY",
+                    "expanded_url": "https://fanlink.to/MUDBOY",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/VsGakUcE4I"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 1304,
+            "follow_request_sent": false,
+            "followers_count": 4431,
+            "following": false,
+            "friends_count": 73,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 860259681159262208,
+            "id_str": "860259681159262208",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 1,
+            "location": "",
+            "name": "Sheck Jesus",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/860259681159262208/1562607249",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1148140797444927488/kWgi3PJ9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148140797444927488/kWgi3PJ9_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "SheckJesus",
+            "statuses_count": 960,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/VsGakUcE4I",
+            "utc_offset": null,
+            "verified": false,
+            "withheld_in_countries": []
+          }
+        },
+        "display_url": "pic.twitter.com/YLgCYWZVIu",
+        "expanded_url": "https://twitter.com/SheckJesus/status/1322240596149456897/video/1",
+        "id": 1322240563681386496,
+        "id_str": "1322240563681386496",
+        "indices": [
+          59,
+          82
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1322240563681386496/pu/img/R0gY357SMOxY0_DY.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1322240563681386496/pu/img/R0gY357SMOxY0_DY.jpg",
+        "sizes": {
+          "large": {
+            "h": 480,
+            "resize": "fit",
+            "w": 480
+          },
+          "medium": {
+            "h": 480,
+            "resize": "fit",
+            "w": 480
+          },
+          "small": {
+            "h": 480,
+            "resize": "fit",
+            "w": 480
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1322240596149456897,
+        "source_status_id_str": "1322240596149456897",
+        "source_user_id": 860259681159262208,
+        "source_user_id_str": "860259681159262208",
+        "type": "video",
+        "url": "https://t.co/YLgCYWZVIu",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 23587,
+          "variants": [
+            {
+              "bitrate": 432000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1322240563681386496/pu/vid/320x320/pZW5-KSC063mCJD0.mp4?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1322240563681386496/pu/vid/480x480/gSdfdfsYS54v6wZ9.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1322240563681386496/pu/pl/xo4b0Sn4Lhd9bcPz.m3u8?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1322285259874992128,
+  "id_str": "1322285259874992128",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 1806,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 30 18:14:58 +0000 2020",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/YLgCYWZVIu",
+          "expanded_url": "https://twitter.com/SheckJesus/status/1322240596149456897/video/1",
+          "id": 1322240563681386496,
+          "id_str": "1322240563681386496",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1322240563681386496/pu/img/R0gY357SMOxY0_DY.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1322240563681386496/pu/img/R0gY357SMOxY0_DY.jpg",
+          "sizes": {
+            "large": {
+              "h": 480,
+              "resize": "fit",
+              "w": 480
+            },
+            "medium": {
+              "h": 480,
+              "resize": "fit",
+              "w": 480
+            },
+            "small": {
+              "h": 480,
+              "resize": "fit",
+              "w": 480
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YLgCYWZVIu"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/YLgCYWZVIu",
+          "expanded_url": "https://twitter.com/SheckJesus/status/1322240596149456897/video/1",
+          "id": 1322240563681386496,
+          "id_str": "1322240563681386496",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1322240563681386496/pu/img/R0gY357SMOxY0_DY.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1322240563681386496/pu/img/R0gY357SMOxY0_DY.jpg",
+          "sizes": {
+            "large": {
+              "h": 480,
+              "resize": "fit",
+              "w": 480
+            },
+            "medium": {
+              "h": 480,
+              "resize": "fit",
+              "w": 480
+            },
+            "small": {
+              "h": 480,
+              "resize": "fit",
+              "w": 480
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/YLgCYWZVIu",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 23587,
+            "variants": [
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1322240563681386496/pu/vid/320x320/pZW5-KSC063mCJD0.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1322240563681386496/pu/vid/480x480/gSdfdfsYS54v6wZ9.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1322240563681386496/pu/pl/xo4b0Sn4Lhd9bcPz.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 18646,
+    "favorited": false,
+    "geo": null,
+    "id": 1322240596149456897,
+    "id_str": "1322240596149456897",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1806,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "New Sheck Wes snippet titled ‘RICH ONEDAY’ https://t.co/YLgCYWZVIu",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu May 04 22:27:45 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Number one page for all Sheck Wes content!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fanlink.to/MUDBOY",
+              "expanded_url": "https://fanlink.to/MUDBOY",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/VsGakUcE4I"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1304,
+      "follow_request_sent": false,
+      "followers_count": 4431,
+      "following": false,
+      "friends_count": 73,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 860259681159262208,
+      "id_str": "860259681159262208",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1,
+      "location": "",
+      "name": "Sheck Jesus",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/860259681159262208/1562607249",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1148140797444927488/kWgi3PJ9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148140797444927488/kWgi3PJ9_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SheckJesus",
+      "statuses_count": 960,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/VsGakUcE4I",
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @SheckJesus: New Sheck Wes snippet titled ‘RICH ONEDAY’ https://t.co/YLgCYWZVIu",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 9,
+    "follow_request_sent": false,
+    "followers_count": 32253242,
+    "following": true,
+    "friends_count": 209,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 43464,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1929,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true,
+    "withheld_in_countries": []
+  }
+}

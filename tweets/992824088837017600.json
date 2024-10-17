@@ -1,0 +1,52 @@
+{
+  "created_at": "Sat May 05 17:51:23 +0000 2018",
+  "deleted": true,
+  "favorite_count": 58300,
+  "hashtags": [],
+  "id": 992824088837017600,
+  "id_str": "992824088837017600",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/tVCUz4GZpL",
+      "expanded_url": "https://twitter.com/kanyewest/status/992824088837017600/photo/1",
+      "id": 992824058185007104,
+      "media_url": "http://pbs.twimg.com/media/Dcc4OICUQAAI8II.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Dcc4OICUQAAI8II.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 1536
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 900
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 510
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/tVCUz4GZpL"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 6410,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "I love the 700 V2s https://t.co/tVCUz4GZpL",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

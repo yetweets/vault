@@ -1,0 +1,121 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Dec 04 03:15:01 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/1…",
+        "expanded_url": "https://twitter.com/i/web/status/1069792161850384384",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/XoVpcjdPnM"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 255678498,
+        "id_str": "255678498",
+        "indices": [
+          0,
+          14
+        ],
+        "name": "Jarrod Spector",
+        "screen_name": "jarrodspector"
+      },
+      {
+        "id": 910896447503110146,
+        "id_str": "910896447503110146",
+        "indices": [
+          15,
+          27
+        ],
+        "name": "The Cher Show",
+        "screen_name": "TheCherShow"
+      }
+    ]
+  },
+  "favorite_count": 17714,
+  "favorited": false,
+  "geo": null,
+  "id": 1069792161850384384,
+  "id_str": "1069792161850384384",
+  "in_reply_to_screen_name": "jarrodspector",
+  "in_reply_to_status_id": 1069753066033987584,
+  "in_reply_to_status_id_str": "1069753066033987584",
+  "in_reply_to_user_id": 255678498,
+  "in_reply_to_user_id_str": "255678498",
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 886,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "@jarrodspector @TheCherShow the dynamics of Cher and Sonny’s relationship made Kim and I grab each other’s hand and… https://t.co/XoVpcjdPnM",
+  "truncated": true,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

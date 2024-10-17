@@ -1,0 +1,243 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 17 03:33:01 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 20348431,
+        "id_str": "20348431",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "adidas Originals",
+        "screen_name": "adidasoriginals"
+      },
+      {
+        "id": 1944480253,
+        "id_str": "1944480253",
+        "indices": [
+          109,
+          117
+        ],
+        "name": "CCF",
+        "screen_name": "calfund"
+      },
+      {
+        "id": 707577738,
+        "id_str": "707577738",
+        "indices": [
+          122,
+          134
+        ],
+        "name": "CA Fire Foundation",
+        "screen_name": "CAFireFound"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1063636094556631040,
+  "id_str": "1063636094556631040",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1833,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 17 02:04:36 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1063613847783653376",
+          "indices": [
+            116,
+            139
+          ],
+          "url": "https://t.co/d3XZnEUxU5"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 1944480253,
+          "id_str": "1944480253",
+          "indices": [
+            88,
+            96
+          ],
+          "name": "CCF",
+          "screen_name": "calfund"
+        },
+        {
+          "id": 707577738,
+          "id_str": "707577738",
+          "indices": [
+            101,
+            113
+          ],
+          "name": "CA Fire Foundation",
+          "screen_name": "CAFireFound"
+        }
+      ]
+    },
+    "favorite_count": 8626,
+    "favorited": false,
+    "geo": null,
+    "id": 1063613847783653376,
+    "id_str": "1063613847783653376",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1833,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "All profits from sales of the YEEZY Calabasas Track Pant in the U.S. will be donated to @calfund and @CAFireFound.… https://t.co/d3XZnEUxU5",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Feb 08 03:04:25 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Three Stripes. Past. Present. Future.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "a.did.as/podsystem",
+              "expanded_url": "http://a.did.as/podsystem",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/nCdhOvHZ3s"
+            }
+          ]
+        }
+      },
+      "favourites_count": 9274,
+      "follow_request_sent": false,
+      "followers_count": 4023505,
+      "following": false,
+      "friends_count": 363,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 20348431,
+      "id_str": "20348431",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 6363,
+      "location": "Global",
+      "name": "adidas Originals",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20348431/1544432038",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/895541330755145728/tb4sgyld_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/895541330755145728/tb4sgyld_normal.jpg",
+      "profile_link_color": "0066FF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "0066FF",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "adidasoriginals",
+      "statuses_count": 17431,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/nCdhOvHZ3s",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @adidasoriginals: All profits from sales of the YEEZY Calabasas Track Pant in the U.S. will be donated to @calfund and @CAFireFound. Ava…",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

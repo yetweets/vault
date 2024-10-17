@@ -1,0 +1,57 @@
+{
+  "created_at": "Wed Dec 30 01:54:16 +0000 2015",
+  "deleted": true,
+  "favorite_count": 34926,
+  "hashtags": [],
+  "id": 682016823093673984,
+  "id_str": "682016823093673984",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/Zo9acGN4M2",
+      "expanded_url": "https://twitter.com/kanyewest/status/682016823093673984/photo/1",
+      "id": 682016822372253696,
+      "media_url": "http://pbs.twimg.com/media/CXcCr7xWwAAg1Fa.png",
+      "media_url_https": "https://pbs.twimg.com/media/CXcCr7xWwAAg1Fa.png",
+      "sizes": {
+        "large": {
+          "h": 364,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 213,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 121,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/Zo9acGN4M2"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 16571,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Thank you GQ and to everyone who voted, it’s been an amazing year!!! \nhttps://t.co/etgEotjaQi https://t.co/Zo9acGN4M2",
+  "urls": [
+    {
+      "expanded_url": "http://www.gq.com",
+      "url": "https://t.co/etgEotjaQi"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

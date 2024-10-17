@@ -1,0 +1,52 @@
+{
+  "created_at": "Wed Apr 25 15:25:25 +0000 2018",
+  "deleted": true,
+  "favorite_count": 64099,
+  "hashtags": [],
+  "id": 989163475636142080,
+  "id_str": "989163475636142080",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/ixzKnaaaSy",
+      "expanded_url": "https://twitter.com/kanyewest/status/989163475636142080/photo/1",
+      "id": 989163468640014342,
+      "media_url": "http://pbs.twimg.com/media/Dbo27xUU0AYEyNS.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Dbo27xUU0AYEyNS.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 1536
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 900
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 510
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/ixzKnaaaSy"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 8178,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "do this look like the sunken place 😂 https://t.co/ixzKnaaaSy",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

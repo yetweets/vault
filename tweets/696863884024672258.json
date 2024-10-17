@@ -1,0 +1,58 @@
+{
+  "created_at": "Tue Feb 09 01:11:11 +0000 2016",
+  "deleted": true,
+  "favorite_count": 7906,
+  "hashtags": [],
+  "id": 696863884024672258,
+  "id_str": "696863884024672258",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/B11VW8Qcwx",
+      "expanded_url": "https://twitter.com/kanyewest/status/696863884024672258/photo/1",
+      "id": 696863878324613121,
+      "media_url": "http://pbs.twimg.com/media/CavCAVRW8AEXzXf.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CavCAVRW8AEXzXf.jpg",
+      "sizes": {
+        "large": {
+          "h": 1024,
+          "resize": "fit",
+          "w": 768
+        },
+        "medium": {
+          "h": 800,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 453,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/B11VW8Qcwx"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 2288,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "@ fitting @BrainaLaviena https://t.co/B11VW8Qcwx",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 499140740,
+      "name": "b",
+      "screen_name": "BrainaLaviena"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 15 12:17:42 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1031959763515527173,
+        "id_str": "1031959763515527173",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "People but with small head",
+        "screen_name": "butsmallhead"
+      },
+      {
+        "id": 169686021,
+        "id_str": "169686021",
+        "indices": [
+          90,
+          100
+        ],
+        "name": "ye",
+        "screen_name": "kanyewest"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1316714865705259009,
+  "id_str": "1316714865705259009",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1060,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 15 12:06:51 +0000 2020",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1316712137234972672",
+          "indices": [
+            117,
+            140
+          ],
+          "url": "https://t.co/U6B8pz01uQ"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 169686021,
+          "id_str": "169686021",
+          "indices": [
+            72,
+            82
+          ],
+          "name": "ye",
+          "screen_name": "kanyewest"
+        }
+      ]
+    },
+    "favorite_count": 14031,
+    "favorited": false,
+    "geo": null,
+    "id": 1316712137234972672,
+    "id_str": "1316712137234972672",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1060,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "We need president who put god will in priority 🙏 and love all people ❤️ @kanyewest is my president 🤝  small head, B… https://t.co/U6B8pz01uQ",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Aug 21 17:42:35 +0000 2018",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "It is people but small head  instagram: https://t.co/tilGsoaApG",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/peoplebutwiths…",
+              "expanded_url": "http://www.instagram.com/peoplebutwithsmallhead",
+              "indices": [
+                40,
+                63
+              ],
+              "url": "https://t.co/tilGsoaApG"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/peoplebutwiths…",
+              "expanded_url": "http://www.instagram.com/peoplebutwithsmallhead",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/tilGsoaApG"
+            }
+          ]
+        }
+      },
+      "favourites_count": 791,
+      "follow_request_sent": false,
+      "followers_count": 6145,
+      "following": false,
+      "friends_count": 83,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1031959763515527173,
+      "id_str": "1031959763515527173",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5,
+      "location": "",
+      "name": "People but with small head",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1031959763515527173/1534873955",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1031962274364366849/o5Dr0PHO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031962274364366849/o5Dr0PHO_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "butsmallhead",
+      "statuses_count": 807,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/tilGsoaApG",
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @butsmallhead: We need president who put god will in priority 🙏 and love all people ❤️ @kanyewest is my president 🤝  small head, BIG HEA…",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 9,
+    "follow_request_sent": false,
+    "followers_count": 32253242,
+    "following": true,
+    "friends_count": 209,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 43464,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1929,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true,
+    "withheld_in_countries": []
+  }
+}

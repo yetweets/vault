@@ -1,0 +1,52 @@
+{
+  "created_at": "Wed Mar 30 14:20:49 +0000 2016",
+  "deleted": true,
+  "favorite_count": 39696,
+  "hashtags": [],
+  "id": 715181992862584832,
+  "id_str": "715181992862584832",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/geVZcKV4gL",
+      "expanded_url": "https://twitter.com/kanyewest/status/715181992862584832/photo/1",
+      "id": 715181992116150273,
+      "media_url": "http://pbs.twimg.com/media/CezWO43W4AEQ6hy.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CezWO43W4AEQ6hy.jpg",
+      "sizes": {
+        "large": {
+          "h": 1365,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 800,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 453,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/geVZcKV4gL"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 6301,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "feels good to be home https://t.co/geVZcKV4gL",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

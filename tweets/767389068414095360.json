@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun Aug 21 15:53:05 +0000 2016",
+  "deleted": true,
+  "favorite_count": 17657,
+  "hashtags": [],
+  "id": 767389068414095360,
+  "id_str": "767389068414095360",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/zcAdpunbN8",
+      "expanded_url": "https://twitter.com/kanyewest/status/767389068414095360/photo/1",
+      "id": 767388887643807744,
+      "media_url": "http://pbs.twimg.com/media/CqZQIKSXYAAQ7vw.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CqZQIKSXYAAQ7vw.jpg",
+      "sizes": {
+        "large": {
+          "h": 914,
+          "resize": "fit",
+          "w": 686
+        },
+        "medium": {
+          "h": 914,
+          "resize": "fit",
+          "w": 686
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 510
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/zcAdpunbN8"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 5986,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "PHILADELPHIA https://t.co/zcAdpunbN8",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

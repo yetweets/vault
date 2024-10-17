@@ -1,0 +1,52 @@
+{
+  "created_at": "Mon Feb 15 05:48:51 +0000 2016",
+  "deleted": true,
+  "favorite_count": 34418,
+  "hashtags": [],
+  "id": 699108088687755264,
+  "id_str": "699108088687755264",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/g1po6Z3H55",
+      "expanded_url": "https://twitter.com/kanyewest/status/699108088687755264/photo/1",
+      "id": 699108084279595008,
+      "media_url": "http://pbs.twimg.com/media/CbO7GT8W0AAa-Op.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CbO7GT8W0AAa-Op.jpg",
+      "sizes": {
+        "large": {
+          "h": 370,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 217,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 123,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/g1po6Z3H55"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 11002,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Here is my Donda chart that I wrote 4 years ago that everyone laughed at… https://t.co/g1po6Z3H55",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

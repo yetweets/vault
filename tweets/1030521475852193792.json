@@ -1,0 +1,80 @@
+{
+  "created_at": "Fri Aug 17 18:27:20 +0000 2018",
+  "deleted": true,
+  "favorite_count": 64005,
+  "hashtags": [],
+  "id": 1030521475852193792,
+  "id_str": "1030521475852193792",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/Ed1UtEOp0F",
+      "expanded_url": "https://twitter.com/kanyewest/status/1030521475852193792/video/1",
+      "id": 1030521216778395649,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1030521216778395649/pu/img/_niq1nQRY8-TwOrh.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1030521216778395649/pu/img/_niq1nQRY8-TwOrh.jpg",
+      "sizes": {
+        "large": {
+          "h": 1280,
+          "resize": "fit",
+          "w": 720
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 675
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 383
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "video",
+      "url": "https://t.co/Ed1UtEOp0F",
+      "video_info": {
+        "aspect_ratio": [
+          9,
+          16
+        ],
+        "duration_millis": 71193,
+        "variants": [
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1030521216778395649/pu/vid/360x640/0wM4Dv-1FDla0Iv-.mp4?tag=5"
+          },
+          {
+            "bitrate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1030521216778395649/pu/vid/180x320/cMRpGrR99bKuhkHL.mp4?tag=5"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1030521216778395649/pu/pl/_ZgAUhZ63zrsjG36.m3u8?tag=5"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1030521216778395649/pu/vid/720x1280/cpkhFejlL9WKwGi5.mp4?tag=5"
+          }
+        ]
+      }
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-34",
+  "retweet_count": 8620,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "When you get the outerwear to match the hair https://t.co/Ed1UtEOp0F",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

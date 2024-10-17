@@ -1,0 +1,231 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 01 21:10:35 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 226194552,
+        "id_str": "226194552",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "An0maly",
+        "screen_name": "LegendaryEnergy"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1598424343771754499,
+  "id_str": "1598424343771754499",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2996,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 01 18:10:47 +0000 2022",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1598379094587998208",
+          "indices": [
+            121,
+            144
+          ],
+          "url": "https://t.co/z6t8er9Onb"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 18580,
+    "favorited": false,
+    "geo": null,
+    "id": 1598379094587998208,
+    "id_str": "1598379094587998208",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 2996,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Stalin &amp; Hitler were both Time Magazine Man of the Year. Alyssa Milano switched from a Tesla to a car founded by Na… https://t.co/z6t8er9Onb",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Dec 13 15:25:24 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "God is great.\n\nWatch on https://t.co/a5Fc3hGBOL or https://t.co/RTPHb5QgkJ or Find All My Socials At https://t.co/DnN9JxPKfQ",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "YouTube.com/An0malyhiphop",
+              "expanded_url": "http://YouTube.com/An0malyhiphop",
+              "indices": [
+                24,
+                47
+              ],
+              "url": "https://t.co/a5Fc3hGBOL"
+            },
+            {
+              "display_url": "Facebook.com/An0malyMusic",
+              "expanded_url": "http://Facebook.com/An0malyMusic",
+              "indices": [
+                51,
+                74
+              ],
+              "url": "https://t.co/RTPHb5QgkJ"
+            },
+            {
+              "display_url": "DreamRareLinks.com",
+              "expanded_url": "http://DreamRareLinks.com",
+              "indices": [
+                101,
+                124
+              ],
+              "url": "https://t.co/DnN9JxPKfQ"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DreamRare.com",
+              "expanded_url": "http://DreamRare.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/5elKDo5qv4"
+            }
+          ]
+        }
+      },
+      "favourites_count": 145354,
+      "follow_request_sent": false,
+      "followers_count": 231543,
+      "following": false,
+      "friends_count": 863,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 226194552,
+      "id_str": "226194552",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 796,
+      "location": "United States",
+      "name": "An0maly",
+      "notifications": false,
+      "profile_background_color": "80610C",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/226194552/1573032871",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1579981455173640192/1KHPXbsK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1579981455173640192/1KHPXbsK_normal.jpg",
+      "profile_link_color": "0052F5",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "332E33",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "LegendaryEnergy",
+      "statuses_count": 91971,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/5elKDo5qv4",
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @LegendaryEnergy: Stalin &amp; Hitler were both Time Magazine Man of the Year. Alyssa Milano switched from a Tesla to a car founded by Nazis…",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 9,
+    "follow_request_sent": false,
+    "followers_count": 32253242,
+    "following": true,
+    "friends_count": 209,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 43464,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1929,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true,
+    "withheld_in_countries": []
+  }
+}

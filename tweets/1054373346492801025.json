@@ -1,0 +1,191 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Oct 22 14:06:09 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 29359583,
+        "id_str": "29359583",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "MIKE DEAN! #MWA",
+        "screen_name": "therealmikedean"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1054373346492801025,
+  "id_str": "1054373346492801025",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6112,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 16 03:52:00 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorite_count": 17694,
+    "favorited": false,
+    "geo": null,
+    "id": 1052044464124911616,
+    "id_str": "1052044464124911616",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 6112,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "WHEN U START SECOND GUESSING YOURSELF U START TO FAIL",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Apr 07 02:38:07 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Mike Dean #MWA TRAVIS SCOTT ASTROWORLD HEAVY HITTERS SCARFACE YEEZUS CUDI JAY Z BEYONCE FRANK OCEAN NAS BIG SEAN WEEKND DESIIGNER MADONNA DICE SOHO",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "deanslist.net",
+              "expanded_url": "http://www.deanslist.net",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/1Uj6WOkHv9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3468,
+      "follow_request_sent": false,
+      "followers_count": 120870,
+      "following": false,
+      "friends_count": 1893,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 29359583,
+      "id_str": "29359583",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 600,
+      "location": "EVERYWHERE ",
+      "name": "MIKE DEAN! #MWA",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/29359583/1352667258",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1096611308823240704/0RyJbghF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096611308823240704/0RyJbghF_normal.jpg",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "therealmikedean",
+      "statuses_count": 19545,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/1Uj6WOkHv9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @therealmikedean: WHEN U START SECOND GUESSING YOURSELF U START TO FAIL",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

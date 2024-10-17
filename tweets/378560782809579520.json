@@ -1,0 +1,25 @@
+{
+  "created_at": "Fri Sep 13 16:48:18 +0000 2013",
+  "deleted": true,
+  "favorite_count": 5148,
+  "hashtags": [],
+  "id": 378560782809579520,
+  "id_str": "378560782809579520",
+  "lang": "en",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 6862,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "YEEZUS TOUR WITH KENDRICK ON SALE NOW.  http://t.co/Qb5QmxrB7U",
+  "urls": [
+    {
+      "expanded_url": "http://www.kanyewest.com/",
+      "url": "http://t.co/Qb5QmxrB7U"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

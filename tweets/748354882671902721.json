@@ -1,0 +1,80 @@
+{
+  "created_at": "Thu Jun 30 03:18:02 +0000 2016",
+  "deleted": true,
+  "favorite_count": 49379,
+  "hashtags": [],
+  "id": 748354882671902721,
+  "id_str": "748354882671902721",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/iZWwIpfG9J",
+      "expanded_url": "https://twitter.com/kanyewest/status/748354882671902721/video/1",
+      "id": 748354493755031552,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/748354493755031552/pu/img/TzGUdDw68jpayOhF.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/748354493755031552/pu/img/TzGUdDw68jpayOhF.jpg",
+      "sizes": {
+        "large": {
+          "h": 1280,
+          "resize": "fit",
+          "w": 720
+        },
+        "medium": {
+          "h": 1067,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 604,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "video",
+      "url": "https://t.co/iZWwIpfG9J",
+      "video_info": {
+        "aspect_ratio": [
+          9,
+          16
+        ],
+        "duration_millis": 25052,
+        "variants": [
+          {
+            "bitrate": 320000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/748354493755031552/pu/vid/180x320/7pq9pfAxTAr-M21O.mp4"
+          },
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/748354493755031552/pu/vid/360x640/gc9CCzecnMeh4rLQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/748354493755031552/pu/pl/YXtc1gr80mNz5fOH.m3u8"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/748354493755031552/pu/vid/720x1280/9q-W9N2EOj5FVoMu.mp4"
+          }
+        ]
+      }
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 12828,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "This was playing when I got in the car🙏🙏🙏 https://t.co/iZWwIpfG9J",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

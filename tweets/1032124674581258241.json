@@ -1,0 +1,52 @@
+{
+  "created_at": "Wed Aug 22 04:37:53 +0000 2018",
+  "deleted": true,
+  "favorite_count": 34653,
+  "hashtags": [],
+  "id": 1032124674581258241,
+  "id_str": "1032124674581258241",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/BX0LNgZ2KA",
+      "expanded_url": "https://twitter.com/kanyewest/status/1032124674581258241/photo/1",
+      "id": 1032124669908807680,
+      "media_url": "http://pbs.twimg.com/media/DlLX6znU8AAjrCO.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DlLX6znU8AAjrCO.jpg",
+      "sizes": {
+        "large": {
+          "h": 1152,
+          "resize": "fit",
+          "w": 864
+        },
+        "medium": {
+          "h": 1152,
+          "resize": "fit",
+          "w": 864
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 510
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/BX0LNgZ2KA"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-34",
+  "retweet_count": 3556,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "700 V3 Mark Miner and the team killed it https://t.co/BX0LNgZ2KA",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

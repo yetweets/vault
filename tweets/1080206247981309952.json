@@ -1,0 +1,383 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jan 01 20:56:53 +0000 2019",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/CcDM9W3h08",
+        "expanded_url": "https://twitter.com/rihsnake/status/1080195018944581632/photo/1",
+        "id": 1080195003425742848,
+        "id_str": "1080195003425742848",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dv2foetX4AAA6Il.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dv2foetX4AAA6Il.jpg",
+        "sizes": {
+          "large": {
+            "h": 354,
+            "resize": "fit",
+            "w": 498
+          },
+          "medium": {
+            "h": 354,
+            "resize": "fit",
+            "w": 498
+          },
+          "small": {
+            "h": 354,
+            "resize": "fit",
+            "w": 498
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1080195018944581632,
+        "source_status_id_str": "1080195018944581632",
+        "source_user_id": 2405544109,
+        "source_user_id_str": "2405544109",
+        "type": "photo",
+        "url": "https://t.co/CcDM9W3h08"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2405544109,
+        "id_str": "2405544109",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "RIHANNASP",
+        "screen_name": "rihsnake"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/CcDM9W3h08",
+        "expanded_url": "https://twitter.com/rihsnake/status/1080195018944581632/photo/1",
+        "id": 1080195003425742848,
+        "id_str": "1080195003425742848",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dv2foetX4AAA6Il.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dv2foetX4AAA6Il.jpg",
+        "sizes": {
+          "large": {
+            "h": 354,
+            "resize": "fit",
+            "w": 498
+          },
+          "medium": {
+            "h": 354,
+            "resize": "fit",
+            "w": 498
+          },
+          "small": {
+            "h": 354,
+            "resize": "fit",
+            "w": 498
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1080195018944581632,
+        "source_status_id_str": "1080195018944581632",
+        "source_user_id": 2405544109,
+        "source_user_id_str": "2405544109",
+        "type": "animated_gif",
+        "url": "https://t.co/CcDM9W3h08",
+        "video_info": {
+          "aspect_ratio": [
+            83,
+            59
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/Dv2foetX4AAA6Il.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1080206247981309952,
+  "id_str": "1080206247981309952",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 1111,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 01 20:12:16 +0000 2019",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/CcDM9W3h08",
+          "expanded_url": "https://twitter.com/rihsnake/status/1080195018944581632/photo/1",
+          "id": 1080195003425742848,
+          "id_str": "1080195003425742848",
+          "indices": [
+            5,
+            28
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dv2foetX4AAA6Il.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dv2foetX4AAA6Il.jpg",
+          "sizes": {
+            "large": {
+              "h": 354,
+              "resize": "fit",
+              "w": 498
+            },
+            "medium": {
+              "h": 354,
+              "resize": "fit",
+              "w": 498
+            },
+            "small": {
+              "h": 354,
+              "resize": "fit",
+              "w": 498
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/CcDM9W3h08"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/CcDM9W3h08",
+          "expanded_url": "https://twitter.com/rihsnake/status/1080195018944581632/photo/1",
+          "id": 1080195003425742848,
+          "id_str": "1080195003425742848",
+          "indices": [
+            5,
+            28
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dv2foetX4AAA6Il.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dv2foetX4AAA6Il.jpg",
+          "sizes": {
+            "large": {
+              "h": 354,
+              "resize": "fit",
+              "w": 498
+            },
+            "medium": {
+              "h": 354,
+              "resize": "fit",
+              "w": 498
+            },
+            "small": {
+              "h": 354,
+              "resize": "fit",
+              "w": 498
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/CcDM9W3h08",
+          "video_info": {
+            "aspect_ratio": [
+              83,
+              59
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/Dv2foetX4AAA6Il.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 8419,
+    "favorited": false,
+    "geo": null,
+    "id": 1080195018944581632,
+    "id_str": "1080195018944581632",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": true,
+    "retweet_count": 1111,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "DOPE https://t.co/CcDM9W3h08",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Mar 23 02:19:00 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Rihanna & Shawn Mendes Follows 🇧🇷",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/rihannasp?igsh…",
+              "expanded_url": "https://instagram.com/rihannasp?igshid=1crh1erko7db2",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/L1Ll4m782G"
+            }
+          ]
+        }
+      },
+      "favourites_count": 37631,
+      "follow_request_sent": false,
+      "followers_count": 14448,
+      "following": false,
+      "friends_count": 13728,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 2405544109,
+      "id_str": "2405544109",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 25,
+      "location": "São Paulo, Brasil",
+      "name": "RIHANNASP",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2405544109/1594941066",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1283902000862769153/xzWSsbOP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283902000862769153/xzWSsbOP_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "rihsnake",
+      "statuses_count": 43884,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/L1Ll4m782G",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @rihsnake: DOPE https://t.co/CcDM9W3h08",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 30760502,
+    "following": true,
+    "friends_count": 259,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 44256,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1358,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

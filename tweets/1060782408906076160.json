@@ -1,0 +1,162 @@
+{
+  "created_at": "Fri Nov 09 06:33:29 +0000 2018",
+  "deleted": false,
+  "hashtags": [],
+  "id": 1060782408906076160,
+  "id_str": "1060782408906076160",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/jXc4BYBWnr",
+      "expanded_url": "https://twitter.com/OKardashWest/status/1060638765465640963/video/1",
+      "id": 1060634774518292485,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060634774518292485/pu/img/TnqoknQJ8HS7ugfk.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060634774518292485/pu/img/TnqoknQJ8HS7ugfk.jpg",
+      "sizes": {
+        "large": {
+          "h": 720,
+          "resize": "fit",
+          "w": 720
+        },
+        "medium": {
+          "h": 720,
+          "resize": "fit",
+          "w": 720
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "video",
+      "url": "https://t.co/jXc4BYBWnr",
+      "video_info": {
+        "aspect_ratio": [
+          1,
+          1
+        ],
+        "duration_millis": 16000,
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1060634774518292485/pu/pl/8Vl7qxpwuqPHNWf9.m3u8?tag=5"
+          },
+          {
+            "bitrate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1060634774518292485/pu/vid/720x720/IuuZazjA0GP7mym_.mp4?tag=5"
+          },
+          {
+            "bitrate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1060634774518292485/pu/vid/240x240/6BIXVtV6H9c3Zdns.mp4?tag=5"
+          },
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1060634774518292485/pu/vid/480x480/k1wHap7pAeqjVJQ3.mp4?tag=5"
+          }
+        ]
+      }
+    }
+  ],
+  "retrieved": "2018-11-23--09-19-37",
+  "retweet_count": 4518,
+  "retweeted_status": {
+    "created_at": "Thu Nov 08 21:02:42 +0000 2018",
+    "favorite_count": 18362,
+    "hashtags": [],
+    "id": 1060638765465640963,
+    "id_str": "1060638765465640963",
+    "lang": "en",
+    "media": [
+      {
+        "display_url": "pic.twitter.com/jXc4BYBWnr",
+        "expanded_url": "https://twitter.com/OKardashWest/status/1060638765465640963/video/1",
+        "id": 1060634774518292485,
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060634774518292485/pu/img/TnqoknQJ8HS7ugfk.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060634774518292485/pu/img/TnqoknQJ8HS7ugfk.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/jXc4BYBWnr",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 16000,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1060634774518292485/pu/pl/8Vl7qxpwuqPHNWf9.m3u8?tag=5"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1060634774518292485/pu/vid/720x720/IuuZazjA0GP7mym_.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1060634774518292485/pu/vid/240x240/6BIXVtV6H9c3Zdns.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1060634774518292485/pu/vid/480x480/k1wHap7pAeqjVJQ3.mp4?tag=5"
+            }
+          ]
+        }
+      }
+    ],
+    "retweet_count": 4518,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "“I said baby what if you was clubbin'\nThuggin', hustlin' before you met your husband?” 🔥🔥🔥 🎼 https://t.co/jXc4BYBWnr",
+    "urls": [],
+    "user": {
+      "id": 4797080188
+    },
+    "user_mentions": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @OKardashWest: “I said baby what if you was clubbin'\nThuggin', hustlin' before you met your husband?” 🔥🔥🔥 🎼 https://t.co/jXc4BYBWnr",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 4797080188,
+      "name": "Ogechi🌚👑",
+      "screen_name": "OKardashWest"
+    }
+  ]
+}

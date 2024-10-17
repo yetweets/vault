@@ -1,0 +1,52 @@
+{
+  "created_at": "Wed May 02 03:05:19 +0000 2018",
+  "deleted": true,
+  "favorite_count": 40386,
+  "hashtags": [],
+  "id": 991513942240280576,
+  "id_str": "991513942240280576",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/iJteS5MMbY",
+      "expanded_url": "https://twitter.com/kanyewest/status/991513942240280576/photo/1",
+      "id": 991513936573812737,
+      "media_url": "http://pbs.twimg.com/media/DcKQrAtU0AEQMEx.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DcKQrAtU0AEQMEx.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 1536
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 900
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 510
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/iJteS5MMbY"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 3372,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "energy meeting. Beings from all different backgrounds https://t.co/iJteS5MMbY",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

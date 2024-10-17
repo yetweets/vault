@@ -1,0 +1,347 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Dec 02 02:38:33 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 506288058,
+        "id_str": "506288058",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Matt Keener",
+        "screen_name": "KeenerMB"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1598506879587606528,
+  "id_str": "1598506879587606528",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 02 02:10:34 +0000 2022",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1598499837514682368",
+          "indices": [
+            117,
+            140
+          ],
+          "url": "https://t.co/dlRzWhMRWQ"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        262
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              216,
+              226
+            ],
+            "text": "KanyeWest"
+          },
+          {
+            "indices": [
+              227,
+              237
+            ],
+            "text": "AlexJones"
+          }
+        ],
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/I2JD1HJMWN",
+            "expanded_url": "https://twitter.com/ElectionWiz/status/1598483523647700993/video/1",
+            "id": 1598483454915747840,
+            "id_str": "1598483454915747840",
+            "indices": [
+              239,
+              262
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1598483454915747840/pu/img/K2qsy6TKeSN-taIg.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1598483454915747840/pu/img/K2qsy6TKeSN-taIg.jpg",
+            "sizes": {
+              "large": {
+                "h": 496,
+                "resize": "fit",
+                "w": 888
+              },
+              "medium": {
+                "h": 496,
+                "resize": "fit",
+                "w": 888
+              },
+              "small": {
+                "h": 380,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1598483523647700993,
+            "source_status_id_str": "1598483523647700993",
+            "source_user_id": 1290635110149169152,
+            "source_user_id_str": "1290635110149169152",
+            "type": "video",
+            "url": "https://t.co/I2JD1HJMWN",
+            "video_info": {
+              "aspect_ratio": [
+                111,
+                62
+              ],
+              "duration_millis": 50753,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1598483454915747840/pu/pl/ZuXy_BdY6DuUNVJp.m3u8?tag=14&container=fmp4"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1598483454915747840/pu/vid/644x360/gaiQpAPP0rb5zJVJ.mp4?tag=14"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1598483454915747840/pu/vid/888x496/ujk4nn3i7FKyAJMp.mp4?tag=14"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1598483454915747840/pu/vid/482x270/9B9t_8KknoxP5RoM.mp4?tag=14"
+                }
+              ]
+            }
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/I2JD1HJMWN",
+            "expanded_url": "https://twitter.com/ElectionWiz/status/1598483523647700993/video/1",
+            "id": 1598483454915747840,
+            "id_str": "1598483454915747840",
+            "indices": [
+              239,
+              262
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1598483454915747840/pu/img/K2qsy6TKeSN-taIg.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1598483454915747840/pu/img/K2qsy6TKeSN-taIg.jpg",
+            "sizes": {
+              "large": {
+                "h": 496,
+                "resize": "fit",
+                "w": 888
+              },
+              "medium": {
+                "h": 496,
+                "resize": "fit",
+                "w": 888
+              },
+              "small": {
+                "h": 380,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1598483523647700993,
+            "source_status_id_str": "1598483523647700993",
+            "source_user_id": 1290635110149169152,
+            "source_user_id_str": "1290635110149169152",
+            "type": "video",
+            "url": "https://t.co/I2JD1HJMWN",
+            "video_info": {
+              "aspect_ratio": [
+                111,
+                62
+              ],
+              "duration_millis": 50753,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1598483454915747840/pu/pl/ZuXy_BdY6DuUNVJp.m3u8?tag=14&container=fmp4"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1598483454915747840/pu/vid/644x360/gaiQpAPP0rb5zJVJ.mp4?tag=14"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1598483454915747840/pu/vid/888x496/ujk4nn3i7FKyAJMp.mp4?tag=14"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1598483454915747840/pu/vid/482x270/9B9t_8KknoxP5RoM.mp4?tag=14"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "full_text": "Whether you took something away from the Alex Jones, Kanye West, Ali Alexander, Nick Fuentes, Laura Loomer mash up—or you thought it was a total shit show.\n\nTrump doesn’t make this statement if not for that podcast. #KanyeWest #AlexJones \nhttps://t.co/I2JD1HJMWN"
+    },
+    "favorite_count": 12,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1598499837514682368,
+    "id_str": "1598499837514682368",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 5,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Whether you took something away from the Alex Jones, Kanye West, Ali Alexander, Nick Fuentes, Laura Loomer mash up—… https://t.co/dlRzWhMRWQ",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Feb 27 19:30:25 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Small Business Owner, Writer, Recent words in @amspectator, @theamgreatness, @amthinker and @worldnetdaily",
+      "favourites_count": 24602,
+      "follow_request_sent": null,
+      "followers_count": 341,
+      "following": null,
+      "friends_count": 1214,
+      "geo_enabled": true,
+      "id": 506288058,
+      "id_str": "506288058",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4,
+      "location": null,
+      "name": "Matt Keener",
+      "notifications": null,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506288058/1427165641",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445892269530222593/BSTT9A7A_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445892269530222593/BSTT9A7A_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KeenerMB",
+      "statuses_count": 5508,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://muckrack.com/mattkeener",
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @KeenerMB: Whether you took something away from the Alex Jones, Kanye West, Ali Alexander, Nick Fuentes, Laura Loomer mash up—or you tho…",
+  "timestamp_ms": "1669948713572",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": null,
+    "favourites_count": 9,
+    "follow_request_sent": null,
+    "followers_count": 32252004,
+    "following": null,
+    "friends_count": 208,
+    "geo_enabled": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 43464,
+    "location": null,
+    "name": "ye",
+    "notifications": null,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1935,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "http://KANYEWEST.COM",
+    "utc_offset": null,
+    "verified": true,
+    "withheld_in_countries": []
+  }
+}

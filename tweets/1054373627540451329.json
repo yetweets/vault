@@ -1,0 +1,444 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Oct 22 14:07:16 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/ge93gv2wYy",
+        "expanded_url": "https://twitter.com/funnyorfact/status/834803794508644353/video/1",
+        "id": 834803758492241920,
+        "id_str": "834803758492241920",
+        "indices": [
+          61,
+          84
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/834803758492241920/pu/img/KGqFMB6MrSBn4vQ_.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/834803758492241920/pu/img/KGqFMB6MrSBn4vQ_.jpg",
+        "sizes": {
+          "large": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 834803794508644353,
+        "source_status_id_str": "834803794508644353",
+        "source_user_id": 139951730,
+        "source_user_id_str": "139951730",
+        "type": "photo",
+        "url": "https://t.co/ge93gv2wYy"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 139951730,
+        "id_str": "139951730",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Funny Or Fact",
+        "screen_name": "funnyorfact"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 04 04:10:10 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "I'm a comedian, photographer, top tweeter, trend setter, viner and instagrammer. △▼△▼△▼△▼△▼△▼△▼△▼△",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "favourites_count": 1002,
+            "follow_request_sent": false,
+            "followers_count": 1008749,
+            "following": false,
+            "friends_count": 9,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 139951730,
+            "id_str": "139951730",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 6023,
+            "location": "",
+            "name": "Funny Or Fact",
+            "notifications": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/139951730/1415265582",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/530288300011945984/Yf6TXUJ9_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/530288300011945984/Yf6TXUJ9_normal.jpeg",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "funnyorfact",
+            "statuses_count": 44081,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/ge93gv2wYy",
+        "expanded_url": "https://twitter.com/funnyorfact/status/834803794508644353/video/1",
+        "id": 834803758492241920,
+        "id_str": "834803758492241920",
+        "indices": [
+          61,
+          84
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/834803758492241920/pu/img/KGqFMB6MrSBn4vQ_.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/834803758492241920/pu/img/KGqFMB6MrSBn4vQ_.jpg",
+        "sizes": {
+          "large": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 834803794508644353,
+        "source_status_id_str": "834803794508644353",
+        "source_user_id": 139951730,
+        "source_user_id_str": "139951730",
+        "type": "video",
+        "url": "https://t.co/ge93gv2wYy",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 5967,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/834803758492241920/pu/pl/Tj2C8G7-6cJKkilg.m3u8"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/834803758492241920/pu/vid/480x480/WIqVivIyibpdGMcA.mp4"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/834803758492241920/pu/vid/240x240/a_qWSZ1WXYZx3dpS.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1054373627540451329,
+  "id_str": "1054373627540451329",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 1456,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Feb 23 16:35:09 +0000 2017",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ge93gv2wYy",
+          "expanded_url": "https://twitter.com/funnyorfact/status/834803794508644353/video/1",
+          "id": 834803758492241920,
+          "id_str": "834803758492241920",
+          "indices": [
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/834803758492241920/pu/img/KGqFMB6MrSBn4vQ_.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/834803758492241920/pu/img/KGqFMB6MrSBn4vQ_.jpg",
+          "sizes": {
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ge93gv2wYy"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/ge93gv2wYy",
+          "expanded_url": "https://twitter.com/funnyorfact/status/834803794508644353/video/1",
+          "id": 834803758492241920,
+          "id_str": "834803758492241920",
+          "indices": [
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/834803758492241920/pu/img/KGqFMB6MrSBn4vQ_.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/834803758492241920/pu/img/KGqFMB6MrSBn4vQ_.jpg",
+          "sizes": {
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/ge93gv2wYy",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 5967,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/834803758492241920/pu/pl/Tj2C8G7-6cJKkilg.m3u8"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/834803758492241920/pu/vid/480x480/WIqVivIyibpdGMcA.mp4"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/834803758492241920/pu/vid/240x240/a_qWSZ1WXYZx3dpS.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 5144,
+    "favorited": false,
+    "geo": null,
+    "id": 834803794508644353,
+    "id_str": "834803794508644353",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1456,
+    "retweeted": false,
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "text": "When someone gets a little too close to BAE https://t.co/ge93gv2wYy",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue May 04 04:10:10 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "I'm a comedian, photographer, top tweeter, trend setter, viner and instagrammer. △▼△▼△▼△▼△▼△▼△▼△▼△",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 1002,
+      "follow_request_sent": false,
+      "followers_count": 1008749,
+      "following": false,
+      "friends_count": 9,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 139951730,
+      "id_str": "139951730",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 6023,
+      "location": "",
+      "name": "Funny Or Fact",
+      "notifications": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/139951730/1415265582",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/530288300011945984/Yf6TXUJ9_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/530288300011945984/Yf6TXUJ9_normal.jpeg",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "funnyorfact",
+      "statuses_count": 44081,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @funnyorfact: When someone gets a little too close to BAE https://t.co/ge93gv2wYy",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "created_at": "Mon Aug 20 20:48:48 +0000 2018",
+  "deleted": true,
+  "favorite_count": 57057,
+  "hashtags": [],
+  "id": 1031644242035105792,
+  "id_str": "1031644242035105792",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/Te0LWUP3ub",
+      "expanded_url": "https://twitter.com/kanyewest/status/1031644242035105792/photo/1",
+      "id": 1031644213451022336,
+      "media_url": "http://pbs.twimg.com/media/DlEi8j1V4AAHb_Z.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DlEi8j1V4AAHb_Z.jpg",
+      "sizes": {
+        "large": {
+          "h": 1152,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 675,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 383,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/Te0LWUP3ub"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-34",
+  "retweet_count": 7822,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "just on CNBC like... https://t.co/Te0LWUP3ub",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

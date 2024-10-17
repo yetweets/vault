@@ -1,0 +1,204 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Dec 15 12:17:29 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/WlLDNATURE/sta…",
+        "expanded_url": "https://twitter.com/WlLDNATURE/status/1073251102403874818/video/1",
+        "indices": [
+          57,
+          80
+        ],
+        "url": "https://t.co/m4Ox66qO4P"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 1170193551914950657,
+        "id_str": "1170193551914950657",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "I_love_nature",
+        "screen_name": "i_iove_nature"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1073914942808502272,
+  "id_str": "1073914942808502272",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 6605,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 15 01:30:06 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/WlLDNATURE/sta…",
+          "expanded_url": "https://twitter.com/WlLDNATURE/status/1073251102403874818/video/1",
+          "indices": [
+            38,
+            61
+          ],
+          "url": "https://t.co/m4Ox66qO4P"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 40986,
+    "favorited": false,
+    "geo": null,
+    "id": 1073752023806472192,
+    "id_str": "1073752023806472192",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6605,
+    "retweeted": false,
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "text": "Look how beautiful are these leopard? https://t.co/m4Ox66qO4P",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Mon Dec 18 13:54:34 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "!! There's no time to be bored in a world as beautiful as this !! we own no @photos/videos posted !! A @doingjobs brand !!",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 8,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 140137,
+      "following": false,
+      "friends_count": 52,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 942754965528895488,
+      "id_str": "942754965528895488",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 903,
+      "location": "🇮🇳",
+      "name": "Nature Is Amazing 🌴",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/942754965528895488/1567012054",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1166759222387699712/bdfqNkCP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1166759222387699712/bdfqNkCP_normal.jpg",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "AMAZlNGCREATION",
+      "statuses_count": 11037,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @i_iove_nature: Look how beautiful are these leopard? https://t.co/m4Ox66qO4P",
+  "truncated": false,
+  "user": {
+    "can_media_tag": true,
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 29368668,
+    "following": true,
+    "friends_count": 266,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 49428,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1175,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

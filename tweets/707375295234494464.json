@@ -1,0 +1,25 @@
+{
+  "created_at": "Wed Mar 09 01:19:47 +0000 2016",
+  "deleted": true,
+  "favorite_count": 33468,
+  "hashtags": [],
+  "id": 707375295234494464,
+  "id_str": "707375295234494464",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 18325,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Get Top on the phoooone!!!!!  @Kendricklamar",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 23561980,
+      "name": "Kendrick Lamar",
+      "screen_name": "kendricklamar"
+    }
+  ]
+}

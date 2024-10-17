@@ -1,0 +1,24 @@
+{
+  "created_at": "Fri Dec 04 08:14:52 +0000 2015",
+  "deleted": true,
+  "favorite_count": 20751,
+  "hashtags": [],
+  "id": 672690519709843456,
+  "id_str": "672690519709843456",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 11591,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Kid Cudi \"Speedin' Bullet 2 Heaven\"  https://t.co/HAHbYWDfMa",
+  "urls": [
+    {
+      "expanded_url": "https://m.soundcloud.com/cudderland/speedin-bullet-2-heaven#t=0:00",
+      "url": "https://t.co/HAHbYWDfMa"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

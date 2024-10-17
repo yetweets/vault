@@ -1,0 +1,57 @@
+{
+  "created_at": "Tue Jun 12 15:10:07 +0000 2018",
+  "deleted": true,
+  "favorite_count": 36496,
+  "hashtags": [],
+  "id": 1006554244151832577,
+  "id_str": "1006554244151832577",
+  "lang": "und",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/ri1kM8GUEh",
+      "expanded_url": "https://twitter.com/kanyewest/status/1006554244151832577/photo/1",
+      "id": 1006554240066547712,
+      "media_url": "http://pbs.twimg.com/media/Dff_v5ZUcAAAo_n.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Dff_v5ZUcAAAo_n.jpg",
+      "sizes": {
+        "large": {
+          "h": 1088,
+          "resize": "fit",
+          "w": 944
+        },
+        "medium": {
+          "h": 1088,
+          "resize": "fit",
+          "w": 944
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 590
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/ri1kM8GUEh"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 5493,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "https://t.co/bw7xN9wl8g https://t.co/ri1kM8GUEh",
+  "urls": [
+    {
+      "expanded_url": "https://www.cnn.com/2018/06/12/entertainment/kanye-west-album-charts/index.html",
+      "url": "https://t.co/bw7xN9wl8g"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

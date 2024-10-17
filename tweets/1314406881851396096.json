@@ -1,0 +1,170 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 09 03:26:35 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/I6Uj8qrntQ",
+        "expanded_url": "https://twitter.com/kanyewest/status/1314406881851396096/photo/1",
+        "id": 1314406877648703488,
+        "id_str": "1314406877648703488",
+        "indices": [
+          106,
+          129
+        ],
+        "media_url": "http://pbs.twimg.com/media/Ej22F1iU0AAJGfM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Ej22F1iU0AAJGfM.jpg",
+        "sizes": {
+          "large": {
+            "h": 745,
+            "resize": "fit",
+            "w": 797
+          },
+          "medium": {
+            "h": 745,
+            "resize": "fit",
+            "w": 797
+          },
+          "small": {
+            "h": 636,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/I6Uj8qrntQ"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/I6Uj8qrntQ",
+        "expanded_url": "https://twitter.com/kanyewest/status/1314406881851396096/photo/1",
+        "id": 1314406877648703488,
+        "id_str": "1314406877648703488",
+        "indices": [
+          106,
+          129
+        ],
+        "media_url": "http://pbs.twimg.com/media/Ej22F1iU0AAJGfM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Ej22F1iU0AAJGfM.jpg",
+        "sizes": {
+          "large": {
+            "h": 745,
+            "resize": "fit",
+            "w": 797
+          },
+          "medium": {
+            "h": 745,
+            "resize": "fit",
+            "w": 797
+          },
+          "small": {
+            "h": 636,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/I6Uj8qrntQ"
+      }
+    ]
+  },
+  "favorite_count": 23350,
+  "favorited": false,
+  "geo": null,
+  "id": 1314406881851396096,
+  "id_str": "1314406881851396096",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 1167,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "KANYE 2020 VISION PURPLE HAT SOLD THE MOST BY FAR        PRAISE GOD      THANKS YOU GUYS FOR YOUR SUPPORT https://t.co/I6Uj8qrntQ",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 9,
+    "follow_request_sent": false,
+    "followers_count": 32253242,
+    "following": true,
+    "friends_count": 209,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 43464,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1929,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true,
+    "withheld_in_countries": []
+  }
+}

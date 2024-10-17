@@ -1,0 +1,480 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jan 01 19:06:28 +0000 2019",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/g2zz6IEyO8",
+        "expanded_url": "https://twitter.com/AMAZlNGNATURE/status/1078044712567746560/video/1",
+        "id": 1078044618703409152,
+        "id_str": "1078044618703409152",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1078044618703409152/pu/img/r12WtXPR4AlybL9b.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1078044618703409152/pu/img/r12WtXPR4AlybL9b.jpg",
+        "sizes": {
+          "large": {
+            "h": 800,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 544
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1078044712567746560,
+        "source_status_id_str": "1078044712567746560",
+        "source_user_id": 2828212668,
+        "source_user_id_str": "2828212668",
+        "type": "photo",
+        "url": "https://t.co/g2zz6IEyO8"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2828212668,
+        "id_str": "2828212668",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Nature is Amazing ☘️",
+        "screen_name": "AMAZlNGNATURE"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Sep 23 15:27:26 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Animals 🐿️ Nature 🦋 Discovery 🦖                            ©Photos/Videos belong to credited owners  \n   \n*we own no content posted*    DM for credit/removal",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "Instagram.com/amaziingnature",
+                    "expanded_url": "http://Instagram.com/amaziingnature",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/aD7MSH7D3N"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 7,
+            "follow_request_sent": false,
+            "followers_count": 1452724,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2828212668,
+            "id_str": "2828212668",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 6000,
+            "location": "🌍",
+            "name": "Nature is Amazing ☘️",
+            "notifications": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2828212668/1523314160",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/992795937574604802/FMGk7GZN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/992795937574604802/FMGk7GZN_normal.jpg",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "AMAZlNGNATURE",
+            "statuses_count": 6672,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/aD7MSH7D3N",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/g2zz6IEyO8",
+        "expanded_url": "https://twitter.com/AMAZlNGNATURE/status/1078044712567746560/video/1",
+        "id": 1078044618703409152,
+        "id_str": "1078044618703409152",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1078044618703409152/pu/img/r12WtXPR4AlybL9b.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1078044618703409152/pu/img/r12WtXPR4AlybL9b.jpg",
+        "sizes": {
+          "large": {
+            "h": 800,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 544
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1078044712567746560,
+        "source_status_id_str": "1078044712567746560",
+        "source_user_id": 2828212668,
+        "source_user_id_str": "2828212668",
+        "type": "video",
+        "url": "https://t.co/g2zz6IEyO8",
+        "video_info": {
+          "aspect_ratio": [
+            4,
+            5
+          ],
+          "duration_millis": 10533,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1078044618703409152/pu/vid/640x800/w52EtKjjS06WUcEc.mp4?tag=6"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1078044618703409152/pu/pl/IHSn_93L21ZmyIuJ.m3u8?tag=6"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1078044618703409152/pu/vid/320x400/2hYVvogZLfgDKDbu.mp4?tag=6"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1078044618703409152/pu/vid/360x450/lc1vCH9m3uIydBvS.mp4?tag=6"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1080178462785101824,
+  "id_str": "1080178462785101824",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 5047,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 26 21:47:43 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/g2zz6IEyO8",
+          "expanded_url": "https://twitter.com/AMAZlNGNATURE/status/1078044712567746560/video/1",
+          "id": 1078044618703409152,
+          "id_str": "1078044618703409152",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1078044618703409152/pu/img/r12WtXPR4AlybL9b.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1078044618703409152/pu/img/r12WtXPR4AlybL9b.jpg",
+          "sizes": {
+            "large": {
+              "h": 800,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 544
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/g2zz6IEyO8"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/g2zz6IEyO8",
+          "expanded_url": "https://twitter.com/AMAZlNGNATURE/status/1078044712567746560/video/1",
+          "id": 1078044618703409152,
+          "id_str": "1078044618703409152",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1078044618703409152/pu/img/r12WtXPR4AlybL9b.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1078044618703409152/pu/img/r12WtXPR4AlybL9b.jpg",
+          "sizes": {
+            "large": {
+              "h": 800,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 544
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/g2zz6IEyO8",
+          "video_info": {
+            "aspect_ratio": [
+              4,
+              5
+            ],
+            "duration_millis": 10533,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1078044618703409152/pu/vid/640x800/w52EtKjjS06WUcEc.mp4?tag=6"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1078044618703409152/pu/pl/IHSn_93L21ZmyIuJ.m3u8?tag=6"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1078044618703409152/pu/vid/320x400/2hYVvogZLfgDKDbu.mp4?tag=6"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1078044618703409152/pu/vid/360x450/lc1vCH9m3uIydBvS.mp4?tag=6"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 27129,
+    "favorited": false,
+    "geo": null,
+    "id": 1078044712567746560,
+    "id_str": "1078044712567746560",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5047,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "These beautiful llamas in Italy💕 https://t.co/g2zz6IEyO8",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Sep 23 15:27:26 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Animals 🐿️ Nature 🦋 Discovery 🦖                            ©Photos/Videos belong to credited owners  \n   \n*we own no content posted*    DM for credit/removal",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/amaziingnature",
+              "expanded_url": "http://Instagram.com/amaziingnature",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/aD7MSH7D3N"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7,
+      "follow_request_sent": false,
+      "followers_count": 1452724,
+      "following": false,
+      "friends_count": 10,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2828212668,
+      "id_str": "2828212668",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 6000,
+      "location": "🌍",
+      "name": "Nature is Amazing ☘️",
+      "notifications": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2828212668/1523314160",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/992795937574604802/FMGk7GZN_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/992795937574604802/FMGk7GZN_normal.jpg",
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "AMAZlNGNATURE",
+      "statuses_count": 6672,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/aD7MSH7D3N",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @AMAZlNGNATURE: These beautiful llamas in Italy💕 https://t.co/g2zz6IEyO8",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29289204,
+    "following": true,
+    "friends_count": 267,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49985,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1173,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

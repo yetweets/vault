@@ -1,0 +1,24 @@
+{
+  "created_at": "Fri Jun 17 23:07:21 +0000 2016",
+  "deleted": true,
+  "favorite_count": 28104,
+  "hashtags": [],
+  "id": 743943141275799552,
+  "id_str": "743943141275799552",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 13128,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Champions https://t.co/J4xBZRbhWO",
+  "urls": [
+    {
+      "expanded_url": "http://smarturl.it/iCWChampions",
+      "url": "https://t.co/J4xBZRbhWO"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

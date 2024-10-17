@@ -1,0 +1,52 @@
+{
+  "created_at": "Fri Jan 22 03:11:06 +0000 2016",
+  "deleted": true,
+  "favorite_count": 27471,
+  "hashtags": [],
+  "id": 690371080335290368,
+  "id_str": "690371080335290368",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/N1F3QFmRws",
+      "expanded_url": "https://twitter.com/kanyewest/status/690371080335290368/photo/1",
+      "id": 690371077487398912,
+      "media_url": "http://pbs.twimg.com/media/CZSw1lTXEAAj8Rq.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CZSw1lTXEAAj8Rq.jpg",
+      "sizes": {
+        "large": {
+          "h": 1365,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 800,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 453,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/N1F3QFmRws"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 9918,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "The monster https://t.co/N1F3QFmRws",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

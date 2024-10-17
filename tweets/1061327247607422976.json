@@ -1,0 +1,480 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 10 18:38:28 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/oSBFgJvNay",
+        "expanded_url": "https://twitter.com/TeamKanyeDaily/status/1060938014657077248/video/1",
+        "id": 1060937951599718401,
+        "id_str": "1060937951599718401",
+        "indices": [
+          89,
+          112
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060937951599718401/pu/img/b_JiLVWMeSVUa54P.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060937951599718401/pu/img/b_JiLVWMeSVUa54P.jpg",
+        "sizes": {
+          "large": {
+            "h": 840,
+            "resize": "fit",
+            "w": 638
+          },
+          "medium": {
+            "h": 840,
+            "resize": "fit",
+            "w": 638
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 516
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1060938014657077248,
+        "source_status_id_str": "1060938014657077248",
+        "source_user_id": 189470083,
+        "source_user_id_str": "189470083",
+        "type": "photo",
+        "url": "https://t.co/oSBFgJvNay"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 189470083,
+        "id_str": "189470083",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "TeamKanyeDaily",
+        "screen_name": "TeamKanyeDaily"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Sep 11 10:25:35 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Updates on all things Kanye West. teamkanyedaily@gmail.com",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "tkanyed.tumblr.com",
+                    "expanded_url": "http://tkanyed.tumblr.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/ZjbE9aVqQL"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 1222,
+            "follow_request_sent": false,
+            "followers_count": 210608,
+            "following": false,
+            "friends_count": 439,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 189470083,
+            "id_str": "189470083",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 636,
+            "location": "",
+            "name": "TeamKanyeDaily",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/189470083/1542174920",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1062149098567073792/C-AeLSxz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062149098567073792/C-AeLSxz_normal.jpg",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "TeamKanyeDaily",
+            "statuses_count": 19457,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/ZjbE9aVqQL",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/oSBFgJvNay",
+        "expanded_url": "https://twitter.com/TeamKanyeDaily/status/1060938014657077248/video/1",
+        "id": 1060937951599718401,
+        "id_str": "1060937951599718401",
+        "indices": [
+          89,
+          112
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060937951599718401/pu/img/b_JiLVWMeSVUa54P.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060937951599718401/pu/img/b_JiLVWMeSVUa54P.jpg",
+        "sizes": {
+          "large": {
+            "h": 840,
+            "resize": "fit",
+            "w": 638
+          },
+          "medium": {
+            "h": 840,
+            "resize": "fit",
+            "w": 638
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 516
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1060938014657077248,
+        "source_status_id_str": "1060938014657077248",
+        "source_user_id": 189470083,
+        "source_user_id_str": "189470083",
+        "type": "video",
+        "url": "https://t.co/oSBFgJvNay",
+        "video_info": {
+          "aspect_ratio": [
+            319,
+            420
+          ],
+          "duration_millis": 12653,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1060937951599718401/pu/vid/360x472/UnB5KCRXay_x0QBk.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1060937951599718401/pu/vid/180x236/pHqGW-bCI3x90xCX.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1060937951599718401/pu/vid/638x840/ywwgbcGMo8f3O_en.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1060937951599718401/pu/pl/h_jNLhC0rP8UzFe3.m3u8?tag=5"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1061327247607422976,
+  "id_str": "1061327247607422976",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 950,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 09 16:51:48 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/oSBFgJvNay",
+          "expanded_url": "https://twitter.com/TeamKanyeDaily/status/1060938014657077248/video/1",
+          "id": 1060937951599718401,
+          "id_str": "1060937951599718401",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060937951599718401/pu/img/b_JiLVWMeSVUa54P.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060937951599718401/pu/img/b_JiLVWMeSVUa54P.jpg",
+          "sizes": {
+            "large": {
+              "h": 840,
+              "resize": "fit",
+              "w": 638
+            },
+            "medium": {
+              "h": 840,
+              "resize": "fit",
+              "w": 638
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 516
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/oSBFgJvNay"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/oSBFgJvNay",
+          "expanded_url": "https://twitter.com/TeamKanyeDaily/status/1060938014657077248/video/1",
+          "id": 1060937951599718401,
+          "id_str": "1060937951599718401",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060937951599718401/pu/img/b_JiLVWMeSVUa54P.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060937951599718401/pu/img/b_JiLVWMeSVUa54P.jpg",
+          "sizes": {
+            "large": {
+              "h": 840,
+              "resize": "fit",
+              "w": 638
+            },
+            "medium": {
+              "h": 840,
+              "resize": "fit",
+              "w": 638
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 516
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/oSBFgJvNay",
+          "video_info": {
+            "aspect_ratio": [
+              319,
+              420
+            ],
+            "duration_millis": 12653,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1060937951599718401/pu/vid/360x472/UnB5KCRXay_x0QBk.mp4?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1060937951599718401/pu/vid/180x236/pHqGW-bCI3x90xCX.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1060937951599718401/pu/vid/638x840/ywwgbcGMo8f3O_en.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1060937951599718401/pu/pl/h_jNLhC0rP8UzFe3.m3u8?tag=5"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 6966,
+    "favorited": false,
+    "geo": null,
+    "id": 1060938014657077248,
+    "id_str": "1060938014657077248",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 950,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Looks like Yeezy sneaker sales are doing just fine. Thank you, next. https://t.co/oSBFgJvNay",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Sep 11 10:25:35 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Updates on all things Kanye West. teamkanyedaily@gmail.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "tkanyed.tumblr.com",
+              "expanded_url": "http://tkanyed.tumblr.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ZjbE9aVqQL"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1222,
+      "follow_request_sent": false,
+      "followers_count": 210608,
+      "following": false,
+      "friends_count": 439,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 189470083,
+      "id_str": "189470083",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 636,
+      "location": "",
+      "name": "TeamKanyeDaily",
+      "notifications": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/189470083/1542174920",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1062149098567073792/C-AeLSxz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062149098567073792/C-AeLSxz_normal.jpg",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TeamKanyeDaily",
+      "statuses_count": 19457,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/ZjbE9aVqQL",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @TeamKanyeDaily: Looks like Yeezy sneaker sales are doing just fine. Thank you, next. https://t.co/oSBFgJvNay",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jan 01 20:48:19 +0000 2019",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/BasedCharlie/s…",
+        "expanded_url": "https://twitter.com/BasedCharlie/status/1061892790030716931",
+        "indices": [
+          54,
+          77
+        ],
+        "url": "https://t.co/ORccDewpDC"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 154240011,
+        "id_str": "154240011",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Ronald Isley",
+        "screen_name": "yoyotrav"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1080204092708810753,
+  "id_str": "1080204092708810753",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1061892790030716931,
+  "quoted_status_id_str": "1061892790030716931",
+  "retweet_count": 797,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 01 20:46:55 +0000 2019",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/BasedCharlie/s…",
+          "expanded_url": "https://twitter.com/BasedCharlie/status/1061892790030716931",
+          "indices": [
+            40,
+            63
+          ],
+          "url": "https://t.co/ORccDewpDC"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 6124,
+    "favorited": false,
+    "geo": null,
+    "id": 1080203740962004992,
+    "id_str": "1080203740962004992",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Nov 12 08:05:44 +0000 2018",
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/wsIqBX3cXN",
+            "expanded_url": "https://twitter.com/BasedCharlie/status/1061892790030716931/video/1",
+            "id": 1061891852108886016,
+            "id_str": "1061891852108886016",
+            "indices": [
+              17,
+              40
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1061891852108886016/pu/img/Kt6vzhwro77tn-53.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1061891852108886016/pu/img/Kt6vzhwro77tn-53.jpg",
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 675
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 383
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/wsIqBX3cXN"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/wsIqBX3cXN",
+            "expanded_url": "https://twitter.com/BasedCharlie/status/1061892790030716931/video/1",
+            "id": 1061891852108886016,
+            "id_str": "1061891852108886016",
+            "indices": [
+              17,
+              40
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1061891852108886016/pu/img/Kt6vzhwro77tn-53.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1061891852108886016/pu/img/Kt6vzhwro77tn-53.jpg",
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 675
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 383
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/wsIqBX3cXN",
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 25347,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1061891852108886016/pu/vid/360x640/nF1ccO-YvdqzaSmR.mp4?tag=5"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1061891852108886016/pu/pl/qH8revajJDTVnn_A.m3u8?tag=5"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1061891852108886016/pu/vid/180x320/TTMu8nPryPK9cBUS.mp4?tag=5"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1061891852108886016/pu/vid/720x1280/AxwN1IydZwLPN7f-.mp4?tag=5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 6385,
+      "favorited": false,
+      "geo": null,
+      "id": 1061892790030716931,
+      "id_str": "1061892790030716931",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": true,
+      "retweet_count": 1349,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text": "Kids see ghosts! https://t.co/wsIqBX3cXN",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 07 19:12:56 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bbasedcharlie",
+                "expanded_url": "http://instagram.com/bbasedcharlie",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/G0kIE8yMiR"
+              }
+            ]
+          }
+        },
+        "favourites_count": 10524,
+        "follow_request_sent": false,
+        "followers_count": 668,
+        "following": false,
+        "friends_count": 231,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 883403475375095808,
+        "id_str": "883403475375095808",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 19,
+        "location": "Los Angeles, CA",
+        "name": "Charlie",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/883403475375095808/1596081038",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1290035580156305408/_TCia3G9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290035580156305408/_TCia3G9_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BasedCharlie",
+        "statuses_count": 24584,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/G0kIE8yMiR",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1061892790030716931,
+    "quoted_status_id_str": "1061892790030716931",
+    "retweet_count": 797,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I’m speaking a KSG Tour into existence! https://t.co/ORccDewpDC",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 10 18:54:19 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "I type words about music. Social Media Manager. | Featured: @DefPen + @OkayPlayer + more | Yes, Kanye invented music. | travis@defpen.com",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 15053,
+      "follow_request_sent": false,
+      "followers_count": 9040,
+      "following": false,
+      "friends_count": 988,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 154240011,
+      "id_str": "154240011",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 117,
+      "location": "Baltimore",
+      "name": "Ronald Isley",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/154240011/1544761490",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/706521150390714368/F_5whCnW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/706521150390714368/F_5whCnW_normal.jpg",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "yoyotrav",
+      "statuses_count": 154952,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @yoyotrav: I’m speaking a KSG Tour into existence! https://t.co/ORccDewpDC",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 30741012,
+    "following": true,
+    "friends_count": 258,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 44240,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1333,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

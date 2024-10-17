@@ -1,0 +1,367 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Dec 02 02:39:59 +0000 2022",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          15,
+          25
+        ],
+        "text": "KanyeWest"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/Oi3dBvnSmI",
+        "expanded_url": "https://twitter.com/WORLDSTAR/status/1598500900720574466/photo/1",
+        "id": 1598500897184784384,
+        "id_str": "1598500897184784384",
+        "indices": [
+          66,
+          89
+        ],
+        "media_url": "http://pbs.twimg.com/media/Fi8EGMXXoAA7Lbk.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Fi8EGMXXoAA7Lbk.jpg",
+        "sizes": {
+          "large": {
+            "h": 1132,
+            "resize": "fit",
+            "w": 1170
+          },
+          "medium": {
+            "h": 1132,
+            "resize": "fit",
+            "w": 1170
+          },
+          "small": {
+            "h": 658,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1598500900720574466,
+        "source_status_id_str": "1598500900720574466",
+        "source_user_id": 11912362,
+        "source_user_id_str": "11912362",
+        "type": "photo",
+        "url": "https://t.co/Oi3dBvnSmI"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 11912362,
+        "id_str": "11912362",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "WORLDSTARHIPHOP",
+        "screen_name": "WORLDSTAR"
+      },
+      {
+        "id": 169686021,
+        "id_str": "169686021",
+        "indices": [
+          55,
+          65
+        ],
+        "name": "ye",
+        "screen_name": "kanyewest"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/Oi3dBvnSmI",
+        "expanded_url": "https://twitter.com/WORLDSTAR/status/1598500900720574466/photo/1",
+        "id": 1598500897184784384,
+        "id_str": "1598500897184784384",
+        "indices": [
+          66,
+          89
+        ],
+        "media_url": "http://pbs.twimg.com/media/Fi8EGMXXoAA7Lbk.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Fi8EGMXXoAA7Lbk.jpg",
+        "sizes": {
+          "large": {
+            "h": 1132,
+            "resize": "fit",
+            "w": 1170
+          },
+          "medium": {
+            "h": 1132,
+            "resize": "fit",
+            "w": 1170
+          },
+          "small": {
+            "h": 658,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1598500900720574466,
+        "source_status_id_str": "1598500900720574466",
+        "source_user_id": 11912362,
+        "source_user_id_str": "11912362",
+        "type": "photo",
+        "url": "https://t.co/Oi3dBvnSmI"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1598507240448819201,
+  "id_str": "1598507240448819201",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 02 02:14:48 +0000 2022",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            10
+          ],
+          "text": "KanyeWest"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Oi3dBvnSmI",
+          "expanded_url": "https://twitter.com/WORLDSTAR/status/1598500900720574466/photo/1",
+          "id": 1598500897184784384,
+          "id_str": "1598500897184784384",
+          "indices": [
+            51,
+            74
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fi8EGMXXoAA7Lbk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fi8EGMXXoAA7Lbk.jpg",
+          "sizes": {
+            "large": {
+              "h": 1132,
+              "resize": "fit",
+              "w": 1170
+            },
+            "medium": {
+              "h": 1132,
+              "resize": "fit",
+              "w": 1170
+            },
+            "small": {
+              "h": 658,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Oi3dBvnSmI"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 169686021,
+          "id_str": "169686021",
+          "indices": [
+            40,
+            50
+          ],
+          "name": "ye",
+          "screen_name": "kanyewest"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Oi3dBvnSmI",
+          "expanded_url": "https://twitter.com/WORLDSTAR/status/1598500900720574466/photo/1",
+          "id": 1598500897184784384,
+          "id_str": "1598500897184784384",
+          "indices": [
+            51,
+            74
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fi8EGMXXoAA7Lbk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fi8EGMXXoAA7Lbk.jpg",
+          "sizes": {
+            "large": {
+              "h": 1132,
+              "resize": "fit",
+              "w": 1170
+            },
+            "medium": {
+              "h": 1132,
+              "resize": "fit",
+              "w": 1170
+            },
+            "small": {
+              "h": 658,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Oi3dBvnSmI"
+        }
+      ]
+    },
+    "favorite_count": 171,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1598500900720574466,
+    "id_str": "1598500900720574466",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 5,
+    "reply_count": 40,
+    "retweet_count": 25,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "#KanyeWest praying for world peace! 👀💯🙏 @kanyewest https://t.co/Oi3dBvnSmI",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Jan 06 18:06:13 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "We’re proud to announce our new venture, Worldstar Distribution! 🌎⭐️🎶 Stay independent, control your rights, click the link for more info!👇",
+      "favourites_count": 264,
+      "follow_request_sent": null,
+      "followers_count": 5667291,
+      "following": null,
+      "friends_count": 2981,
+      "geo_enabled": true,
+      "id": 11912362,
+      "id_str": "11912362",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4408,
+      "location": "USA",
+      "name": "WORLDSTARHIPHOP",
+      "notifications": null,
+      "profile_background_color": "999999",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/11912362/1625704519",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/488738791511703552/cxf92nyL_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/488738791511703552/cxf92nyL_normal.png",
+      "profile_link_color": "961D15",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "WORLDSTAR",
+      "statuses_count": 32582,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://linktr.ee/worldstarhiphop",
+      "utc_offset": null,
+      "verified": true,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @WORLDSTAR: #KanyeWest praying for world peace! 👀💯🙏 @kanyewest https://t.co/Oi3dBvnSmI",
+  "timestamp_ms": "1669948799608",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": null,
+    "favourites_count": 9,
+    "follow_request_sent": null,
+    "followers_count": 32251783,
+    "following": null,
+    "friends_count": 208,
+    "geo_enabled": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 43464,
+    "location": null,
+    "name": "ye",
+    "notifications": null,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1936,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "http://KANYEWEST.COM",
+    "utc_offset": null,
+    "verified": true,
+    "withheld_in_countries": []
+  }
+}

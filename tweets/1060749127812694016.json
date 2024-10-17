@@ -1,0 +1,181 @@
+{
+  "created_at": "Fri Nov 09 04:21:14 +0000 2018",
+  "deleted": false,
+  "hashtags": [
+    {
+      "text": "ASTROWORLDTour"
+    }
+  ],
+  "id": 1060749127812694016,
+  "id_str": "1060749127812694016",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/sAHNfM0wkw",
+      "expanded_url": "https://twitter.com/FTPflame/status/1060699003040473088/video/1",
+      "id": 1060698922103046144,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060698922103046144/pu/img/6rSYRwCN9OtaNq8u.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060698922103046144/pu/img/6rSYRwCN9OtaNq8u.jpg",
+      "sizes": {
+        "large": {
+          "h": 720,
+          "resize": "fit",
+          "w": 960
+        },
+        "medium": {
+          "h": 720,
+          "resize": "fit",
+          "w": 960
+        },
+        "small": {
+          "h": 510,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "video",
+      "url": "https://t.co/sAHNfM0wkw",
+      "video_info": {
+        "aspect_ratio": [
+          4,
+          3
+        ],
+        "duration_millis": 15000,
+        "variants": [
+          {
+            "bitrate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1060698922103046144/pu/vid/240x180/hFROXyj_RJlZ7-2Y.mp4?tag=5"
+          },
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1060698922103046144/pu/vid/480x360/h-7DvuO54EREvVIV.mp4?tag=5"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1060698922103046144/pu/vid/960x720/6n7-_vjM18uGUyZ7.mp4?tag=5"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1060698922103046144/pu/pl/2P2_WFMruXPgz62J.m3u8?tag=5"
+          }
+        ]
+      }
+    }
+  ],
+  "retrieved": "2018-11-23--09-19-37",
+  "retweet_count": 3641,
+  "retweeted_status": {
+    "created_at": "Fri Nov 09 01:02:03 +0000 2018",
+    "favorite_count": 15198,
+    "hashtags": [
+      {
+        "text": "ASTROWORLDTour"
+      }
+    ],
+    "id": 1060699003040473088,
+    "id_str": "1060699003040473088",
+    "lang": "en",
+    "media": [
+      {
+        "display_url": "pic.twitter.com/sAHNfM0wkw",
+        "expanded_url": "https://twitter.com/FTPflame/status/1060699003040473088/video/1",
+        "id": 1060698922103046144,
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060698922103046144/pu/img/6rSYRwCN9OtaNq8u.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060698922103046144/pu/img/6rSYRwCN9OtaNq8u.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 960
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 960
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/sAHNfM0wkw",
+        "video_info": {
+          "aspect_ratio": [
+            4,
+            3
+          ],
+          "duration_millis": 15000,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1060698922103046144/pu/vid/240x180/hFROXyj_RJlZ7-2Y.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1060698922103046144/pu/vid/480x360/h-7DvuO54EREvVIV.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1060698922103046144/pu/vid/960x720/6n7-_vjM18uGUyZ7.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1060698922103046144/pu/pl/2P2_WFMruXPgz62J.m3u8?tag=5"
+            }
+          ]
+        }
+      }
+    ],
+    "retweet_count": 3641,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Sheck Wes performing Mo Bamba at the 1st #ASTROWORLDTour show in Baltimore 🔥 @sheckwes https://t.co/sAHNfM0wkw",
+    "urls": [],
+    "user": {
+      "id": 4427598509
+    },
+    "user_mentions": [
+      {
+        "id": 428484753,
+        "name": "Sheck Jesus",
+        "screen_name": "sheckwes"
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @FTPflame: Sheck Wes performing Mo Bamba at the 1st #ASTROWORLDTour show in Baltimore 🔥 @sheckwes https://t.co/sAHNfM0wkw",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 4427598509,
+      "name": "FTPFLAME",
+      "screen_name": "FTPflame"
+    },
+    {
+      "id": 428484753,
+      "name": "Sheck Jesus",
+      "screen_name": "sheckwes"
+    }
+  ]
+}

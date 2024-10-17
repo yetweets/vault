@@ -1,0 +1,442 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Oct 29 11:08:31 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/ETR1JkyukY",
+        "expanded_url": "https://twitter.com/asmaaan208/status/1052307370917810177/video/1",
+        "id": 1052307083360636930,
+        "id_str": "1052307083360636930",
+        "indices": [
+          80,
+          103
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052307083360636930/pu/img/mdk-6u4OSXSOUolF.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052307083360636930/pu/img/mdk-6u4OSXSOUolF.jpg",
+        "sizes": {
+          "large": {
+            "h": 400,
+            "resize": "fit",
+            "w": 400
+          },
+          "medium": {
+            "h": 400,
+            "resize": "fit",
+            "w": 400
+          },
+          "small": {
+            "h": 400,
+            "resize": "fit",
+            "w": 400
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1052307370917810177,
+        "source_status_id_str": "1052307370917810177",
+        "source_user_id": 2412051054,
+        "source_user_id_str": "2412051054",
+        "type": "photo",
+        "url": "https://t.co/ETR1JkyukY"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2412051054,
+        "id_str": "2412051054",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "S.A.Baloch",
+        "screen_name": "asmaaan208"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Mar 26 04:49:24 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "favourites_count": 108515,
+            "follow_request_sent": false,
+            "followers_count": 6388,
+            "following": false,
+            "friends_count": 4377,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2412051054,
+            "id_str": "2412051054",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en-gb",
+            "listed_count": 116,
+            "location": "",
+            "name": "S.A.Baloch",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/840037203669594112/Z9xgRYpn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/840037203669594112/Z9xgRYpn_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "asmaaan208",
+            "statuses_count": 26851,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/ETR1JkyukY",
+        "expanded_url": "https://twitter.com/asmaaan208/status/1052307370917810177/video/1",
+        "id": 1052307083360636930,
+        "id_str": "1052307083360636930",
+        "indices": [
+          80,
+          103
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052307083360636930/pu/img/mdk-6u4OSXSOUolF.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052307083360636930/pu/img/mdk-6u4OSXSOUolF.jpg",
+        "sizes": {
+          "large": {
+            "h": 400,
+            "resize": "fit",
+            "w": 400
+          },
+          "medium": {
+            "h": 400,
+            "resize": "fit",
+            "w": 400
+          },
+          "small": {
+            "h": 400,
+            "resize": "fit",
+            "w": 400
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1052307370917810177,
+        "source_status_id_str": "1052307370917810177",
+        "source_user_id": 2412051054,
+        "source_user_id_str": "2412051054",
+        "type": "video",
+        "url": "https://t.co/ETR1JkyukY",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 68051,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1052307083360636930/pu/pl/zaWFZi6EH98NkUWS.m3u8?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1052307083360636930/pu/vid/240x240/F6CZhMuWOKtOsqs9.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1052307083360636930/pu/vid/400x400/L_BGhb6pLGbq9_i0.mp4?tag=5"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1056865358387257344,
+  "id_str": "1056865358387257344",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 578,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 16 21:16:42 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ETR1JkyukY",
+          "expanded_url": "https://twitter.com/asmaaan208/status/1052307370917810177/video/1",
+          "id": 1052307083360636930,
+          "id_str": "1052307083360636930",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052307083360636930/pu/img/mdk-6u4OSXSOUolF.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052307083360636930/pu/img/mdk-6u4OSXSOUolF.jpg",
+          "sizes": {
+            "large": {
+              "h": 400,
+              "resize": "fit",
+              "w": 400
+            },
+            "medium": {
+              "h": 400,
+              "resize": "fit",
+              "w": 400
+            },
+            "small": {
+              "h": 400,
+              "resize": "fit",
+              "w": 400
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ETR1JkyukY"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/ETR1JkyukY",
+          "expanded_url": "https://twitter.com/asmaaan208/status/1052307370917810177/video/1",
+          "id": 1052307083360636930,
+          "id_str": "1052307083360636930",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052307083360636930/pu/img/mdk-6u4OSXSOUolF.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052307083360636930/pu/img/mdk-6u4OSXSOUolF.jpg",
+          "sizes": {
+            "large": {
+              "h": 400,
+              "resize": "fit",
+              "w": 400
+            },
+            "medium": {
+              "h": 400,
+              "resize": "fit",
+              "w": 400
+            },
+            "small": {
+              "h": 400,
+              "resize": "fit",
+              "w": 400
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/ETR1JkyukY",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 68051,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1052307083360636930/pu/pl/zaWFZi6EH98NkUWS.m3u8?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1052307083360636930/pu/vid/240x240/F6CZhMuWOKtOsqs9.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1052307083360636930/pu/vid/400x400/L_BGhb6pLGbq9_i0.mp4?tag=5"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 2244,
+    "favorited": false,
+    "geo": null,
+    "id": 1052307370917810177,
+    "id_str": "1052307370917810177",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 578,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Amazing Concept ...This Man Grows Food Just To Give It Away 🌟🌟🌟 https://t.co/ETR1JkyukY",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 26 04:49:24 +0000 2014",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 108515,
+      "follow_request_sent": false,
+      "followers_count": 6388,
+      "following": false,
+      "friends_count": 4377,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2412051054,
+      "id_str": "2412051054",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en-gb",
+      "listed_count": 116,
+      "location": "",
+      "name": "S.A.Baloch",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/840037203669594112/Z9xgRYpn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/840037203669594112/Z9xgRYpn_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "asmaaan208",
+      "statuses_count": 26851,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @asmaaan208: Amazing Concept ...This Man Grows Food Just To Give It Away 🌟🌟🌟 https://t.co/ETR1JkyukY",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "created_at": "Sun May 01 18:08:49 +0000 2016",
+  "deleted": true,
+  "favorite_count": 221031,
+  "hashtags": [],
+  "id": 726835785274646529,
+  "id_str": "726835785274646529",
+  "lang": "und",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/Gk6fzhiZOk",
+      "expanded_url": "https://twitter.com/kanyewest/status/726835785274646529/video/1",
+      "id": 726835736167747584,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/726835736167747584/pu/img/Vh07uY7-2L_eLhQk.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/726835736167747584/pu/img/Vh07uY7-2L_eLhQk.jpg",
+      "sizes": {
+        "large": {
+          "h": 640,
+          "resize": "fit",
+          "w": 640
+        },
+        "medium": {
+          "h": 600,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 340,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "video",
+      "url": "https://t.co/Gk6fzhiZOk",
+      "video_info": {
+        "aspect_ratio": [
+          1,
+          1
+        ],
+        "duration_millis": 15048,
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/726835736167747584/pu/pl/2nfDay4z7pHwq39y.m3u8"
+          },
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/726835736167747584/pu/vid/480x480/rvEciT1upxL2ejZT.mp4"
+          },
+          {
+            "bitrate": 320000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/726835736167747584/pu/vid/240x240/ZYSIB6i_7GMCLrVH.mp4"
+          }
+        ]
+      }
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 172244,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "https://t.co/Gk6fzhiZOk",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}
