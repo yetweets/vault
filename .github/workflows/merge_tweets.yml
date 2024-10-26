@@ -1,5 +1,8 @@
 name: Merge JSON Files
 
+permissions:
+  contents: write
+
 # Trigger on push to the main branch and when files in the /tweet directory are changed
 on:
   push:
