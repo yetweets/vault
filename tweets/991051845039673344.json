@@ -1,0 +1,70 @@
+{
+  "created_at": "Mon Apr 30 20:29:07 +0000 2018",
+  "deleted": true,
+  "favorite_count": 11866,
+  "hashtags": [],
+  "id": 991051845039673344,
+  "id_str": "991051845039673344",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/dyJyLRF79e",
+      "expanded_url": "https://twitter.com/kanyewest/status/991051845039673344/video/1",
+      "id": 991051787657400320,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/991051787657400320/pu/img/en9sXArXQ2W2_VvY.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/991051787657400320/pu/img/en9sXArXQ2W2_VvY.jpg",
+      "sizes": {
+        "large": {
+          "h": 224,
+          "resize": "fit",
+          "w": 128
+        },
+        "medium": {
+          "h": 224,
+          "resize": "fit",
+          "w": 128
+        },
+        "small": {
+          "h": 224,
+          "resize": "fit",
+          "w": 128
+        },
+        "thumb": {
+          "h": 128,
+          "resize": "crop",
+          "w": 128
+        }
+      },
+      "type": "video",
+      "url": "https://t.co/dyJyLRF79e",
+      "video_info": {
+        "aspect_ratio": [
+          4,
+          7
+        ],
+        "duration_millis": 105800,
+        "variants": [
+          {
+            "bitrate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/991051787657400320/pu/vid/128x224/4cYnVm_LUR5Mm2qF.mp4?tag=3"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/991051787657400320/pu/pl/clvfU9K65CRU-J3D.m3u8?tag=3"
+          }
+        ]
+      }
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 1822,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Adi Shankar   We got love https://t.co/dyJyLRF79e",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

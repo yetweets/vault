@@ -1,0 +1,25 @@
+{
+  "created_at": "Wed Nov 05 21:12:42 +0000 2014",
+  "deleted": true,
+  "favorite_count": 5334,
+  "hashtags": [],
+  "id": 530105450146979842,
+  "id_str": "530105450146979842",
+  "lang": "en",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 2800,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "VIBES! Out Today. http://t.co/EIxhSnQjEL",
+  "urls": [
+    {
+      "expanded_url": "http://smarturl.it/TLVibes",
+      "url": "http://t.co/EIxhSnQjEL"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

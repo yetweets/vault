@@ -1,0 +1,19 @@
+{
+  "created_at": "Wed Feb 24 18:33:01 +0000 2016",
+  "deleted": true,
+  "favorite_count": 24850,
+  "hashtags": [],
+  "id": 702561887423168512,
+  "id_str": "702561887423168512",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 14229,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "If I'm not at the show next year then there is no show.",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

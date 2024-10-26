@@ -1,0 +1,19 @@
+{
+  "created_at": "Tue Sep 15 02:52:49 +0000 2015",
+  "deleted": true,
+  "favorite_count": 9798,
+  "hashtags": [],
+  "id": 643618443309228032,
+  "id_str": "643618443309228032",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 6866,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Emeryville CA\nFramingham MA\nFrankfurt Germany\nHanover MD\nHouston TX\nLas Vegas NV\nLondon UK\nLos Angeles CA\nManchester CT\nManchester England",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

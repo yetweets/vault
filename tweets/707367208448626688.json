@@ -1,0 +1,30 @@
+{
+  "created_at": "Wed Mar 09 00:47:39 +0000 2016",
+  "deleted": true,
+  "favorite_count": 7916,
+  "hashtags": [],
+  "id": 707367208448626688,
+  "id_str": "707367208448626688",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 1788,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Sitting with @Robinnowicki from @ustwo working on the YEEZY site…",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 20239130,
+      "name": "Robin Nowicki",
+      "screen_name": "RobinNowicki"
+    },
+    {
+      "id": 255979502,
+      "name": "ustwo",
+      "screen_name": "ustwo"
+    }
+  ]
+}

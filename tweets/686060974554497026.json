@@ -1,0 +1,19 @@
+{
+  "created_at": "Sun Jan 10 05:44:17 +0000 2016",
+  "deleted": true,
+  "favorite_count": 135305,
+  "hashtags": [],
+  "id": 686060974554497026,
+  "id_str": "686060974554497026",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 77241,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "I have no interest in working with anyone who is too important or too good or too traditional to take a call at 3am",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

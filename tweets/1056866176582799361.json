@@ -1,0 +1,490 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Oct 29 11:11:46 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/tto4ic3L4j",
+        "expanded_url": "https://twitter.com/angie_karan/status/1049953946175819781/video/1",
+        "id": 1049953707264114688,
+        "id_str": "1049953707264114688",
+        "indices": [
+          114,
+          137
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049953707264114688/pu/img/le4Exx5HuBUh361z.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049953707264114688/pu/img/le4Exx5HuBUh361z.jpg",
+        "sizes": {
+          "large": {
+            "h": 480,
+            "resize": "fit",
+            "w": 270
+          },
+          "medium": {
+            "h": 480,
+            "resize": "fit",
+            "w": 270
+          },
+          "small": {
+            "h": 480,
+            "resize": "fit",
+            "w": 270
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1049953946175819781,
+        "source_status_id_str": "1049953946175819781",
+        "source_user_id": 436414193,
+        "source_user_id_str": "436414193",
+        "type": "photo",
+        "url": "https://t.co/tto4ic3L4j"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 436414193,
+        "id_str": "436414193",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Angie Karan Ⓥ 🌱🐾",
+        "screen_name": "angie_karan"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Dec 14 04:50:33 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Vegan for the Animals.🐄🐖🐕🐤🐼🐘🐐🐧🐳🐦🐝Nature heals me🌿🌾🌴🌲🌵🌻🍃kindness is a soft touch of LOVE ..it can change the world\n\nhttps://t.co/yiwvCQpjn8",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "facebook.com/LoveAngieKaran",
+                    "expanded_url": "http://facebook.com/LoveAngieKaran",
+                    "indices": [
+                      115,
+                      138
+                    ],
+                    "url": "https://t.co/yiwvCQpjn8"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "mewe.com/i/angiekaran",
+                    "expanded_url": "https://mewe.com/i/angiekaran",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/1Dx4csPAZM"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 39666,
+            "follow_request_sent": false,
+            "followers_count": 20657,
+            "following": false,
+            "friends_count": 11640,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 436414193,
+            "id_str": "436414193",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 140,
+            "location": "Sydney, AUSTRALIA🇦🇺",
+            "name": "Angie Karan Ⓥ 🌱🐾",
+            "notifications": false,
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/436414193/1538305532",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1001343048377233408/GbfkGwAT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001343048377233408/GbfkGwAT_normal.jpg",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "angie_karan",
+            "statuses_count": 20924,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/1Dx4csPAZM",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/tto4ic3L4j",
+        "expanded_url": "https://twitter.com/angie_karan/status/1049953946175819781/video/1",
+        "id": 1049953707264114688,
+        "id_str": "1049953707264114688",
+        "indices": [
+          114,
+          137
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049953707264114688/pu/img/le4Exx5HuBUh361z.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049953707264114688/pu/img/le4Exx5HuBUh361z.jpg",
+        "sizes": {
+          "large": {
+            "h": 480,
+            "resize": "fit",
+            "w": 270
+          },
+          "medium": {
+            "h": 480,
+            "resize": "fit",
+            "w": 270
+          },
+          "small": {
+            "h": 480,
+            "resize": "fit",
+            "w": 270
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1049953946175819781,
+        "source_status_id_str": "1049953946175819781",
+        "source_user_id": 436414193,
+        "source_user_id_str": "436414193",
+        "type": "video",
+        "url": "https://t.co/tto4ic3L4j",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 11104,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1049953707264114688/pu/vid/270x480/QFU0aIpt5RhE12Ej.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1049953707264114688/pu/vid/180x320/6LeHRkSlbZoJSkcz.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1049953707264114688/pu/pl/PZxvJVTsNteTLWFQ.m3u8?tag=5"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1056866176582799361,
+  "id_str": "1056866176582799361",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 2939,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 10 09:25:02 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/tto4ic3L4j",
+          "expanded_url": "https://twitter.com/angie_karan/status/1049953946175819781/video/1",
+          "id": 1049953707264114688,
+          "id_str": "1049953707264114688",
+          "indices": [
+            97,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049953707264114688/pu/img/le4Exx5HuBUh361z.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049953707264114688/pu/img/le4Exx5HuBUh361z.jpg",
+          "sizes": {
+            "large": {
+              "h": 480,
+              "resize": "fit",
+              "w": 270
+            },
+            "medium": {
+              "h": 480,
+              "resize": "fit",
+              "w": 270
+            },
+            "small": {
+              "h": 480,
+              "resize": "fit",
+              "w": 270
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/tto4ic3L4j"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/tto4ic3L4j",
+          "expanded_url": "https://twitter.com/angie_karan/status/1049953946175819781/video/1",
+          "id": 1049953707264114688,
+          "id_str": "1049953707264114688",
+          "indices": [
+            97,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049953707264114688/pu/img/le4Exx5HuBUh361z.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049953707264114688/pu/img/le4Exx5HuBUh361z.jpg",
+          "sizes": {
+            "large": {
+              "h": 480,
+              "resize": "fit",
+              "w": 270
+            },
+            "medium": {
+              "h": 480,
+              "resize": "fit",
+              "w": 270
+            },
+            "small": {
+              "h": 480,
+              "resize": "fit",
+              "w": 270
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/tto4ic3L4j",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 11104,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1049953707264114688/pu/vid/270x480/QFU0aIpt5RhE12Ej.mp4?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1049953707264114688/pu/vid/180x320/6LeHRkSlbZoJSkcz.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1049953707264114688/pu/pl/PZxvJVTsNteTLWFQ.m3u8?tag=5"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 7752,
+    "favorited": false,
+    "geo": null,
+    "id": 1049953946175819781,
+    "id_str": "1049953946175819781",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2939,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "The video of this crayfish cutting off its own claw to avoid being cooked went viral in China. 😥 https://t.co/tto4ic3L4j",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Dec 14 04:50:33 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Vegan for the Animals.🐄🐖🐕🐤🐼🐘🐐🐧🐳🐦🐝Nature heals me🌿🌾🌴🌲🌵🌻🍃kindness is a soft touch of LOVE ..it can change the world\n\nhttps://t.co/yiwvCQpjn8",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "facebook.com/LoveAngieKaran",
+              "expanded_url": "http://facebook.com/LoveAngieKaran",
+              "indices": [
+                115,
+                138
+              ],
+              "url": "https://t.co/yiwvCQpjn8"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "mewe.com/i/angiekaran",
+              "expanded_url": "https://mewe.com/i/angiekaran",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/1Dx4csPAZM"
+            }
+          ]
+        }
+      },
+      "favourites_count": 39666,
+      "follow_request_sent": false,
+      "followers_count": 20657,
+      "following": false,
+      "friends_count": 11640,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 436414193,
+      "id_str": "436414193",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 140,
+      "location": "Sydney, AUSTRALIA🇦🇺",
+      "name": "Angie Karan Ⓥ 🌱🐾",
+      "notifications": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/436414193/1538305532",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1001343048377233408/GbfkGwAT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001343048377233408/GbfkGwAT_normal.jpg",
+      "profile_link_color": "FAB81E",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "angie_karan",
+      "statuses_count": 20924,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/1Dx4csPAZM",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @angie_karan: The video of this crayfish cutting off its own claw to avoid being cooked went viral in China. 😥 https://t.co/tto4ic3L4j",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

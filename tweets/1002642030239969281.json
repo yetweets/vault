@@ -1,0 +1,32 @@
+{
+  "created_at": "Fri Jun 01 20:04:22 +0000 2018",
+  "deleted": true,
+  "favorite_count": 68370,
+  "hashtags": [],
+  "id": 1002642030239969281,
+  "id_str": "1002642030239969281",
+  "lang": "und",
+  "legacy_imported": true,
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 19619,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "https://t.co/SScskeUWQs\n\nhttps://t.co/qMCfkQTjLy\n\nhttps://t.co/pa0iHEIdZT",
+  "urls": [
+    {
+      "expanded_url": "https://open.spotify.com/album/5EBGCvO6upi3GNknMVe9x9",
+      "url": "https://t.co/SScskeUWQs"
+    },
+    {
+      "expanded_url": "https://itunes.apple.com/us/album/ye/1392975931",
+      "url": "https://t.co/qMCfkQTjLy"
+    },
+    {
+      "expanded_url": "https://listen.tidal.com/album/89768263",
+      "url": "https://t.co/pa0iHEIdZT"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

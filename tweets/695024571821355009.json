@@ -1,0 +1,52 @@
+{
+  "created_at": "Wed Feb 03 23:22:25 +0000 2016",
+  "deleted": true,
+  "favorite_count": 144998,
+  "hashtags": [],
+  "id": 695024571821355009,
+  "id_str": "695024571821355009",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/lOMtOdOEel",
+      "expanded_url": "https://twitter.com/kanyewest/status/695024571821355009/photo/1",
+      "id": 695024569850003456,
+      "media_url": "http://pbs.twimg.com/media/CaU5KfQUAAA3Ldv.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CaU5KfQUAAA3Ldv.jpg",
+      "sizes": {
+        "large": {
+          "h": 1432,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 839,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 476,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/lOMtOdOEel"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 79250,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "ROLLING STONE SHOT BY TYLER THE CREATOR https://t.co/lOMtOdOEel",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

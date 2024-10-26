@@ -1,0 +1,52 @@
+{
+  "created_at": "Thu Mar 17 19:46:10 +0000 2016",
+  "deleted": true,
+  "favorite_count": 26273,
+  "hashtags": [],
+  "id": 710552827203076097,
+  "id_str": "710552827203076097",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/j1t9Ng5JkO",
+      "expanded_url": "https://twitter.com/kanyewest/status/710552827203076097/photo/1",
+      "id": 710552825424584704,
+      "media_url": "http://pbs.twimg.com/media/CdxkB7GVIAAguzu.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CdxkB7GVIAAguzu.jpg",
+      "sizes": {
+        "large": {
+          "h": 1024,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 600,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 340,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/j1t9Ng5JkO"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 8431,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "PABLO POP-UP SHOP MARCH 18-20 FRI 4-8 PM SAT SUN 12-8 PM AT 83 WOOSTER IN NYC https://t.co/j1t9Ng5JkO",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

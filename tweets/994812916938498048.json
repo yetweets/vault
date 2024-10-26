@@ -1,0 +1,52 @@
+{
+  "created_at": "Fri May 11 05:34:16 +0000 2018",
+  "deleted": true,
+  "favorite_count": 109686,
+  "hashtags": [],
+  "id": 994812916938498048,
+  "id_str": "994812916938498048",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/MVqBKd0vaM",
+      "expanded_url": "https://twitter.com/kanyewest/status/994812916938498048/photo/1",
+      "id": 994812911460732928,
+      "media_url": "http://pbs.twimg.com/media/Dc5JEn2W0AAZWE6.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Dc5JEn2W0AAZWE6.jpg",
+      "sizes": {
+        "large": {
+          "h": 410,
+          "resize": "fit",
+          "w": 1174
+        },
+        "medium": {
+          "h": 410,
+          "resize": "fit",
+          "w": 1174
+        },
+        "small": {
+          "h": 237,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/MVqBKd0vaM"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 9906,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "100%  I love the way you think. I’ll reach out https://t.co/MVqBKd0vaM",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

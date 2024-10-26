@@ -1,0 +1,24 @@
+{
+  "created_at": "Sun Apr 12 20:00:54 +0000 2015",
+  "deleted": true,
+  "favorite_count": 19244,
+  "hashtags": [],
+  "id": 587344664384110593,
+  "id_str": "587344664384110593",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 12904,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "New Tyler https://t.co/2vNarGnL5I",
+  "urls": [
+    {
+      "expanded_url": "https://www.youtube.com/watch?v=SCcVrLcGD7k",
+      "url": "https://t.co/2vNarGnL5I"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

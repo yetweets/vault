@@ -1,0 +1,19 @@
+{
+  "created_at": "Wed Jan 27 01:44:20 +0000 2016",
+  "deleted": true,
+  "favorite_count": 123400,
+  "hashtags": [],
+  "id": 692161181562310656,
+  "id_str": "692161181562310656",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 98181,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "New album title, WAVES",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

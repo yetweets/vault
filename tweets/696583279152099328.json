@@ -1,0 +1,23 @@
+{
+  "created_at": "Mon Feb 08 06:36:10 +0000 2016",
+  "deleted": true,
+  "favorite_count": 32007,
+  "hashtags": [
+    {
+      "text": "facts"
+    }
+  ],
+  "id": 696583279152099328,
+  "id_str": "696583279152099328",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 11911,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Caught 10,000 retweets in half a second #facts",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

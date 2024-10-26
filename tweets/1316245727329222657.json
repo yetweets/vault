@@ -1,0 +1,445 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Oct 14 05:13:30 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/s29S1YTCrz",
+        "expanded_url": "https://twitter.com/sohh/status/1316144859938467842/photo/1",
+        "id": 1316144854007767042,
+        "id_str": "1316144854007767042",
+        "indices": [
+          116,
+          139
+        ],
+        "media_url": "http://pbs.twimg.com/media/EkPixYAXYAIHQSF.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EkPixYAXYAIHQSF.jpg",
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1316144859938467842,
+        "source_status_id_str": "1316144859938467842",
+        "source_user_id": 15013823,
+        "source_user_id_str": "15013823",
+        "type": "photo",
+        "url": "https://t.co/s29S1YTCrz"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 15013823,
+        "id_str": "15013823",
+        "indices": [
+          3,
+          8
+        ],
+        "name": "SOHH",
+        "screen_name": "sohh"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/s29S1YTCrz",
+        "expanded_url": "https://twitter.com/sohh/status/1316144859938467842/photo/1",
+        "id": 1316144854007767042,
+        "id_str": "1316144854007767042",
+        "indices": [
+          116,
+          139
+        ],
+        "media_url": "http://pbs.twimg.com/media/EkPixYAXYAIHQSF.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EkPixYAXYAIHQSF.jpg",
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1316144859938467842,
+        "source_status_id_str": "1316144859938467842",
+        "source_user_id": 15013823,
+        "source_user_id_str": "15013823",
+        "type": "photo",
+        "url": "https://t.co/s29S1YTCrz"
+      },
+      {
+        "display_url": "pic.twitter.com/s29S1YTCrz",
+        "expanded_url": "https://twitter.com/sohh/status/1316144859938467842/photo/1",
+        "id": 1316144854003576837,
+        "id_str": "1316144854003576837",
+        "indices": [
+          116,
+          139
+        ],
+        "media_url": "http://pbs.twimg.com/media/EkPixX_XcAUL0Pb.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EkPixX_XcAUL0Pb.jpg",
+        "sizes": {
+          "large": {
+            "h": 825,
+            "resize": "fit",
+            "w": 1100
+          },
+          "medium": {
+            "h": 825,
+            "resize": "fit",
+            "w": 1100
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1316144859938467842,
+        "source_status_id_str": "1316144859938467842",
+        "source_user_id": 15013823,
+        "source_user_id_str": "15013823",
+        "type": "photo",
+        "url": "https://t.co/s29S1YTCrz"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1316245727329222657,
+  "id_str": "1316245727329222657",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 1555,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 13 22:32:42 +0000 2020",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/s29S1YTCrz",
+          "expanded_url": "https://twitter.com/sohh/status/1316144859938467842/photo/1",
+          "id": 1316144854007767042,
+          "id_str": "1316144854007767042",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/EkPixYAXYAIHQSF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EkPixYAXYAIHQSF.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/s29S1YTCrz"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/s29S1YTCrz",
+          "expanded_url": "https://twitter.com/sohh/status/1316144859938467842/photo/1",
+          "id": 1316144854007767042,
+          "id_str": "1316144854007767042",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/EkPixYAXYAIHQSF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EkPixYAXYAIHQSF.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/s29S1YTCrz"
+        },
+        {
+          "display_url": "pic.twitter.com/s29S1YTCrz",
+          "expanded_url": "https://twitter.com/sohh/status/1316144859938467842/photo/1",
+          "id": 1316144854003576837,
+          "id_str": "1316144854003576837",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/EkPixX_XcAUL0Pb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EkPixX_XcAUL0Pb.jpg",
+          "sizes": {
+            "large": {
+              "h": 825,
+              "resize": "fit",
+              "w": 1100
+            },
+            "medium": {
+              "h": 825,
+              "resize": "fit",
+              "w": 1100
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/s29S1YTCrz"
+        }
+      ]
+    },
+    "favorite_count": 14005,
+    "favorited": false,
+    "geo": null,
+    "id": 1316144859938467842,
+    "id_str": "1316144859938467842",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1555,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "YE 2020 AFTER ALL? Kanye West is leading Joe Biden and Donald Trump in Kentucky precinct voting polls 🇺🇸🗳 https://t.co/s29S1YTCrz",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 05 03:30:40 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "SOHH stands as the first and longest-running Black-Owned online destination for Hip-Hop News! https://t.co/o391ieThwt. ✊🏾#NoCultureVulturesOverHere",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/sohhdotcom",
+              "expanded_url": "http://linktr.ee/sohhdotcom",
+              "indices": [
+                94,
+                117
+              ],
+              "url": "https://t.co/o391ieThwt"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "sohh.com",
+              "expanded_url": "https://www.sohh.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/BwQxYw59A8"
+            }
+          ]
+        }
+      },
+      "favourites_count": 16349,
+      "follow_request_sent": false,
+      "followers_count": 22006,
+      "following": false,
+      "friends_count": 2793,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 15013823,
+      "id_str": "15013823",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 0,
+      "location": "Jersey City, NJ",
+      "name": "SOHH",
+      "notifications": false,
+      "profile_background_color": "D7D7D7",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15013823/1616520928",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1374424819937124359/AeJv5Gg2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1374424819937124359/AeJv5Gg2_normal.jpg",
+      "profile_link_color": "99CC00",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "sohh",
+      "statuses_count": 127718,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/BwQxYw59A8",
+      "utc_offset": null,
+      "verified": true,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @sohh: YE 2020 AFTER ALL? Kanye West is leading Joe Biden and Donald Trump in Kentucky precinct voting polls 🇺🇸🗳 https://t.co/s29S1YTCrz",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 9,
+    "follow_request_sent": false,
+    "followers_count": 32253242,
+    "following": true,
+    "friends_count": 209,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 43464,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1929,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true,
+    "withheld_in_countries": []
+  }
+}

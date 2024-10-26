@@ -1,0 +1,24 @@
+{
+  "created_at": "Fri Dec 11 04:06:42 +0000 2015",
+  "deleted": true,
+  "favorite_count": 11507,
+  "hashtags": [],
+  "id": 675164781507137536,
+  "id_str": "675164781507137536",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 6079,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Pusha T “King Push - Darkest Before Dawn: The Prelude\" Preorder \nhttps://t.co/MrZOI4iVVu",
+  "urls": [
+    {
+      "expanded_url": "http://smarturl.it/KingPushDBD",
+      "url": "https://t.co/MrZOI4iVVu"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

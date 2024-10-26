@@ -1,0 +1,52 @@
+{
+  "created_at": "Mon Apr 16 00:12:54 +0000 2018",
+  "deleted": true,
+  "favorite_count": 49684,
+  "hashtags": [],
+  "id": 985672345569312768,
+  "id_str": "985672345569312768",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/gjOT1wbgPK",
+      "expanded_url": "https://twitter.com/kanyewest/status/985672345569312768/photo/1",
+      "id": 985672339168702465,
+      "media_url": "http://pbs.twimg.com/media/Da3PxSkUMAEXM7Z.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Da3PxSkUMAEXM7Z.jpg",
+      "sizes": {
+        "large": {
+          "h": 736,
+          "resize": "fit",
+          "w": 1146
+        },
+        "medium": {
+          "h": 736,
+          "resize": "fit",
+          "w": 1146
+        },
+        "small": {
+          "h": 437,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/gjOT1wbgPK"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 8454,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "early 350 photoshop     I showed Louise Wilson these the last night I saw her https://t.co/gjOT1wbgPK",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

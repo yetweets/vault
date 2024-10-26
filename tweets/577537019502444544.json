@@ -1,0 +1,52 @@
+{
+  "created_at": "Mon Mar 16 18:28:50 +0000 2015",
+  "deleted": true,
+  "favorite_count": 19991,
+  "hashtags": [],
+  "id": 577537019502444544,
+  "id_str": "577537019502444544",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/QhEdqRIjb4",
+      "expanded_url": "https://twitter.com/kanyewest/status/577537019502444544/photo/1",
+      "id": 577537018835554304,
+      "media_url": "http://pbs.twimg.com/media/CAPS29RU0AAhoL5.png",
+      "media_url_https": "https://pbs.twimg.com/media/CAPS29RU0AAhoL5.png",
+      "sizes": {
+        "large": {
+          "h": 656,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 384,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 218,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/QhEdqRIjb4"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 9827,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "SWISH!!! http://t.co/QhEdqRIjb4",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

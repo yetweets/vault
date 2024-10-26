@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat May 07 10:43:01 +0000 2016",
+  "deleted": true,
+  "favorite_count": 18693,
+  "hashtags": [],
+  "id": 728897919911366656,
+  "id_str": "728897919911366656",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 5653,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "So happy to do a video with my brothers. Rap can be fun. We had a great time. Respect.  https://t.co/9SaQbZuOkn",
+  "urls": [
+    {
+      "expanded_url": "http://smarturl.it/FigureItOutVid",
+      "url": "https://t.co/9SaQbZuOkn"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

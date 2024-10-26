@@ -1,0 +1,57 @@
+{
+  "created_at": "Wed Nov 12 05:07:16 +0000 2014",
+  "deleted": true,
+  "favorite_count": 96553,
+  "hashtags": [
+    {
+      "text": "ALLDAY"
+    }
+  ],
+  "id": 532399205537415170,
+  "id_str": "532399205537415170",
+  "lang": "und",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/bQZK8lnNfB",
+      "expanded_url": "https://twitter.com/kanyewest/status/532399205537415170/photo/1",
+      "id": 532399204769878016,
+      "media_url": "http://pbs.twimg.com/media/B2N2QYcCUAAURTO.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/B2N2QYcCUAAURTO.jpg",
+      "sizes": {
+        "large": {
+          "h": 1334,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 782,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 443,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/bQZK8lnNfB"
+    }
+  ],
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 77124,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "#ALLDAY http://t.co/bQZK8lnNfB",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

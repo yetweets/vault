@@ -1,0 +1,67 @@
+{
+  "created_at": "Fri Jun 26 21:48:49 +0000 2015",
+  "deleted": true,
+  "favorite_count": 10740,
+  "hashtags": [
+    {
+      "text": "DONDADESIGN"
+    }
+  ],
+  "id": 614550912070094848,
+  "id_str": "614550912070094848",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/UYbXDhS4EJ",
+      "expanded_url": "https://twitter.com/kanyewest/status/614550912070094848/photo/1",
+      "id": 614550910866317312,
+      "media_url": "http://pbs.twimg.com/media/CIdSzCKUYAAhZBe.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CIdSzCKUYAAhZBe.jpg",
+      "sizes": {
+        "large": {
+          "h": 1024,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 600,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 340,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/UYbXDhS4EJ"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 4368,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": ".@Tyga The Gold Album #DONDADESIGN \nhttp://t.co/lIaUd9IAmY http://t.co/UYbXDhS4EJ",
+  "urls": [
+    {
+      "expanded_url": "http://smarturl.it/ho2bmi",
+      "url": "http://t.co/lIaUd9IAmY"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 22733444,
+      "name": "T-Raww",
+      "screen_name": "Tyga"
+    }
+  ]
+}

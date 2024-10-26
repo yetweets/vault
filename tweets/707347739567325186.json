@@ -1,0 +1,24 @@
+{
+  "created_at": "Tue Mar 08 23:30:17 +0000 2016",
+  "deleted": true,
+  "favorite_count": 5688,
+  "hashtags": [],
+  "id": 707347739567325186,
+  "id_str": "707347739567325186",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 1231,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Thank you Carine for believing in the vision, You are a visionary https://t.co/f13xrRC5W9",
+  "urls": [
+    {
+      "expanded_url": "http://www.crfashionbook.com/video/cr-girls-2016-video/",
+      "url": "https://t.co/f13xrRC5W9"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

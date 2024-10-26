@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun Aug 21 15:38:59 +0000 2016",
+  "deleted": true,
+  "favorite_count": 23331,
+  "hashtags": [],
+  "id": 767385517696704512,
+  "id_str": "767385517696704512",
+  "lang": "es",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/RWfkojTbFf",
+      "expanded_url": "https://twitter.com/kanyewest/status/767385517696704512/photo/1",
+      "id": 767385348213178368,
+      "media_url": "http://pbs.twimg.com/media/CqZM6I4WAAA4xdl.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CqZM6I4WAAA4xdl.jpg",
+      "sizes": {
+        "large": {
+          "h": 634,
+          "resize": "fit",
+          "w": 1029
+        },
+        "medium": {
+          "h": 634,
+          "resize": "fit",
+          "w": 1029
+        },
+        "small": {
+          "h": 419,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/RWfkojTbFf"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 8259,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "CHICAGO https://t.co/RWfkojTbFf",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

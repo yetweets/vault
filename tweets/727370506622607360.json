@@ -1,0 +1,52 @@
+{
+  "created_at": "Tue May 03 05:33:37 +0000 2016",
+  "deleted": true,
+  "favorite_count": 50474,
+  "hashtags": [],
+  "id": 727370506622607360,
+  "id_str": "727370506622607360",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/POCtXJUGzN",
+      "expanded_url": "https://twitter.com/kanyewest/status/727370506622607360/photo/1",
+      "id": 727370505880231936,
+      "media_url": "http://pbs.twimg.com/media/Chgjnw8WYAA6fP_.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Chgjnw8WYAA6fP_.jpg",
+      "sizes": {
+        "large": {
+          "h": 264,
+          "resize": "fit",
+          "w": 844
+        },
+        "medium": {
+          "h": 188,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 106,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/POCtXJUGzN"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 14092,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "I’m really excited to get our first best dressed at the met …  This Gala is like the Grammys of style! https://t.co/POCtXJUGzN",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

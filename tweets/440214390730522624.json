@@ -1,0 +1,29 @@
+{
+  "created_at": "Sun Mar 02 19:57:44 +0000 2014",
+  "deleted": true,
+  "favorite_count": 3308,
+  "hashtags": [
+    {
+      "text": "hiphopchangedus"
+    }
+  ],
+  "id": 440214390730522624,
+  "id_str": "440214390730522624",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 1737,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "check out @SteveStoute classic Tanning of America marathon starting at 7pm on vh1 #hiphopchangedus",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 56871360,
+      "name": "Steve Stoute",
+      "screen_name": "SteveStoute"
+    }
+  ]
+}

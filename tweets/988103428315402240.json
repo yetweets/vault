@@ -1,0 +1,194 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Apr 22 17:13:10 +0000 2018",
+  "deleted": true,
+  "display_text_range": [
+    0,
+    28
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/po21rGLe9P",
+        "expanded_url": "https://twitter.com/kanyewest/status/988103428315402240/video/1",
+        "id": 988103223146790912,
+        "id_str": "988103223146790912",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/988103223146790912/pu/img/EfadidhtgY4EkF3G.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/988103223146790912/pu/img/EfadidhtgY4EkF3G.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/po21rGLe9P"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/po21rGLe9P",
+        "expanded_url": "https://twitter.com/kanyewest/status/988103428315402240/video/1",
+        "id": 988103223146790912,
+        "id_str": "988103223146790912",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/988103223146790912/pu/img/EfadidhtgY4EkF3G.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/988103223146790912/pu/img/EfadidhtgY4EkF3G.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/po21rGLe9P",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 13297,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/988103223146790912/pu/vid/640x360/yJMSfHJPizDh0Cy4.mp4"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/988103223146790912/pu/pl/IjSya2my7ltBMqcI.m3u8"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/988103223146790912/pu/vid/320x180/S2aYOnx3ueUecz5f.mp4"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/988103223146790912/pu/vid/1280x720/yWGtCySfIEAoIK6K.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 988103428315402240,
+  "id_str": "988103428315402240",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "legacy_imported": true,
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retrieved": "2018-04-22--17-13-10",
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "our collective consciousness https://t.co/po21rGLe9P",
+  "timestamp_ms": "1524417190041",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": null,
+    "favourites_count": 1,
+    "follow_request_sent": null,
+    "followers_count": 24013770,
+    "following": null,
+    "friends_count": 1,
+    "geo_enabled": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 48874,
+    "location": null,
+    "name": "KANYE WEST",
+    "notifications": null,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/390200267/Screen_Shot_2011-12-27_at_11.53.35_PM.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/390200267/Screen_Shot_2011-12-27_at_11.53.35_PM.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/585565077207678977/N_eNSBXi_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/585565077207678977/N_eNSBXi_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 92,
+    "time_zone": "Hawaii",
+    "translator_type": "none",
+    "url": "http://KANYEWEST.COM",
+    "utc_offset": -36000,
+    "verified": true
+  }
+}

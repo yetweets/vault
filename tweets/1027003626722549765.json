@@ -1,0 +1,242 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Aug 08 01:28:40 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 26053643,
+        "id_str": "26053643",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Jimmy Kimmel",
+        "screen_name": "jimmykimmel"
+      },
+      {
+        "id": 34036028,
+        "id_str": "34036028",
+        "indices": [
+          60,
+          76
+        ],
+        "name": "Jimmy Kimmel Live",
+        "screen_name": "JimmyKimmelLive"
+      },
+      {
+        "id": 169686021,
+        "id_str": "169686021",
+        "indices": [
+          78,
+          88
+        ],
+        "name": "ye",
+        "screen_name": "kanyewest"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1027003626722549765,
+  "id_str": "1027003626722549765",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2477,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 08 01:19:38 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 34036028,
+          "id_str": "34036028",
+          "indices": [
+            43,
+            59
+          ],
+          "name": "Jimmy Kimmel Live",
+          "screen_name": "JimmyKimmelLive"
+        },
+        {
+          "id": 169686021,
+          "id_str": "169686021",
+          "indices": [
+            61,
+            71
+          ],
+          "name": "ye",
+          "screen_name": "kanyewest"
+        }
+      ]
+    },
+    "favorite_count": 15933,
+    "favorited": false,
+    "geo": null,
+    "id": 1027001356949712896,
+    "id_str": "1027001356949712896",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 2477,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "On Thursday night, HURRICANE KANYE strikes @JimmyKimmelLive! @KanyeWest",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Mar 23 18:05:56 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "1997 Bowling Digest Co-Bowler of the Year  https://t.co/ruFTB3yu8L",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "Facebook.com/JimmyKimmel",
+              "expanded_url": "http://Facebook.com/JimmyKimmel",
+              "indices": [
+                43,
+                66
+              ],
+              "url": "https://t.co/ruFTB3yu8L"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "youtube.com/user/JimmyKimm…",
+              "expanded_url": "http://www.youtube.com/user/JimmyKimmelLive",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/vxqRce2D2n"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7565,
+      "follow_request_sent": false,
+      "followers_count": 11513861,
+      "following": false,
+      "friends_count": 645,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 26053643,
+      "id_str": "26053643",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 25192,
+      "location": "Los Angeles",
+      "name": "Jimmy Kimmel",
+      "notifications": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26053643/1540236839",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1054456136823275520/B-xsLG5G_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054456136823275520/B-xsLG5G_normal.jpg",
+      "profile_link_color": "2416E3",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "jimmykimmel",
+      "statuses_count": 6260,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/vxqRce2D2n",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @jimmykimmel: On Thursday night, HURRICANE KANYE strikes @JimmyKimmelLive! @KanyeWest",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "created_at": "Fri Jan 22 00:32:23 +0000 2016",
+  "deleted": true,
+  "favorite_count": 49221,
+  "hashtags": [
+    {
+      "text": "whichonelookbetter"
+    },
+    {
+      "text": "allmattedout"
+    },
+    {
+      "text": "newgrillcomingsoonallchrome"
+    },
+    {
+      "text": "blessed"
+    }
+  ],
+  "id": 690331137533566976,
+  "id_str": "690331137533566976",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/hpTOCBSlED",
+      "expanded_url": "https://twitter.com/kanyewest/status/690331137533566976/photo/1",
+      "id": 690331136443084800,
+      "media_url": "http://pbs.twimg.com/media/CZSMgtUU8AABilT.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CZSMgtUU8AABilT.jpg",
+      "sizes": {
+        "large": {
+          "h": 768,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 450,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 255,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/hpTOCBSlED"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 24174,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "I told my wife...  #whichonelookbetter #allmattedout #newgrillcomingsoonallchrome #blessed https://t.co/hpTOCBSlED",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

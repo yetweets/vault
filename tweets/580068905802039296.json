@@ -1,0 +1,24 @@
+{
+  "created_at": "Mon Mar 23 18:09:38 +0000 2015",
+  "deleted": true,
+  "favorite_count": 4298,
+  "hashtags": [],
+  "id": 580068905802039296,
+  "id_str": "580068905802039296",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 1787,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "SEASON zine print edition available for free at the following locations http://t.co/ySwfZewefE",
+  "urls": [
+    {
+      "expanded_url": "http://seasonzine.com",
+      "url": "http://t.co/ySwfZewefE"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

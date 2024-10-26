@@ -1,0 +1,27 @@
+{
+  "created_at": "Thu Feb 04 02:34:43 +0000 2016",
+  "deleted": true,
+  "favorite_count": 12029,
+  "hashtags": [],
+  "id": 695072966170677248,
+  "id_str": "695072966170677248",
+  "in_reply_to_screen_name": "billboard",
+  "in_reply_to_user_id": 9695312,
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 5082,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "@billboard … it’s not a fake cover… you seen it didn’t you… you know we shot it didn’t you…",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 9695312,
+      "name": "billboard",
+      "screen_name": "billboard"
+    }
+  ]
+}

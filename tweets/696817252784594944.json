@@ -1,0 +1,35 @@
+{
+  "created_at": "Mon Feb 08 22:05:53 +0000 2016",
+  "deleted": true,
+  "favorite_count": 23674,
+  "hashtags": [],
+  "id": 696817252784594944,
+  "id_str": "696817252784594944",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 9367,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "I have to call @FloydMayweather and @LeoDicaprio, I spoke to @MikeTyson yesterday",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 42519612,
+      "name": "Floyd Mayweather",
+      "screen_name": "FloydMayweather"
+    },
+    {
+      "id": 133880286,
+      "name": "Leonardo DiCaprio",
+      "screen_name": "LeoDiCaprio"
+    },
+    {
+      "id": 156132825,
+      "name": "Mike Tyson",
+      "screen_name": "MikeTyson"
+    }
+  ]
+}

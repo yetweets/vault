@@ -1,0 +1,23 @@
+{
+  "created_at": "Wed Feb 24 00:33:24 +0000 2016",
+  "deleted": true,
+  "favorite_count": 33023,
+  "hashtags": [
+    {
+      "text": "facts"
+    }
+  ],
+  "id": 702290190535168000,
+  "id_str": "702290190535168000",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 12429,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "If you are an entrepreneur you may have debt and lawsuits #facts",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

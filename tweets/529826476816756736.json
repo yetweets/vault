@@ -1,0 +1,32 @@
+{
+  "created_at": "Wed Nov 05 02:44:10 +0000 2014",
+  "deleted": true,
+  "favorite_count": 3950,
+  "hashtags": [
+    {
+      "text": "RealRnB"
+    },
+    {
+      "text": "TeyanaTaylor"
+    }
+  ],
+  "id": 529826476816756736,
+  "id_str": "529826476816756736",
+  "lang": "und",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 2108,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "VII #RealRnB #TeyanaTaylor \nhttp://t.co/DfW5ygGUak",
+  "urls": [
+    {
+      "expanded_url": "http://smarturl.it/TeyanaVII",
+      "url": "http://t.co/DfW5ygGUak"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

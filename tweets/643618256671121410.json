@@ -1,0 +1,19 @@
+{
+  "created_at": "Tue Sep 15 02:52:04 +0000 2015",
+  "deleted": true,
+  "favorite_count": 10720,
+  "hashtags": [],
+  "id": 643618256671121410,
+  "id_str": "643618256671121410",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 7416,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Atlanta GA\nBelfast Ireland\nBerlin Germany\nBirmingham  UK\nCary NC\nChicago IL\nCopenhagen Denmark\nDallas Tx\nDenver CO\nDublin Ireland",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

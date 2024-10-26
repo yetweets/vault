@@ -1,0 +1,24 @@
+{
+  "created_at": "Sun Mar 06 22:12:02 +0000 2016",
+  "deleted": true,
+  "favorite_count": 7970,
+  "hashtags": [],
+  "id": 706603272262565888,
+  "id_str": "706603272262565888",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 1822,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Love this video https://t.co/Ar8wrpQ95q",
+  "urls": [
+    {
+      "expanded_url": "http://bit.ly/1X5b8an",
+      "url": "https://t.co/Ar8wrpQ95q"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

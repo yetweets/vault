@@ -1,0 +1,52 @@
+{
+  "created_at": "Mon Feb 15 04:36:10 +0000 2016",
+  "deleted": true,
+  "favorite_count": 24268,
+  "hashtags": [],
+  "id": 699089796690534401,
+  "id_str": "699089796690534401",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/O3r9DkX03R",
+      "expanded_url": "https://twitter.com/kanyewest/status/699089796690534401/photo/1",
+      "id": 699089790310809600,
+      "media_url": "http://pbs.twimg.com/media/CbOqddmUAAAKmQP.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CbOqddmUAAAKmQP.jpg",
+      "sizes": {
+        "large": {
+          "h": 1024,
+          "resize": "fit",
+          "w": 576
+        },
+        "medium": {
+          "h": 1024,
+          "resize": "fit",
+          "w": 576
+        },
+        "small": {
+          "h": 604,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/O3r9DkX03R"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 6585,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Man thank you so so so much everyone for signing up to Tidal. Tidal is now the number one app in the world!!! https://t.co/O3r9DkX03R",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

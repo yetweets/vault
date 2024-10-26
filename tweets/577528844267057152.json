@@ -1,0 +1,52 @@
+{
+  "created_at": "Mon Mar 16 17:56:21 +0000 2015",
+  "deleted": true,
+  "favorite_count": 25082,
+  "hashtags": [],
+  "id": 577528844267057152,
+  "id_str": "577528844267057152",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/wDrVgwnqZj",
+      "expanded_url": "https://twitter.com/kanyewest/status/577528844267057152/photo/1",
+      "id": 577528843893743616,
+      "media_url": "http://pbs.twimg.com/media/CAPLbHPUIAAXm4T.png",
+      "media_url_https": "https://pbs.twimg.com/media/CAPLbHPUIAAXm4T.png",
+      "sizes": {
+        "large": {
+          "h": 664,
+          "resize": "fit",
+          "w": 1004
+        },
+        "medium": {
+          "h": 397,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 225,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/wDrVgwnqZj"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 11114,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "CONGRATS BABY ON THE SHOW PREMIERE LAST NIGHT http://t.co/wDrVgwnqZj",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

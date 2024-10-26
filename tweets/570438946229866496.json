@@ -1,0 +1,24 @@
+{
+  "created_at": "Wed Feb 25 04:23:37 +0000 2015",
+  "deleted": true,
+  "favorite_count": 14345,
+  "hashtags": [],
+  "id": 570438946229866496,
+  "id_str": "570438946229866496",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 8430,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Congrats to my family Chris Brown and Tyga on their new release\nhttps://t.co/yGm82L5gNm",
+  "urls": [
+    {
+      "expanded_url": "https://itunes.apple.com/us/album/fan-fan-album-deluxe-version/id964294743",
+      "url": "https://t.co/yGm82L5gNm"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

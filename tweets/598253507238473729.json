@@ -1,0 +1,52 @@
+{
+  "created_at": "Tue May 12 22:28:45 +0000 2015",
+  "deleted": true,
+  "favorite_count": 56885,
+  "hashtags": [],
+  "id": 598253507238473729,
+  "id_str": "598253507238473729",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/UmbmkJDHhq",
+      "expanded_url": "https://twitter.com/kanyewest/status/598253507238473729/photo/1",
+      "id": 598253506072481795,
+      "media_url": "http://pbs.twimg.com/media/CE1sZOMVEAM92xW.png",
+      "media_url_https": "https://pbs.twimg.com/media/CE1sZOMVEAM92xW.png",
+      "sizes": {
+        "large": {
+          "h": 678,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 397,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 225,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/UmbmkJDHhq"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 27401,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Thank you SAIC…  This is my greatest honor to date and would have been my mother - Dr. West’s - proudest moment. http://t.co/UmbmkJDHhq",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

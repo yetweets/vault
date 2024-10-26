@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun Aug 21 15:58:17 +0000 2016",
+  "deleted": true,
+  "favorite_count": 11622,
+  "hashtags": [],
+  "id": 767390376273543168,
+  "id_str": "767390376273543168",
+  "lang": "in",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/S0Pba5aySH",
+      "expanded_url": "https://twitter.com/kanyewest/status/767390376273543168/photo/1",
+      "id": 767390333110018048,
+      "media_url": "http://pbs.twimg.com/media/CqZRcTEXYAAWm9d.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CqZRcTEXYAAWm9d.jpg",
+      "sizes": {
+        "large": {
+          "h": 1280,
+          "resize": "fit",
+          "w": 1280
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/S0Pba5aySH"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 2700,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "BERLIN https://t.co/S0Pba5aySH",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

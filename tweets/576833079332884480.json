@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat Mar 14 19:51:37 +0000 2015",
+  "deleted": true,
+  "favorite_count": 7667,
+  "hashtags": [
+    {
+      "text": "yeezyboostlaunch"
+    }
+  ],
+  "id": 576833079332884480,
+  "id_str": "576833079332884480",
+  "lang": "und",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 4700,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "http://t.co/eXkoz9gdcd  #yeezyboostlaunch",
+  "urls": [
+    {
+      "expanded_url": "http://youtu.be/bjf4H8u7oGM",
+      "url": "http://t.co/eXkoz9gdcd"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

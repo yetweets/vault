@@ -1,0 +1,52 @@
+{
+  "created_at": "Mon Mar 16 17:56:35 +0000 2015",
+  "deleted": true,
+  "favorite_count": 54343,
+  "hashtags": [],
+  "id": 577528903167660032,
+  "id_str": "577528903167660032",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/NyN0w5QCyB",
+      "expanded_url": "https://twitter.com/kanyewest/status/577528903167660032/photo/1",
+      "id": 577528902647558144,
+      "media_url": "http://pbs.twimg.com/media/CAPLeiHUMAAGJ37.png",
+      "media_url_https": "https://pbs.twimg.com/media/CAPLeiHUMAAGJ37.png",
+      "sizes": {
+        "large": {
+          "h": 662,
+          "resize": "fit",
+          "w": 934
+        },
+        "medium": {
+          "h": 425,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 241,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/NyN0w5QCyB"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 34502,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "I’M SO LUCKY http://t.co/NyN0w5QCyB",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,74 @@
+{
+  "created_at": "Tue Sep 10 07:30:34 +0000 2013",
+  "deleted": true,
+  "favorite_count": 12083,
+  "hashtags": [],
+  "id": 377333258918187008,
+  "id_str": "377333258918187008",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/S04Bz4IZBB",
+      "expanded_url": "https://twitter.com/kanyewest/status/377333258918187008/photo/1",
+      "id": 377333258926575616,
+      "media_url": "http://pbs.twimg.com/media/BTyOmYxCUAA2HzC.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/BTyOmYxCUAA2HzC.jpg",
+      "sizes": {
+        "large": {
+          "h": 1333,
+          "resize": "fit",
+          "w": 1000
+        },
+        "medium": {
+          "h": 800,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 453,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/S04Bz4IZBB"
+    }
+  ],
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 4991,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Karl shooting my 2 girls @CarineRoitfeld @RiccardoTisci @KarlLagerfeld http://t.co/HJWw3Cotxq http://t.co/S04Bz4IZBB",
+  "urls": [
+    {
+      "expanded_url": "http://bit.ly/17QL7QC",
+      "url": "http://t.co/HJWw3Cotxq"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 500823231,
+      "name": "Carine Roitfeld",
+      "screen_name": "CarineRoitfeld"
+    },
+    {
+      "id": 1311113250,
+      "name": "riccardotisci",
+      "screen_name": "riccardotisci"
+    },
+    {
+      "id": 465723566,
+      "name": "KARL LAGERFELD",
+      "screen_name": "KarlLagerfeld"
+    }
+  ]
+}

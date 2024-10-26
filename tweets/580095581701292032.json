@@ -1,0 +1,24 @@
+{
+  "created_at": "Mon Mar 23 19:55:38 +0000 2015",
+  "deleted": true,
+  "favorite_count": 12102,
+  "hashtags": [],
+  "id": 580095581701292032,
+  "id_str": "580095581701292032",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 7834,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "SUMMER LEAGUE!!!  ME TY $ AND WALE  http://t.co/ToLGm2h1rM",
+  "urls": [
+    {
+      "expanded_url": "http://smarturl.it/summerleague",
+      "url": "http://t.co/ToLGm2h1rM"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

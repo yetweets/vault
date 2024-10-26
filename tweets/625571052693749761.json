@@ -1,0 +1,52 @@
+{
+  "created_at": "Mon Jul 27 07:38:56 +0000 2015",
+  "deleted": true,
+  "favorite_count": 11889,
+  "hashtags": [],
+  "id": 625571052693749761,
+  "id_str": "625571052693749761",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/GajqVowxAH",
+      "expanded_url": "https://twitter.com/kanyewest/status/625571052693749761/photo/1",
+      "id": 625571051812950016,
+      "media_url": "http://pbs.twimg.com/media/CK55jqUUEAAIVYx.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CK55jqUUEAAIVYx.jpg",
+      "sizes": {
+        "large": {
+          "h": 430,
+          "resize": "fit",
+          "w": 645
+        },
+        "medium": {
+          "h": 400,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 227,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/GajqVowxAH"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 2634,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "My prayers go to Ingrid Sischy’s family … I will forever appreciate her sincerity … She was a super nice person. http://t.co/GajqVowxAH",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

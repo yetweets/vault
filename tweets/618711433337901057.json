@@ -1,0 +1,24 @@
+{
+  "created_at": "Wed Jul 08 09:21:15 +0000 2015",
+  "deleted": true,
+  "favorite_count": 16190,
+  "hashtags": [],
+  "id": 618711433337901057,
+  "id_str": "618711433337901057",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 11446,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "DREAMS ARE WORTH MORE THAN MONEY   http://t.co/Xp0N6rBKEs",
+  "urls": [
+    {
+      "expanded_url": "http://meekseason.com",
+      "url": "http://t.co/Xp0N6rBKEs"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

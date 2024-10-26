@@ -1,0 +1,25 @@
+{
+  "created_at": "Sun Apr 15 23:47:34 +0000 2018",
+  "deleted": true,
+  "favorite_count": 193648,
+  "hashtags": [],
+  "id": 985665969510117376,
+  "id_str": "985665969510117376",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 37715,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "my favorite moment of walking into MSG to play Saint Pablo, I used to go to the hospital and play Lamar the album w… https://t.co/G7lWlwvF0K",
+  "truncated": true,
+  "urls": [
+    {
+      "expanded_url": "https://twitter.com/i/web/status/985665969510117376",
+      "url": "https://t.co/G7lWlwvF0K"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

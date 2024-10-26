@@ -1,0 +1,52 @@
+{
+  "created_at": "Tue Jul 12 02:55:33 +0000 2016",
+  "deleted": true,
+  "favorite_count": 94465,
+  "hashtags": [],
+  "id": 752697879987453952,
+  "id_str": "752697879987453952",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/4eSWq6oQGZ",
+      "expanded_url": "https://twitter.com/kanyewest/status/752697879987453952/photo/1",
+      "id": 752697791361740800,
+      "media_url": "http://pbs.twimg.com/media/CnIepz1WcAADEQX.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CnIepz1WcAADEQX.jpg",
+      "sizes": {
+        "large": {
+          "h": 1292,
+          "resize": "fit",
+          "w": 1000
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 929
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 526
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/4eSWq6oQGZ"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 18107,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "I am very proud of my wife for her Forbes cover story. https://t.co/4eSWq6oQGZ",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,19 @@
+{
+  "created_at": "Mon Feb 10 19:02:56 +0000 2014",
+  "deleted": true,
+  "favorite_count": 17028,
+  "hashtags": [],
+  "id": 432952845092913152,
+  "id_str": "432952845092913152",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 10976,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "gave of their heart to that project, and to all the projects that followed, and are to come.",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

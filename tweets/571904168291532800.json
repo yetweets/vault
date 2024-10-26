@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun Mar 01 05:25:53 +0000 2015",
+  "deleted": true,
+  "favorite_count": 74762,
+  "hashtags": [],
+  "id": 571904168291532800,
+  "id_str": "571904168291532800",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/e3UUsQQEts",
+      "expanded_url": "https://twitter.com/kanyewest/status/571904168291532800/photo/1",
+      "id": 571904166664138752,
+      "media_url": "http://pbs.twimg.com/media/B-_PzzuU8AAW79I.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/B-_PzzuU8AAW79I.jpg",
+      "sizes": {
+        "large": {
+          "h": 1024,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 600,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 340,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/e3UUsQQEts"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 79999,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "So Help Me God http://t.co/e3UUsQQEts",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

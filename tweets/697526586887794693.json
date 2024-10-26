@@ -1,0 +1,30 @@
+{
+  "created_at": "Wed Feb 10 21:04:32 +0000 2016",
+  "deleted": true,
+  "favorite_count": 17655,
+  "hashtags": [],
+  "id": 697526586887794693,
+  "id_str": "697526586887794693",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 7930,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "YEEZY Season 3. 2/11 4PM ET. @TheGarden. Livestream for ALL on TIDAL. \nhttps://t.co/flkoN5t26q",
+  "urls": [
+    {
+      "expanded_url": "http://tidal.com/yeezyseason3",
+      "url": "https://t.co/flkoN5t26q"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 121254571,
+      "name": "MSG",
+      "screen_name": "TheGarden"
+    }
+  ]
+}

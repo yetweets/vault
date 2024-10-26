@@ -1,0 +1,52 @@
+{
+  "created_at": "Thu Apr 14 02:30:12 +0000 2016",
+  "deleted": true,
+  "favorite_count": 160249,
+  "hashtags": [],
+  "id": 720438978655027201,
+  "id_str": "720438978655027201",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/eucluEFOFX",
+      "expanded_url": "https://twitter.com/kanyewest/status/720438978655027201/photo/1",
+      "id": 720438977749065729,
+      "media_url": "http://pbs.twimg.com/media/Cf-DbucUIAE14b6.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Cf-DbucUIAE14b6.jpg",
+      "sizes": {
+        "large": {
+          "h": 1365,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 800,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 453,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/eucluEFOFX"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 74894,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "At the God's last game https://t.co/eucluEFOFX",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

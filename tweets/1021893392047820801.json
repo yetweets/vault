@@ -1,0 +1,194 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jul 24 23:02:25 +0000 2018",
+  "deleted": true,
+  "display_text_range": [
+    0,
+    0
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/0OgWjcPGx9",
+        "expanded_url": "https://twitter.com/kanyewest/status/1021893392047820801/video/1",
+        "id": 1021893326675398657,
+        "id_str": "1021893326675398657",
+        "indices": [
+          0,
+          23
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1021893326675398657/pu/img/lSqNGF6q1ixByoY0.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1021893326675398657/pu/img/lSqNGF6q1ixByoY0.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/0OgWjcPGx9"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/0OgWjcPGx9",
+        "expanded_url": "https://twitter.com/kanyewest/status/1021893392047820801/video/1",
+        "id": 1021893326675398657,
+        "id_str": "1021893326675398657",
+        "indices": [
+          0,
+          23
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1021893326675398657/pu/img/lSqNGF6q1ixByoY0.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1021893326675398657/pu/img/lSqNGF6q1ixByoY0.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/0OgWjcPGx9",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 17184,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1021893326675398657/pu/vid/1280x720/ixwqebVhmhR3eBAL.mp4?tag=3"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1021893326675398657/pu/vid/640x360/ZST0rmZ06i_q6sgZ.mp4?tag=3"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1021893326675398657/pu/pl/LnXGIzYotwHbe-4w.m3u8?tag=3"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1021893326675398657/pu/vid/320x180/WLuBEl6B9VKfyZJi.mp4?tag=3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1021893392047820801,
+  "id_str": "1021893392047820801",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "und",
+  "legacy_imported": true,
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retrieved": "2018-07-24--23-02-26",
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "https://t.co/0OgWjcPGx9",
+  "timestamp_ms": "1532473345182",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": null,
+    "favourites_count": 2,
+    "follow_request_sent": null,
+    "followers_count": 27846644,
+    "following": null,
+    "friends_count": 6,
+    "geo_enabled": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49025,
+    "location": null,
+    "name": "KANYE WEST",
+    "notifications": null,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/585565077207678977/N_eNSBXi_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/585565077207678977/N_eNSBXi_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 525,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "http://KANYEWEST.COM",
+    "utc_offset": null,
+    "verified": true
+  }
+}

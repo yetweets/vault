@@ -1,0 +1,52 @@
+{
+  "created_at": "Fri Apr 20 17:34:57 +0000 2018",
+  "deleted": true,
+  "favorite_count": 40186,
+  "hashtags": [],
+  "id": 987384134992412672,
+  "id_str": "987384134992412672",
+  "lang": "es",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/IdbPsa7ziv",
+      "expanded_url": "https://twitter.com/kanyewest/status/987384134992412672/photo/1",
+      "id": 987384125043568640,
+      "media_url": "http://pbs.twimg.com/media/DbPkoV4U8AAaI8e.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DbPkoV4U8AAaI8e.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 1536
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 900
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 510
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/IdbPsa7ziv"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 5248,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Columbia references 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🙈🤷‍♂️🔥🔥🔥🔥🔥🔥🔥🔥🔥☠️ https://t.co/IdbPsa7ziv",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

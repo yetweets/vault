@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat Feb 21 03:00:07 +0000 2015",
+  "deleted": true,
+  "favorite_count": 8000,
+  "hashtags": [],
+  "id": 568968380645920769,
+  "id_str": "568968380645920769",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 3975,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "BLESSINGS ON BLESSINGS ON BLESSINGS!!! http://t.co/UtcxsIaH4t",
+  "urls": [
+    {
+      "expanded_url": "http://www.style.com/trends/industry/2015/lvmh-prize-2015-semifinalists-shortlist",
+      "url": "http://t.co/UtcxsIaH4t"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

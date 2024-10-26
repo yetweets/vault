@@ -1,0 +1,24 @@
+{
+  "created_at": "Tue May 01 21:21:05 +0000 2018",
+  "deleted": true,
+  "favorite_count": 24411,
+  "hashtags": [],
+  "id": 991427311688859649,
+  "id_str": "991427311688859649",
+  "lang": "und",
+  "legacy_imported": true,
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 4402,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "https://t.co/alJp679tHp",
+  "urls": [
+    {
+      "expanded_url": "http://www.tmz.com/2018/05/01/kanye-west-opioids-liposuction/",
+      "url": "https://t.co/alJp679tHp"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

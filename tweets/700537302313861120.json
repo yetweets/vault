@@ -1,0 +1,52 @@
+{
+  "created_at": "Fri Feb 19 04:28:02 +0000 2016",
+  "deleted": true,
+  "favorite_count": 172882,
+  "hashtags": [],
+  "id": 700537302313861120,
+  "id_str": "700537302313861120",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/Yt11QcelpN",
+      "expanded_url": "https://twitter.com/kanyewest/status/700537302313861120/photo/1",
+      "id": 700537300623593472,
+      "media_url": "http://pbs.twimg.com/media/CbjO9puUkAAiQfK.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CbjO9puUkAAiQfK.jpg",
+      "sizes": {
+        "large": {
+          "h": 683,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 400,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 227,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/Yt11QcelpN"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 53442,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "My Heart https://t.co/Yt11QcelpN",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

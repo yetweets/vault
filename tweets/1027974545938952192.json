@@ -1,0 +1,52 @@
+{
+  "created_at": "Fri Aug 10 17:46:45 +0000 2018",
+  "deleted": true,
+  "favorite_count": 303711,
+  "hashtags": [],
+  "id": 1027974545938952192,
+  "id_str": "1027974545938952192",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/hbtad8Y8zF",
+      "expanded_url": "https://twitter.com/kanyewest/status/1027974545938952192/photo/1",
+      "id": 1027974471359975424,
+      "media_url": "http://pbs.twimg.com/media/DkQZVdOU0AA8-f_.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DkQZVdOU0AA8-f_.jpg",
+      "sizes": {
+        "large": {
+          "h": 1855,
+          "resize": "fit",
+          "w": 1242
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 803
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 455
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/hbtad8Y8zF"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-34",
+  "retweet_count": 40728,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "happy wife happy life https://t.co/hbtad8Y8zF",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

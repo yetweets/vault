@@ -1,0 +1,52 @@
+{
+  "created_at": "Mon May 07 20:14:41 +0000 2018",
+  "deleted": true,
+  "favorite_count": 19120,
+  "hashtags": [],
+  "id": 993584928930451456,
+  "id_str": "993584928930451456",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/4x2wkCMidR",
+      "expanded_url": "https://twitter.com/kanyewest/status/993584928930451456/photo/1",
+      "id": 993584924014788608,
+      "media_url": "http://pbs.twimg.com/media/DcnsOWIVwAAeIqo.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DcnsOWIVwAAeIqo.jpg",
+      "sizes": {
+        "large": {
+          "h": 992,
+          "resize": "fit",
+          "w": 900
+        },
+        "medium": {
+          "h": 992,
+          "resize": "fit",
+          "w": 900
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 617
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/4x2wkCMidR"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 2395,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "It’s about the feeling first https://t.co/4x2wkCMidR",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

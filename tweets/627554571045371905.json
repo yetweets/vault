@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat Aug 01 19:00:43 +0000 2015",
+  "deleted": true,
+  "favorite_count": 10866,
+  "hashtags": [],
+  "id": 627554571045371905,
+  "id_str": "627554571045371905",
+  "lang": "und",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 7574,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "http://t.co/AY7VS7WGxh",
+  "urls": [
+    {
+      "expanded_url": "http://hypebeast.com/2015/8/listen-to-kid-cudis-latest-track-confused",
+      "url": "http://t.co/AY7VS7WGxh"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

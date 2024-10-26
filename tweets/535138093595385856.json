@@ -1,0 +1,60 @@
+{
+  "created_at": "Wed Nov 19 18:30:38 +0000 2014",
+  "deleted": true,
+  "favorite_count": 17907,
+  "hashtags": [
+    {
+      "text": "DONDA"
+    },
+    {
+      "text": "GOODMUSIC"
+    }
+  ],
+  "id": 535138093595385856,
+  "id_str": "535138093595385856",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/flbShHO42T",
+      "expanded_url": "https://twitter.com/kanyewest/status/535138093595385856/photo/1",
+      "id": 535138078101630976,
+      "media_url": "http://pbs.twimg.com/media/B20xPysIcAA_Yf0.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/B20xPysIcAA_Yf0.jpg",
+      "sizes": {
+        "large": {
+          "h": 640,
+          "resize": "fit",
+          "w": 640
+        },
+        "medium": {
+          "h": 600,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 340,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/flbShHO42T"
+    }
+  ],
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 10883,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Pusha T  Lunch Money #DONDA #GOODMUSIC http://t.co/flbShHO42T",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

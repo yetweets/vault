@@ -1,0 +1,80 @@
+{
+  "created_at": "Mon Aug 13 22:18:50 +0000 2018",
+  "deleted": true,
+  "favorite_count": 56779,
+  "hashtags": [],
+  "id": 1029130182978752513,
+  "id_str": "1029130182978752513",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/R819Sn9r3Z",
+      "expanded_url": "https://twitter.com/kanyewest/status/1029130182978752513/video/1",
+      "id": 1029130148203782144,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1029130148203782144/pu/img/KEbxRPnM9JCof5Y-.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1029130148203782144/pu/img/KEbxRPnM9JCof5Y-.jpg",
+      "sizes": {
+        "large": {
+          "h": 720,
+          "resize": "fit",
+          "w": 1280
+        },
+        "medium": {
+          "h": 675,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 383,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "video",
+      "url": "https://t.co/R819Sn9r3Z",
+      "video_info": {
+        "aspect_ratio": [
+          16,
+          9
+        ],
+        "duration_millis": 4198,
+        "variants": [
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1029130148203782144/pu/vid/1280x720/wwxPJdMZI_v5jkBw.mp4?tag=5"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1029130148203782144/pu/pl/24vtv3UljM0je1k5.m3u8?tag=5"
+          },
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1029130148203782144/pu/vid/640x360/IAylaGGLQrD0QJgt.mp4?tag=5"
+          },
+          {
+            "bitrate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1029130148203782144/pu/vid/320x180/xxsPfBPVdXVUCsCG.mp4?tag=5"
+          }
+        ]
+      }
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-34",
+  "retweet_count": 5256,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Yeezy slides on vacay https://t.co/R819Sn9r3Z",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

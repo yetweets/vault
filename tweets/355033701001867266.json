@@ -1,0 +1,25 @@
+{
+  "created_at": "Wed Jul 10 18:40:05 +0000 2013",
+  "deleted": true,
+  "favorite_count": 2351,
+  "hashtags": [],
+  "id": 355033701001867266,
+  "id_str": "355033701001867266",
+  "lang": "und",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 2105,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "http://t.co/hkUH7FrnNh",
+  "urls": [
+    {
+      "expanded_url": "http://www.gq.com/entertainment/music/201307/kanye-west-gets-new-creative-direction#slide=1",
+      "url": "http://t.co/hkUH7FrnNh"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

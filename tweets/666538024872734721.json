@@ -1,0 +1,24 @@
+{
+  "created_at": "Tue Nov 17 08:47:03 +0000 2015",
+  "deleted": true,
+  "favorite_count": 10753,
+  "hashtags": [],
+  "id": 666538024872734721,
+  "id_str": "666538024872734721",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 5256,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Pusha T  “Untouchable”, produced by Timbaland.  https://t.co/I1rybEb6Xr",
+  "urls": [
+    {
+      "expanded_url": "http://www.good-music.com",
+      "url": "https://t.co/I1rybEb6Xr"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

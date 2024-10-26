@@ -1,0 +1,52 @@
+{
+  "created_at": "Wed Jul 13 04:03:57 +0000 2016",
+  "deleted": true,
+  "favorite_count": 492784,
+  "hashtags": [],
+  "id": 753077480106459142,
+  "id_str": "753077480106459142",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/4W9htygzXg",
+      "expanded_url": "https://twitter.com/kanyewest/status/753077480106459142/photo/1",
+      "id": 753077377287262209,
+      "media_url": "http://pbs.twimg.com/media/CnN34nmXEAEWwxM.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CnN34nmXEAEWwxM.jpg",
+      "sizes": {
+        "large": {
+          "h": 759,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 759,
+          "resize": "fit",
+          "w": 1024
+        },
+        "small": {
+          "h": 504,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/4W9htygzXg"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 139373,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "NORI ASKED IF THE AIRPLANE COULD TAKE HER TO HEAVEN TO SEE YOU FOR YOUR BIRTHDAY, I LOVE YOU MOM https://t.co/4W9htygzXg",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

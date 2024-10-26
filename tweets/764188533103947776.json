@@ -1,0 +1,24 @@
+{
+  "created_at": "Fri Aug 12 19:55:18 +0000 2016",
+  "deleted": true,
+  "favorite_count": 7138,
+  "hashtags": [],
+  "id": 764188533103947776,
+  "id_str": "764188533103947776",
+  "lang": "ht",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 2186,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Herzog on Famous https://t.co/mFd0lfJDo0",
+  "urls": [
+    {
+      "expanded_url": "http://content.jwplatform.com/previews/37K7kTJv-DH8wQcDr",
+      "url": "https://t.co/mFd0lfJDo0"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

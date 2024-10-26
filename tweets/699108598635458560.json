@@ -1,0 +1,23 @@
+{
+  "created_at": "Mon Feb 15 05:50:53 +0000 2016",
+  "deleted": true,
+  "favorite_count": 45966,
+  "hashtags": [
+    {
+      "text": "facts"
+    }
+  ],
+  "id": 699108598635458560,
+  "id_str": "699108598635458560",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 29573,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "I promise I’m going to make the world dope…. all I do is make shit dope #facts…",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

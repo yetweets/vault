@@ -1,0 +1,52 @@
+{
+  "created_at": "Wed Mar 30 17:50:50 +0000 2016",
+  "deleted": true,
+  "favorite_count": 57171,
+  "hashtags": [],
+  "id": 715234848256827392,
+  "id_str": "715234848256827392",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/pbwx4ehCiU",
+      "expanded_url": "https://twitter.com/kanyewest/status/715234848256827392/photo/1",
+      "id": 715234846130483200,
+      "media_url": "http://pbs.twimg.com/media/Ce0GTZaWsAAYRB2.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Ce0GTZaWsAAYRB2.jpg",
+      "sizes": {
+        "large": {
+          "h": 1365,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 800,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 453,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/pbwx4ehCiU"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 10577,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "daytime https://t.co/pbwx4ehCiU",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

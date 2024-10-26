@@ -1,0 +1,24 @@
+{
+  "created_at": "Sun Sep 11 23:12:36 +0000 2016",
+  "deleted": true,
+  "favorite_count": 39538,
+  "hashtags": [],
+  "id": 775109819682488328,
+  "id_str": "775109819682488328",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 10122,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "FADE https://t.co/lpnH9yWhwz",
+  "urls": [
+    {
+      "expanded_url": "http://smarturl.it/iKanyeWestFade",
+      "url": "https://t.co/lpnH9yWhwz"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,52 @@
+{
+  "created_at": "Mon May 14 15:51:56 +0000 2018",
+  "deleted": true,
+  "favorite_count": 44465,
+  "hashtags": [],
+  "id": 996055522250899462,
+  "id_str": "996055522250899462",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/ufbZlURwPA",
+      "expanded_url": "https://twitter.com/kanyewest/status/996055522250899462/photo/1",
+      "id": 996055512222392320,
+      "media_url": "http://pbs.twimg.com/media/DdKzNgaV4AARgFX.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DdKzNgaV4AARgFX.jpg",
+      "sizes": {
+        "large": {
+          "h": 1251,
+          "resize": "fit",
+          "w": 750
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 719
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 408
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/ufbZlURwPA"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 9408,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "The United Nations introduced the Sustainable Development goals and platform in 2015 to transform the world by 2030 https://t.co/ufbZlURwPA",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun Apr 15 23:44:26 +0000 2018",
+  "deleted": true,
+  "favorite_count": 10395,
+  "hashtags": [],
+  "id": 985665179622019073,
+  "id_str": "985665179622019073",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/EpugxAZoDV",
+      "expanded_url": "https://twitter.com/kanyewest/status/985665179622019073/photo/1",
+      "id": 985665174186090497,
+      "media_url": "http://pbs.twimg.com/media/Da3JQO7V4AEm-K9.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Da3JQO7V4AEm-K9.jpg",
+      "sizes": {
+        "large": {
+          "h": 1286,
+          "resize": "fit",
+          "w": 1108
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 1034
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 586
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/EpugxAZoDV"
+    }
+  ],
+  "retrieved": "2018-04-15--23-57-35",
+  "retweet_count": 3246,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "My boy Ninja crazy 🤣😭🤦‍♂️ https://t.co/EpugxAZoDV",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

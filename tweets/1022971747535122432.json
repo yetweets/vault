@@ -1,0 +1,52 @@
+{
+  "created_at": "Fri Jul 27 22:27:25 +0000 2018",
+  "deleted": true,
+  "favorite_count": 56061,
+  "hashtags": [],
+  "id": 1022971747535122432,
+  "id_str": "1022971747535122432",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/S61SkXdY7A",
+      "expanded_url": "https://twitter.com/kanyewest/status/1022971747535122432/photo/1",
+      "id": 1022971742313017344,
+      "media_url": "http://pbs.twimg.com/media/DjJTYTPUcAAaLt6.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DjJTYTPUcAAaLt6.jpg",
+      "sizes": {
+        "large": {
+          "h": 452,
+          "resize": "fit",
+          "w": 737
+        },
+        "medium": {
+          "h": 452,
+          "resize": "fit",
+          "w": 737
+        },
+        "small": {
+          "h": 417,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/S61SkXdY7A"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-34",
+  "retweet_count": 8636,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "adding basketball https://t.co/S61SkXdY7A",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,53 @@
+{
+  "created_at": "Wed Oct 22 05:50:58 +0000 2014",
+  "deleted": true,
+  "favorite_count": 102327,
+  "hashtags": [],
+  "id": 524800056205930497,
+  "id_str": "524800056205930497",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/D3k20HN3Yb",
+      "expanded_url": "https://twitter.com/kanyewest/status/524800056205930497/photo/1",
+      "id": 524800055492898816,
+      "media_url": "http://pbs.twimg.com/media/B0h23rXCcAAQpHM.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/B0h23rXCcAAQpHM.jpg",
+      "sizes": {
+        "large": {
+          "h": 888,
+          "resize": "fit",
+          "w": 634
+        },
+        "medium": {
+          "h": 840,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 476,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/D3k20HN3Yb"
+    }
+  ],
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 49767,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Happy Birthday baby!  Thank you for being the dopest wife &amp; mom! http://t.co/D3k20HN3Yb",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

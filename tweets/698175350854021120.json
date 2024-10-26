@@ -1,0 +1,52 @@
+{
+  "created_at": "Fri Feb 12 16:02:29 +0000 2016",
+  "deleted": true,
+  "favorite_count": 177020,
+  "hashtags": [],
+  "id": 698175350854021120,
+  "id_str": "698175350854021120",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/6lBxcd83N2",
+      "expanded_url": "https://twitter.com/kanyewest/status/698175350854021120/photo/1",
+      "id": 698175349419433984,
+      "media_url": "http://pbs.twimg.com/media/CbBqx_0UYAAdF0a.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CbBqx_0UYAAdF0a.jpg",
+      "sizes": {
+        "large": {
+          "h": 1365,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 800,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 453,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/6lBxcd83N2"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 144954,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "The album is being mastered and will be out today… added on a couple of tracks… https://t.co/6lBxcd83N2",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,80 @@
+{
+  "created_at": "Fri Feb 05 01:16:25 +0000 2016",
+  "deleted": true,
+  "favorite_count": 41347,
+  "hashtags": [],
+  "id": 695415649577730049,
+  "id_str": "695415649577730049",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/dyCBUtsWRx",
+      "expanded_url": "https://twitter.com/kanyewest/status/695415649577730049/video/1",
+      "id": 695415145724399617,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/695415145724399617/pu/img/x-CGlch1BHMF1u-1.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/695415145724399617/pu/img/x-CGlch1BHMF1u-1.jpg",
+      "sizes": {
+        "large": {
+          "h": 576,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 338,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 191,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "video",
+      "url": "https://t.co/dyCBUtsWRx",
+      "video_info": {
+        "aspect_ratio": [
+          16,
+          9
+        ],
+        "duration_millis": 20000,
+        "variants": [
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/695415145724399617/pu/vid/640x360/FJCLa4c2ST8qe8n7.mp4"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/695415145724399617/pu/vid/1280x720/F_RBggGK5O_EYlUB.mp4"
+          },
+          {
+            "bitrate": 320000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/695415145724399617/pu/vid/320x180/1JaCmCCAMccqN0aI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/695415145724399617/pu/pl/-MbfffQS4C4zECkw.m3u8"
+          }
+        ]
+      }
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 17349,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "ALSO THANK YOU @FuckTyler FOR THE BEAT https://t.co/dyCBUtsWRx",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

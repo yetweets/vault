@@ -1,0 +1,84 @@
+{
+  "created_at": "Fri Jan 22 11:22:36 +0000 2016",
+  "deleted": true,
+  "favorite_count": 51536,
+  "hashtags": [
+    {
+      "text": "unclelarry"
+    }
+  ],
+  "id": 690494770892779520,
+  "id_str": "690494770892779520",
+  "lang": "und",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/xeqX9NbXyQ",
+      "expanded_url": "https://twitter.com/kanyewest/status/690494770892779520/video/1",
+      "id": 690494110134771712,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/690494110134771712/pu/img/aahqiQpQMXXZoWvt.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/690494110134771712/pu/img/aahqiQpQMXXZoWvt.jpg",
+      "sizes": {
+        "large": {
+          "h": 720,
+          "resize": "fit",
+          "w": 724
+        },
+        "medium": {
+          "h": 597,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 338,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "video",
+      "url": "https://t.co/xeqX9NbXyQ",
+      "video_info": {
+        "aspect_ratio": [
+          181,
+          180
+        ],
+        "duration_millis": 11792,
+        "variants": [
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/690494110134771712/pu/vid/362x360/SbOdIRYYzUE_EHs9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/690494110134771712/pu/pl/DIvf7TdFw13d02er.m3u8"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/690494110134771712/pu/vid/724x720/nUXHRj73EW_7Jvib.mp4"
+          },
+          {
+            "bitrate": 320000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/690494110134771712/pu/vid/180x180/bsmw16jrbLa_qCGB.mp4"
+          }
+        ]
+      }
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 32374,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "#unclelarry https://t.co/xeqX9NbXyQ",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

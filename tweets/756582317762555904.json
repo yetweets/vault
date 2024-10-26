@@ -1,0 +1,24 @@
+{
+  "created_at": "Fri Jul 22 20:10:55 +0000 2016",
+  "deleted": true,
+  "favorite_count": 12065,
+  "hashtags": [],
+  "id": 756582317762555904,
+  "id_str": "756582317762555904",
+  "lang": "und",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 4935,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "https://t.co/rUzbVLuBH5",
+  "urls": [
+    {
+      "expanded_url": "http://smarturl.it/TIIMMYTURNER",
+      "url": "https://t.co/rUzbVLuBH5"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

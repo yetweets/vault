@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat Jun 25 17:13:10 +0000 2016",
+  "deleted": true,
+  "favorite_count": 11498,
+  "hashtags": [],
+  "id": 746753110148677632,
+  "id_str": "746753110148677632",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 3084,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "VOGUE PARTY LONG SLEEVE T SHIRT https://t.co/xYu7lH1rZ7",
+  "urls": [
+    {
+      "expanded_url": "https://shop.kanyewest.com",
+      "url": "https://t.co/xYu7lH1rZ7"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

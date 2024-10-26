@@ -1,0 +1,24 @@
+{
+  "created_at": "Thu Apr 09 04:43:07 +0000 2015",
+  "deleted": true,
+  "favorite_count": 10577,
+  "hashtags": [],
+  "id": 586026532428247042,
+  "id_str": "586026532428247042",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 5436,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Even people who wanna go to heaven don’t wanna die to get there.     https://t.co/UBzOzxcBXG",
+  "urls": [
+    {
+      "expanded_url": "https://www.youtube.com/watch?v=VHWUCX6osgM",
+      "url": "https://t.co/UBzOzxcBXG"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

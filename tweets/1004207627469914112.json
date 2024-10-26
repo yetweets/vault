@@ -1,0 +1,52 @@
+{
+  "created_at": "Wed Jun 06 03:45:30 +0000 2018",
+  "deleted": true,
+  "favorite_count": 53728,
+  "hashtags": [],
+  "id": 1004207627469914112,
+  "id_str": "1004207627469914112",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/p3cu3CUdw5",
+      "expanded_url": "https://twitter.com/kanyewest/status/1004207627469914112/photo/1",
+      "id": 1004207616594083840,
+      "media_url": "http://pbs.twimg.com/media/De-pgbvVAAAuuFH.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/De-pgbvVAAAuuFH.jpg",
+      "sizes": {
+        "large": {
+          "h": 1590,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 932,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 528,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/p3cu3CUdw5"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 6329,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "🙏🙏🙏    all love to her family https://t.co/p3cu3CUdw5",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

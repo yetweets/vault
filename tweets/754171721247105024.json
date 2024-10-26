@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat Jul 16 04:32:04 +0000 2016",
+  "deleted": true,
+  "favorite_count": 30655,
+  "hashtags": [],
+  "id": 754171721247105024,
+  "id_str": "754171721247105024",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 10916,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "My favorite song this year https://t.co/R8xWKjTcEG",
+  "urls": [
+    {
+      "expanded_url": "https://youtu.be/wScYn10D2vo",
+      "url": "https://t.co/R8xWKjTcEG"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

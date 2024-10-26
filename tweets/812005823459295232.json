@@ -1,0 +1,52 @@
+{
+  "created_at": "Thu Dec 22 18:44:09 +0000 2016",
+  "deleted": true,
+  "favorite_count": 48750,
+  "hashtags": [],
+  "id": 812005823459295232,
+  "id_str": "812005823459295232",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/B2Y7OM1uEy",
+      "expanded_url": "https://twitter.com/kanyewest/status/812005823459295232/photo/1",
+      "id": 812005609667174402,
+      "media_url": "http://pbs.twimg.com/media/C0TSzL_WIAIOyI2.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/C0TSzL_WIAIOyI2.jpg",
+      "sizes": {
+        "large": {
+          "h": 760,
+          "resize": "fit",
+          "w": 1140
+        },
+        "medium": {
+          "h": 760,
+          "resize": "fit",
+          "w": 1140
+        },
+        "small": {
+          "h": 453,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/B2Y7OM1uEy"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 6422,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Franca Sozzani was always so nice and sincere. You will be deeply missed. https://t.co/B2Y7OM1uEy",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

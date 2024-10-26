@@ -1,0 +1,52 @@
+{
+  "created_at": "Mon Feb 08 23:04:35 +0000 2016",
+  "deleted": true,
+  "favorite_count": 20309,
+  "hashtags": [],
+  "id": 696832023688773632,
+  "id_str": "696832023688773632",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/X2C8zKLfKN",
+      "expanded_url": "https://twitter.com/kanyewest/status/696832023688773632/photo/1",
+      "id": 696832017477079040,
+      "media_url": "http://pbs.twimg.com/media/CaulByXXEAAVK7d.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CaulByXXEAAVK7d.jpg",
+      "sizes": {
+        "large": {
+          "h": 768,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 450,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 255,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/X2C8zKLfKN"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 9018,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "@ fitting / 1050s https://t.co/X2C8zKLfKN",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

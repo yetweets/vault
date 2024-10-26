@@ -1,0 +1,52 @@
+{
+  "created_at": "Fri Jan 27 04:50:08 +0000 2017",
+  "deleted": true,
+  "favorite_count": 190447,
+  "hashtags": [],
+  "id": 824841900570062849,
+  "id_str": "824841900570062849",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/xIjWshmxZG",
+      "expanded_url": "https://twitter.com/kanyewest/status/824841900570062849/photo/1",
+      "id": 824841398054555648,
+      "media_url": "http://pbs.twimg.com/media/C3Js4Z8UEAAmBTa.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/C3Js4Z8UEAAmBTa.jpg",
+      "sizes": {
+        "large": {
+          "h": 1425,
+          "resize": "fit",
+          "w": 1425
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/xIjWshmxZG"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 88653,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Culture https://t.co/xIjWshmxZG",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

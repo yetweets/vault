@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun Aug 21 16:01:54 +0000 2016",
+  "deleted": true,
+  "favorite_count": 14066,
+  "hashtags": [],
+  "id": 767391285598679040,
+  "id_str": "767391285598679040",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/FdVxbzZS25",
+      "expanded_url": "https://twitter.com/kanyewest/status/767391285598679040/photo/1",
+      "id": 767391175774969856,
+      "media_url": "http://pbs.twimg.com/media/CqZSNWPWIAA-h2M.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CqZSNWPWIAA-h2M.jpg",
+      "sizes": {
+        "large": {
+          "h": 656,
+          "resize": "fit",
+          "w": 951
+        },
+        "medium": {
+          "h": 656,
+          "resize": "fit",
+          "w": 951
+        },
+        "small": {
+          "h": 469,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/FdVxbzZS25"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 3280,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "SYDNEY https://t.co/FdVxbzZS25",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

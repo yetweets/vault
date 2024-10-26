@@ -1,0 +1,24 @@
+{
+  "created_at": "Tue Aug 25 21:13:43 +0000 2015",
+  "deleted": true,
+  "favorite_count": 55309,
+  "hashtags": [],
+  "id": 636285350193684480,
+  "id_str": "636285350193684480",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 36243,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "The Weeknd is one of my favorite artists and I was really excited to get to work with him on this song.\nhttps://t.co/xICoiWyCnd",
+  "urls": [
+    {
+      "expanded_url": "https://www.youtube.com/watch?v=j1ngEIxopUU",
+      "url": "https://t.co/xICoiWyCnd"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,52 @@
+{
+  "created_at": "Tue Feb 09 22:27:20 +0000 2016",
+  "deleted": true,
+  "favorite_count": 63470,
+  "hashtags": [],
+  "id": 697185038350360577,
+  "id_str": "697185038350360577",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/6c3OXYmkPG",
+      "expanded_url": "https://twitter.com/kanyewest/status/697185038350360577/photo/1",
+      "id": 697185035171078144,
+      "media_url": "http://pbs.twimg.com/media/CazmGHwXIAAQCdB.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CazmGHwXIAAQCdB.jpg",
+      "sizes": {
+        "large": {
+          "h": 222,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 130,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 74,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/6c3OXYmkPG"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 37774,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Now they know https://t.co/6c3OXYmkPG",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

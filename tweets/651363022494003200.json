@@ -1,0 +1,24 @@
+{
+  "created_at": "Tue Oct 06 11:47:00 +0000 2015",
+  "deleted": true,
+  "favorite_count": 7931,
+  "hashtags": [],
+  "id": 651363022494003200,
+  "id_str": "651363022494003200",
+  "lang": "und",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 3759,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "http://t.co/5hdjjgV5o3",
+  "urls": [
+    {
+      "expanded_url": "http://showstudio.com/project/in_camera/kanye_west",
+      "url": "http://t.co/5hdjjgV5o3"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

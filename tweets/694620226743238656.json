@@ -1,0 +1,19 @@
+{
+  "created_at": "Tue Feb 02 20:35:42 +0000 2016",
+  "deleted": true,
+  "favorite_count": 174499,
+  "hashtags": [],
+  "id": 694620226743238656,
+  "id_str": "694620226743238656",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 84969,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Me and Wiz spoke yesterday.  Great convo.  All positive.",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,30 @@
+{
+  "created_at": "Sat Jul 16 06:28:50 +0000 2016",
+  "deleted": true,
+  "favorite_count": 8785,
+  "hashtags": [],
+  "id": 754201106213851137,
+  "id_str": "754201106213851137",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 1585,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "I'm so happy for @tmillsfashion with the launch of his new site https://t.co/HZ7KgbESGP",
+  "urls": [
+    {
+      "expanded_url": "http://www.visitoronearth.com",
+      "url": "https://t.co/HZ7KgbESGP"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 176304268,
+      "name": "Tracey Mills",
+      "screen_name": "tmillsfashion"
+    }
+  ]
+}

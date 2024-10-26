@@ -1,0 +1,25 @@
+{
+  "created_at": "Fri Feb 06 01:08:21 +0000 2015",
+  "deleted": true,
+  "favorite_count": 12209,
+  "hashtags": [],
+  "id": 563504436560289793,
+  "id_str": "563504436560289793",
+  "lang": "und",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 12212,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "http://t.co/8T1uPQewkc 00:00:06:19:52:31:01",
+  "urls": [
+    {
+      "expanded_url": "http://yeezy.supply",
+      "url": "http://t.co/8T1uPQewkc"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

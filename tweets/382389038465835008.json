@@ -1,0 +1,25 @@
+{
+  "created_at": "Tue Sep 24 06:20:25 +0000 2013",
+  "deleted": true,
+  "favorite_count": 2602,
+  "hashtags": [],
+  "id": 382389038465835008,
+  "id_str": "382389038465835008",
+  "lang": "en",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 2839,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "MY NAME IS MY NAME.  PRE-ORDER ON ITUNES NOW. http://t.co/Sy0S7t4PAp",
+  "urls": [
+    {
+      "expanded_url": "http://bit.ly/1dDCnmE",
+      "url": "http://t.co/Sy0S7t4PAp"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

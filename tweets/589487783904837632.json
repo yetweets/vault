@@ -1,0 +1,52 @@
+{
+  "created_at": "Sat Apr 18 17:56:54 +0000 2015",
+  "deleted": true,
+  "favorite_count": 42079,
+  "hashtags": [],
+  "id": 589487783904837632,
+  "id_str": "589487783904837632",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/t5estPlR6w",
+      "expanded_url": "https://twitter.com/kanyewest/status/589487783904837632/photo/1",
+      "id": 589487783401496576,
+      "media_url": "http://pbs.twimg.com/media/CC5IBAkUIAASsMo.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CC5IBAkUIAASsMo.jpg",
+      "sizes": {
+        "large": {
+          "h": 1365,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 800,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 453,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/t5estPlR6w"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 22360,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Excited, humbled and motivated for the future. http://t.co/t5estPlR6w",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

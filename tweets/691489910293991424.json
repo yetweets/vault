@@ -1,0 +1,52 @@
+{
+  "created_at": "Mon Jan 25 05:16:56 +0000 2016",
+  "deleted": true,
+  "favorite_count": 207718,
+  "hashtags": [],
+  "id": 691489910293991424,
+  "id_str": "691489910293991424",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/JBWa8OWvqw",
+      "expanded_url": "https://twitter.com/kanyewest/status/691489910293991424/photo/1",
+      "id": 691489896813453312,
+      "media_url": "http://pbs.twimg.com/media/CZiqZcFWYAAxFVU.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CZiqZcFWYAAxFVU.jpg",
+      "sizes": {
+        "large": {
+          "h": 1024,
+          "resize": "fit",
+          "w": 768
+        },
+        "medium": {
+          "h": 800,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 453,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/JBWa8OWvqw"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 146816,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "So happy to be finished with the best album of all time https://t.co/JBWa8OWvqw",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

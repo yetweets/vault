@@ -1,0 +1,203 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Apr 30 05:07:47 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/hawkofnewyork/…",
+        "expanded_url": "https://twitter.com/hawkofnewyork/status/990607598910103557?s=11",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/JAw0pMKGqb"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 13571,
+  "favorited": false,
+  "geo": null,
+  "id": 990819984749162496,
+  "id_str": "990819984749162496",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 29 15:03:50 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/9…",
+          "expanded_url": "https://twitter.com/i/web/status/990607598910103557",
+          "indices": [
+            117,
+            140
+          ],
+          "url": "https://t.co/tuzlzbIjU1"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 11963,
+    "favorited": false,
+    "geo": null,
+    "id": 990607598910103557,
+    "id_str": "990607598910103557",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 2520,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "There is a shift happening. People who are heart centered are stepping up across this country. Some are guided by F… https://t.co/tuzlzbIjU1",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Mar 20 20:30:32 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Christian. Father. Husband. Social Innovator. Civil Rights Activist #BlackLivesMatter. This is God's plan for my life. I am a Work In Progress ✊🏾🙏🏾🦅",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "blacklivesmattergreaterny.com",
+              "expanded_url": "http://www.blacklivesmattergreaterny.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wFKuNaVbvW"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2550,
+      "follow_request_sent": false,
+      "followers_count": 4767,
+      "following": false,
+      "friends_count": 1372,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 531613160,
+      "id_str": "531613160",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 66,
+      "location": "Bronx, NY",
+      "name": "I am Hawk Newsome",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/531613160/1484639899",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/788219982375256064/yimYydle_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/788219982375256064/yimYydle_normal.jpg",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "HawkofNewYork",
+      "statuses_count": 8707,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/wFKuNaVbvW",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 990607598910103557,
+  "quoted_status_id_str": "990607598910103557",
+  "retweet_count": 1824,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "https://t.co/JAw0pMKGqb",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

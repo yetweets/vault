@@ -1,0 +1,24 @@
+{
+  "created_at": "Wed Sep 07 00:42:02 +0000 2016",
+  "deleted": true,
+  "favorite_count": 25465,
+  "hashtags": [],
+  "id": 773320389007147009,
+  "id_str": "773320389007147009",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 11697,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "SEASON 4 \n09/07/16 3PM  \nhttps://t.co/CN1dSvSbgZ",
+  "urls": [
+    {
+      "expanded_url": "http://season4.tidal.com",
+      "url": "https://t.co/CN1dSvSbgZ"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

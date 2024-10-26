@@ -1,0 +1,25 @@
+{
+  "created_at": "Sat Feb 13 02:56:05 +0000 2016",
+  "deleted": true,
+  "favorite_count": 27291,
+  "hashtags": [],
+  "id": 698339834079875072,
+  "id_str": "698339834079875072",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 7621,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "There would be no MSG without @iamdiddy my OG. He fought this war 15 years ago. Respect OG.",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 816335203069267968,
+      "name": "Sean \"Diddy\" Combs",
+      "screen_name": "iamDiddy"
+    }
+  ]
+}

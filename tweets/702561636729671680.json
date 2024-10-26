@@ -1,0 +1,19 @@
+{
+  "created_at": "Wed Feb 24 18:32:01 +0000 2016",
+  "deleted": true,
+  "favorite_count": 18764,
+  "hashtags": [],
+  "id": 702561636729671680,
+  "id_str": "702561636729671680",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 11709,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "I don't give opinions because they are commonly agreed upon. I say what I feel.",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

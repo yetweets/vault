@@ -1,0 +1,53 @@
+{
+  "created_at": "Tue Jul 01 23:42:27 +0000 2014",
+  "deleted": true,
+  "favorite_count": 6065,
+  "hashtags": [],
+  "id": 484119874957238272,
+  "id_str": "484119874957238272",
+  "lang": "ht",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/bMty2Fnjob",
+      "expanded_url": "https://twitter.com/kanyewest/status/484119874957238272/photo/1",
+      "id": 484119873531150337,
+      "media_url": "http://pbs.twimg.com/media/BrfwdcKIAAEvdHx.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/BrfwdcKIAAEvdHx.jpg",
+      "sizes": {
+        "large": {
+          "h": 683,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 400,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 227,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/bMty2Fnjob"
+    }
+  ],
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 3550,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "A.P.C. KANYE http://t.co/bMty2Fnjob",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

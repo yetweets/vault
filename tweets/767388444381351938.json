@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun Aug 21 15:50:37 +0000 2016",
+  "deleted": true,
+  "favorite_count": 14294,
+  "hashtags": [],
+  "id": 767388444381351938,
+  "id_str": "767388444381351938",
+  "lang": "it",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/d7g7VujOCd",
+      "expanded_url": "https://twitter.com/kanyewest/status/767388444381351938/photo/1",
+      "id": 767388410424229888,
+      "media_url": "http://pbs.twimg.com/media/CqZPsYgWgAANFKX.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CqZPsYgWgAANFKX.jpg",
+      "sizes": {
+        "large": {
+          "h": 801,
+          "resize": "fit",
+          "w": 741
+        },
+        "medium": {
+          "h": 801,
+          "resize": "fit",
+          "w": 741
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 629
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/d7g7VujOCd"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 5969,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "MIAMI https://t.co/d7g7VujOCd",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

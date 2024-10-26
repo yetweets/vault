@@ -1,0 +1,29 @@
+{
+  "created_at": "Sat Feb 07 16:56:06 +0000 2015",
+  "deleted": true,
+  "favorite_count": 6352,
+  "hashtags": [
+    {
+      "text": "adidasoriginals"
+    }
+  ],
+  "id": 564105333123989504,
+  "id_str": "564105333123989504",
+  "lang": "und",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 4290,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "00:00:05:04:06:28:93 #adidasoriginals http://t.co/8T1uPQw7bK",
+  "urls": [
+    {
+      "expanded_url": "http://yeezy.supply",
+      "url": "http://t.co/8T1uPQw7bK"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

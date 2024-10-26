@@ -1,0 +1,19 @@
+{
+  "created_at": "Wed Sep 23 02:00:54 +0000 2015",
+  "deleted": true,
+  "favorite_count": 42707,
+  "hashtags": [],
+  "id": 646504481006317568,
+  "id_str": "646504481006317568",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 37281,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Maximum expression while I have air in my lungs.",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

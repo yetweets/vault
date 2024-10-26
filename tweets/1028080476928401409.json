@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat Aug 11 00:47:41 +0000 2018",
+  "deleted": true,
+  "favorite_count": 16327,
+  "hashtags": [],
+  "id": 1028080476928401409,
+  "id_str": "1028080476928401409",
+  "lang": "und",
+  "legacy_imported": true,
+  "retrieved": "2018-08-29--05-32-34",
+  "retweet_count": 2481,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "🔥🔥🔥 https://t.co/KDaogMENVW",
+  "urls": [
+    {
+      "expanded_url": "https://twitter.com/greglansky/status/1027970838316777472?s=12",
+      "url": "https://t.co/KDaogMENVW"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

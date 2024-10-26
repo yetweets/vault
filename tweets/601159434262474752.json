@@ -1,0 +1,24 @@
+{
+  "created_at": "Wed May 20 22:55:52 +0000 2015",
+  "deleted": true,
+  "favorite_count": 15819,
+  "hashtags": [],
+  "id": 601159434262474752,
+  "id_str": "601159434262474752",
+  "lang": "und",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 11717,
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "text": "http://t.co/n140cTEcxy",
+  "urls": [
+    {
+      "expanded_url": "http://youtu.be/yEG2VTHS9yg",
+      "url": "http://t.co/n140cTEcxy"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

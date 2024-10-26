@@ -1,0 +1,74 @@
+{
+  "created_at": "Tue Feb 09 04:00:47 +0000 2016",
+  "deleted": true,
+  "favorite_count": 8471,
+  "hashtags": [
+    {
+      "text": "Goodjobwillow"
+    }
+  ],
+  "id": 696906565467688960,
+  "id_str": "696906565467688960",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/ff4OXU5f47",
+      "expanded_url": "https://twitter.com/kanyewest/status/696906565467688960/video/1",
+      "id": 696906499998650368,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/696906499998650368/pu/img/ArA5VPcv0Z2zlDei.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/696906499998650368/pu/img/ArA5VPcv0Z2zlDei.jpg",
+      "sizes": {
+        "large": {
+          "h": 320,
+          "resize": "fit",
+          "w": 568
+        },
+        "medium": {
+          "h": 320,
+          "resize": "fit",
+          "w": 568
+        },
+        "small": {
+          "h": 192,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "video",
+      "url": "https://t.co/ff4OXU5f47",
+      "video_info": {
+        "aspect_ratio": [
+          71,
+          40
+        ],
+        "duration_millis": 9033,
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/696906499998650368/pu/pl/KTa5RWVsFyvUNkSq.m3u8"
+          },
+          {
+            "bitrate": 320000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/696906499998650368/pu/vid/318x180/SQSLs1X6O6cd9F-u.mp4"
+          }
+        ]
+      }
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 2304,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Location scouting for Zine party February 10th  with @ Jackie Nickerson    … #Goodjobwillow https://t.co/ff4OXU5f47",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

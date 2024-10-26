@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun Aug 21 15:58:55 +0000 2016",
+  "deleted": true,
+  "favorite_count": 12195,
+  "hashtags": [],
+  "id": 767390535720067072,
+  "id_str": "767390535720067072",
+  "lang": "nl",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/hLuXn0DoOC",
+      "expanded_url": "https://twitter.com/kanyewest/status/767390535720067072/photo/1",
+      "id": 767390502501097472,
+      "media_url": "http://pbs.twimg.com/media/CqZRmKGWIAABaF9.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CqZRmKGWIAABaF9.jpg",
+      "sizes": {
+        "large": {
+          "h": 690,
+          "resize": "fit",
+          "w": 880
+        },
+        "medium": {
+          "h": 690,
+          "resize": "fit",
+          "w": 880
+        },
+        "small": {
+          "h": 533,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/hLuXn0DoOC"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 3081,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "AMSTERDAM https://t.co/hLuXn0DoOC",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

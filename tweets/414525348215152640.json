@@ -1,0 +1,25 @@
+{
+  "created_at": "Sat Dec 21 22:38:39 +0000 2013",
+  "deleted": true,
+  "favorite_count": 2965,
+  "hashtags": [],
+  "id": 414525348215152640,
+  "id_str": "414525348215152640",
+  "lang": "en",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 1838,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "OFF-WHITE Virgil Abloh  http://t.co/GSceFeMA4U",
+  "urls": [
+    {
+      "expanded_url": "http://www.off---white.com/",
+      "url": "http://t.co/GSceFeMA4U"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

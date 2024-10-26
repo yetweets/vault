@@ -1,0 +1,29 @@
+{
+  "created_at": "Thu Feb 12 00:57:11 +0000 2015",
+  "deleted": true,
+  "favorite_count": 4023,
+  "hashtags": [
+    {
+      "text": "YEEZYBOOST"
+    }
+  ],
+  "id": 565675952785879041,
+  "id_str": "565675952785879041",
+  "lang": "en",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 2234,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "#YEEZYBOOST ACCESS: \nhttp://t.co/G1T7VxJwQD",
+  "urls": [
+    {
+      "expanded_url": "http://www.adidas.com/us/confirmed",
+      "url": "http://t.co/G1T7VxJwQD"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

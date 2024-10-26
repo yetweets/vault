@@ -1,0 +1,24 @@
+{
+  "created_at": "Mon Jul 06 18:13:19 +0000 2015",
+  "deleted": true,
+  "favorite_count": 5734,
+  "hashtags": [],
+  "id": 618120558350241792,
+  "id_str": "618120558350241792",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 2522,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Beautiful song, incredibly shot.\nhttps://t.co/Llv15T82NL",
+  "urls": [
+    {
+      "expanded_url": "https://itunes.apple.com/us/music-video/freedom/id1010959079?mt=5&app=itunes&ign-mpt=uo%3D4",
+      "url": "https://t.co/Llv15T82NL"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,19 @@
+{
+  "created_at": "Mon Feb 10 19:02:24 +0000 2014",
+  "deleted": true,
+  "favorite_count": 22412,
+  "hashtags": [],
+  "id": 432952707955974144,
+  "id_str": "432952707955974144",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 16915,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "I say \"finally\" because it was a long road, a constant struggle, and a true labor of love",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

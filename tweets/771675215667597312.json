@@ -1,0 +1,52 @@
+{
+  "created_at": "Fri Sep 02 11:44:43 +0000 2016",
+  "deleted": true,
+  "favorite_count": 142598,
+  "hashtags": [],
+  "id": 771675215667597312,
+  "id_str": "771675215667597312",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/TnI5ElpxSH",
+      "expanded_url": "https://twitter.com/kanyewest/status/771675215667597312/photo/1",
+      "id": 771675132041564160,
+      "media_url": "http://pbs.twimg.com/media/CrWKca9XEAAS83T.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CrWKca9XEAAS83T.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/TnI5ElpxSH"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 62207,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "I'm so proud of my brother https://t.co/TnI5ElpxSH",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

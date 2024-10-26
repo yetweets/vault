@@ -1,0 +1,57 @@
+{
+  "created_at": "Fri Apr 01 05:08:31 +0000 2016",
+  "deleted": true,
+  "favorite_count": 48985,
+  "hashtags": [],
+  "id": 715767777823485953,
+  "id_str": "715767777823485953",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/mNTAUiie2V",
+      "expanded_url": "https://twitter.com/kanyewest/status/715767777823485953/photo/1",
+      "id": 715767777169162240,
+      "media_url": "http://pbs.twimg.com/media/Ce7rAEPWwAAAxlx.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Ce7rAEPWwAAAxlx.jpg",
+      "sizes": {
+        "large": {
+          "h": 600,
+          "resize": "fit",
+          "w": 600
+        },
+        "medium": {
+          "h": 600,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 340,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/mNTAUiie2V"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 20607,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "The Life of Pablo is now available for purchase https://t.co/xYu7lGJR7z https://t.co/mNTAUiie2V",
+  "urls": [
+    {
+      "expanded_url": "https://shop.kanyewest.com",
+      "url": "https://t.co/xYu7lGJR7z"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

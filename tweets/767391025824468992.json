@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun Aug 21 16:00:52 +0000 2016",
+  "deleted": true,
+  "favorite_count": 16889,
+  "hashtags": [],
+  "id": 767391025824468992,
+  "id_str": "767391025824468992",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/BYyVSLSzoC",
+      "expanded_url": "https://twitter.com/kanyewest/status/767391025824468992/photo/1",
+      "id": 767390973169176576,
+      "media_url": "http://pbs.twimg.com/media/CqZSBjeXEAAUQR6.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CqZSBjeXEAAUQR6.jpg",
+      "sizes": {
+        "large": {
+          "h": 419,
+          "resize": "fit",
+          "w": 561
+        },
+        "medium": {
+          "h": 419,
+          "resize": "fit",
+          "w": 561
+        },
+        "small": {
+          "h": 419,
+          "resize": "fit",
+          "w": 561
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/BYyVSLSzoC"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 5707,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "CAPE TOWN https://t.co/BYyVSLSzoC",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,25 @@
+{
+  "created_at": "Thu Jan 29 15:54:00 +0000 2015",
+  "deleted": true,
+  "favorite_count": 19416,
+  "hashtags": [],
+  "id": 560828213732311040,
+  "id_str": "560828213732311040",
+  "lang": "en",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 17863,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "ONLY ONE directed by Spike Jonze http://t.co/1xvft3AjCn",
+  "urls": [
+    {
+      "expanded_url": "http://www.kanyewest.com",
+      "url": "http://t.co/1xvft3AjCn"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,52 @@
+{
+  "created_at": "Sat Apr 28 04:17:39 +0000 2018",
+  "deleted": true,
+  "favorite_count": 417168,
+  "hashtags": [],
+  "id": 990082591540756480,
+  "id_str": "990082591540756480",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/kaTcPYH0zL",
+      "expanded_url": "https://twitter.com/kanyewest/status/990082591540756480/photo/1",
+      "id": 990082582804029440,
+      "media_url": "http://pbs.twimg.com/media/Db163QZV4AA2zpJ.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Db163QZV4AA2zpJ.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 1538
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 901
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 511
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/kaTcPYH0zL"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 45930,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "We got love. Agree to disagree https://t.co/kaTcPYH0zL",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

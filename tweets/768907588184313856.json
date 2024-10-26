@@ -1,0 +1,52 @@
+{
+  "created_at": "Thu Aug 25 20:27:09 +0000 2016",
+  "deleted": true,
+  "favorite_count": 63007,
+  "hashtags": [],
+  "id": 768907588184313856,
+  "id_str": "768907588184313856",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/UAUEhEg6CK",
+      "expanded_url": "https://twitter.com/kanyewest/status/768907588184313856/photo/1",
+      "id": 768907408051539970,
+      "media_url": "http://pbs.twimg.com/media/Cqu1NroUEAIPYrL.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/Cqu1NroUEAIPYrL.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 1152
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 675
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 382
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/UAUEhEg6CK"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 19669,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "SAINT PABLO starting in 4 hrs https://t.co/UAUEhEg6CK",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

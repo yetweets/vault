@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun Aug 21 15:54:52 +0000 2016",
+  "deleted": true,
+  "favorite_count": 14644,
+  "hashtags": [],
+  "id": 767389516009201664,
+  "id_str": "767389516009201664",
+  "lang": "es",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/0FWVpqIdJc",
+      "expanded_url": "https://twitter.com/kanyewest/status/767389516009201664/photo/1",
+      "id": 767389373482532864,
+      "media_url": "http://pbs.twimg.com/media/CqZQkcLWAAAPocg.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CqZQkcLWAAAPocg.jpg",
+      "sizes": {
+        "large": {
+          "h": 981,
+          "resize": "fit",
+          "w": 1038
+        },
+        "medium": {
+          "h": 981,
+          "resize": "fit",
+          "w": 1038
+        },
+        "small": {
+          "h": 643,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/0FWVpqIdJc"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 4846,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "SAN FRANCISCO https://t.co/0FWVpqIdJc",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

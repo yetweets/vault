@@ -1,0 +1,201 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jun 07 21:07:53 +0000 2018",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 166747718,
+        "id_str": "166747718",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Tyler, The Creator",
+        "screen_name": "tylerthecreator"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "geo": null,
+  "id": 1004832338650357762,
+  "id_str": "1004832338650357762",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 52565,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 07 19:43:18 +0000 2018",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1004811053321113600",
+          "indices": [
+            117,
+            140
+          ],
+          "url": "https://t.co/VJwHbgIp2V"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 192035,
+    "favorited": false,
+    "geo": null,
+    "id": 1004811053321113600,
+    "id_str": "1004811053321113600",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 52565,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "see if i was tryna relate to more people i would say im struggling with loving myself because that seems like a com… https://t.co/VJwHbgIp2V",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 14 22:32:25 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "star trak, star trak",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "golfwang.com",
+              "expanded_url": "http://golfwang.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/WMyHWbn11Q"
+            }
+          ]
+        }
+      },
+      "favourites_count": 458,
+      "follow_request_sent": false,
+      "followers_count": 7969967,
+      "following": false,
+      "friends_count": 170,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 166747718,
+      "id_str": "166747718",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 10638,
+      "location": "somewhere in northern italy",
+      "name": "Tyler, The Creator",
+      "notifications": false,
+      "profile_background_color": "75D1FF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/166747718/1510016903",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/927703400627683329/-we31406_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/927703400627683329/-we31406_normal.jpg",
+      "profile_link_color": "7FDBB6",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "00CCFF",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "tylerthecreator",
+      "statuses_count": 40231,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/WMyHWbn11Q",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @tylerthecreator: see if i was tryna relate to more people i would say im struggling with loving myself because that seems like a common…",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 22 23:00:05 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "KANYEWEST.COM",
+            "expanded_url": "http://KANYEWEST.COM",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/R6cANtszQ0"
+          }
+        ]
+      }
+    },
+    "favourites_count": 3,
+    "follow_request_sent": false,
+    "followers_count": 29337530,
+    "following": true,
+    "friends_count": 271,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 169686021,
+    "id_str": "169686021",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 49974,
+    "location": "",
+    "name": "ye",
+    "notifications": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "kanyewest",
+    "statuses_count": 1174,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://t.co/R6cANtszQ0",
+    "utc_offset": null,
+    "verified": true
+  }
+}

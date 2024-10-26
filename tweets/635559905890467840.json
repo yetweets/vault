@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun Aug 23 21:11:04 +0000 2015",
+  "deleted": true,
+  "favorite_count": 41527,
+  "hashtags": [],
+  "id": 635559905890467840,
+  "id_str": "635559905890467840",
+  "lang": "lt",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/vqM96I29T8",
+      "expanded_url": "https://twitter.com/kanyewest/status/635559905890467840/photo/1",
+      "id": 635559905357795328,
+      "media_url": "http://pbs.twimg.com/media/CNH2XdhVEAA5JpI.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CNH2XdhVEAA5JpI.jpg",
+      "sizes": {
+        "large": {
+          "h": 600,
+          "resize": "fit",
+          "w": 600
+        },
+        "medium": {
+          "h": 600,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 340,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/vqM96I29T8"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 33904,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "RODEO http://t.co/vqM96I29T8",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

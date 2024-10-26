@@ -1,0 +1,80 @@
+{
+  "created_at": "Sun Apr 22 19:00:36 +0000 2018",
+  "deleted": true,
+  "favorite_count": 52820,
+  "hashtags": [],
+  "id": 988130467546255360,
+  "id_str": "988130467546255360",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/O8mufnKQBt",
+      "expanded_url": "https://twitter.com/kanyewest/status/988130467546255360/video/1",
+      "id": 988130394170998785,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/988130394170998785/pu/img/WWcctbJg1-evG4k8.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/988130394170998785/pu/img/WWcctbJg1-evG4k8.jpg",
+      "sizes": {
+        "large": {
+          "h": 720,
+          "resize": "fit",
+          "w": 1280
+        },
+        "medium": {
+          "h": 675,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 383,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "video",
+      "url": "https://t.co/O8mufnKQBt",
+      "video_info": {
+        "aspect_ratio": [
+          16,
+          9
+        ],
+        "duration_millis": 13297,
+        "variants": [
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/988130394170998785/pu/vid/640x360/xEuDqLnejNntsKWp.mp4?tag=3"
+          },
+          {
+            "bitrate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/988130394170998785/pu/vid/320x180/P5OihdEAuoJD3_Rs.mp4?tag=3"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/988130394170998785/pu/pl/cP8X5UgsJX9tf2TL.m3u8?tag=3"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/988130394170998785/pu/vid/1280x720/V9iLyDLb6EXku1jc.mp4?tag=3"
+          }
+        ]
+      }
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 10344,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "I feel calm but energized https://t.co/O8mufnKQBt",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

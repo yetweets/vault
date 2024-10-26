@@ -1,0 +1,25 @@
+{
+  "created_at": "Sat Nov 23 16:46:42 +0000 2013",
+  "deleted": true,
+  "favorite_count": 4623,
+  "hashtags": [],
+  "id": 404289919939399680,
+  "id_str": "404289919939399680",
+  "lang": "en",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 2462,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "LOU REED INTERVIEW IN SYDNEY 1974.  \nhttp://t.co/U7gS3yd98o",
+  "urls": [
+    {
+      "expanded_url": "http://www.youtube.com/watch?v=IeMIWCxHgQk&sns=em",
+      "url": "http://t.co/U7gS3yd98o"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

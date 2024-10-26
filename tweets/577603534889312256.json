@@ -1,0 +1,24 @@
+{
+  "created_at": "Mon Mar 16 22:53:08 +0000 2015",
+  "deleted": true,
+  "favorite_count": 11554,
+  "hashtags": [],
+  "id": 577603534889312256,
+  "id_str": "577603534889312256",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 7047,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "I decided to make it the first official video featuring Theophilus Allan Kingdom and Paul McCartney http://t.co/jD2BnEzN5Z",
+  "urls": [
+    {
+      "expanded_url": "http://vevo.ly/kdy9ol",
+      "url": "http://t.co/jD2BnEzN5Z"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

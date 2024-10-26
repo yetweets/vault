@@ -1,0 +1,19 @@
+{
+  "created_at": "Fri Feb 20 15:47:34 +0000 2015",
+  "deleted": true,
+  "favorite_count": 46890,
+  "hashtags": [],
+  "id": 568799126965473281,
+  "id_str": "568799126965473281",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 35456,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "I have millions of ideas and I represent a new generation just trying to express themselves in a broken world.",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

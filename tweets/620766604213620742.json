@@ -1,0 +1,52 @@
+{
+  "created_at": "Tue Jul 14 01:27:46 +0000 2015",
+  "deleted": true,
+  "favorite_count": 49978,
+  "hashtags": [],
+  "id": 620766604213620742,
+  "id_str": "620766604213620742",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/YnHbme8Y6l",
+      "expanded_url": "https://twitter.com/kanyewest/status/620766604213620742/photo/1",
+      "id": 620766603618062336,
+      "media_url": "http://pbs.twimg.com/media/CJ1n7-EUkAAf6Ng.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CJ1n7-EUkAAf6Ng.jpg",
+      "sizes": {
+        "large": {
+          "h": 1096,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 642,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 364,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/YnHbme8Y6l"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 22534,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Baptism http://t.co/YnHbme8Y6l",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

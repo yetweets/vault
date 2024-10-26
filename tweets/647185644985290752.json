@@ -1,0 +1,24 @@
+{
+  "created_at": "Thu Sep 24 23:07:36 +0000 2015",
+  "deleted": true,
+  "favorite_count": 9204,
+  "hashtags": [],
+  "id": 647185644985290752,
+  "id_str": "647185644985290752",
+  "lang": "und",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 3960,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "http://t.co/kzaB65UaA7",
+  "urls": [
+    {
+      "expanded_url": "http://www.vanityfair.com/style/2015/09/kanye-west-yeezy-season-2-interview",
+      "url": "http://t.co/kzaB65UaA7"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

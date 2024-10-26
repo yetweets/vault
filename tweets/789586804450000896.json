@@ -1,0 +1,75 @@
+{
+  "created_at": "Fri Oct 21 21:58:58 +0000 2016",
+  "deleted": true,
+  "favorite_count": 841262,
+  "hashtags": [],
+  "id": 789586804450000896,
+  "id_str": "789586804450000896",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/Ee38e4LVFj",
+      "expanded_url": "https://twitter.com/kanyewest/status/789586804450000896/video/1",
+      "id": 789583699759108096,
+      "media_url": "http://pbs.twimg.com/amplify_video_thumb/789583699759108096/img/rhOp3vmthVUiq25p.jpg",
+      "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/789583699759108096/img/rhOp3vmthVUiq25p.jpg",
+      "sizes": {
+        "large": {
+          "h": 480,
+          "resize": "fit",
+          "w": 654
+        },
+        "medium": {
+          "h": 440,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 250,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "video",
+      "url": "https://t.co/Ee38e4LVFj",
+      "video_info": {
+        "aspect_ratio": [
+          109,
+          80
+        ],
+        "duration_millis": 321530,
+        "variants": [
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/789583699759108096/vid/490x360/kKXwlOSZau8g-b0Y.mp4"
+          },
+          {
+            "bitrate": 320000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/789583699759108096/vid/244x180/sh-w7DNdZAqezzTO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/789583699759108096/pl/FbgYEBkudvABRTLd.m3u8"
+          }
+        ]
+      }
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 339239,
+  "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+  "text": "Happy Birthday babe https://t.co/Ee38e4LVFj",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

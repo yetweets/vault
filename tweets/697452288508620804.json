@@ -1,0 +1,80 @@
+{
+  "created_at": "Wed Feb 10 16:09:18 +0000 2016",
+  "deleted": true,
+  "favorite_count": 19800,
+  "hashtags": [],
+  "id": 697452288508620804,
+  "id_str": "697452288508620804",
+  "lang": "es",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/lhVebPlTJd",
+      "expanded_url": "https://twitter.com/kanyewest/status/697452288508620804/video/1",
+      "id": 697452158141075458,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/697452158141075458/pu/img/QJ604JKZEl3AF-xx.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/697452158141075458/pu/img/QJ604JKZEl3AF-xx.jpg",
+      "sizes": {
+        "large": {
+          "h": 720,
+          "resize": "fit",
+          "w": 720
+        },
+        "medium": {
+          "h": 600,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 340,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "video",
+      "url": "https://t.co/lhVebPlTJd",
+      "video_info": {
+        "aspect_ratio": [
+          1,
+          1
+        ],
+        "duration_millis": 8970,
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/697452158141075458/pu/pl/Sb8Cl_gWMTj_P7Ub.m3u8"
+          },
+          {
+            "bitrate": 320000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/697452158141075458/pu/vid/240x240/gp0-ETIV2c-mlm-L.mp4"
+          },
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/697452158141075458/pu/vid/480x480/rhz24An86uRcmgG5.mp4"
+          },
+          {
+            "bitrate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/697452158141075458/pu/vid/720x720/GYKnXRvQOcJJqndJ.mp4"
+          }
+        ]
+      }
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 6736,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Season 3 invite https://t.co/lhVebPlTJd",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

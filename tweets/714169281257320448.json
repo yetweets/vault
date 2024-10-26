@@ -1,0 +1,24 @@
+{
+  "created_at": "Sun Mar 27 19:16:39 +0000 2016",
+  "deleted": true,
+  "favorite_count": 37260,
+  "hashtags": [],
+  "id": 714169281257320448,
+  "id_str": "714169281257320448",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 24124,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Ultralight Prayer:  https://t.co/CiopQ9BbGl \nHappy Easter!",
+  "urls": [
+    {
+      "expanded_url": "https://soundcloud.com/kanyewest/ultralight-prayer",
+      "url": "https://t.co/CiopQ9BbGl"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

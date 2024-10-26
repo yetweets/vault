@@ -1,0 +1,58 @@
+{
+  "created_at": "Wed Feb 04 03:59:15 +0000 2015",
+  "deleted": true,
+  "favorite_count": 19936,
+  "hashtags": [],
+  "id": 562822669041926144,
+  "id_str": "562822669041926144",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/2gDhGbe9gk",
+      "expanded_url": "https://twitter.com/kanyewest/status/562822669041926144/photo/1",
+      "id": 562822667481649154,
+      "media_url": "http://pbs.twimg.com/media/B8-MO-7IEAIIXpX.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/B8-MO-7IEAIIXpX.jpg",
+      "sizes": {
+        "large": {
+          "h": 1024,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 600,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 340,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/2gDhGbe9gk"
+    }
+  ],
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 13183,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "\"Blessings” Sean, Drake, Me.  Dark Sky Paradise 2.24.15  http://t.co/KyUJTfrKZr http://t.co/2gDhGbe9gk",
+  "urls": [
+    {
+      "expanded_url": "http://smarturl.it/iBlessings",
+      "url": "http://t.co/KyUJTfrKZr"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,25 @@
+{
+  "created_at": "Wed Mar 09 01:11:24 +0000 2016",
+  "deleted": true,
+  "favorite_count": 18387,
+  "hashtags": [],
+  "id": 707373185768017921,
+  "id_str": "707373185768017921",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 4162,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Thank you to @asvpxrocky for supporting me at the MSG show…",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 50184013,
+      "name": "LORD FLACKO JODYE II",
+      "screen_name": "asvpxrocky"
+    }
+  ]
+}

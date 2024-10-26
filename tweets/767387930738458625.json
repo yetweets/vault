@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun Aug 21 15:48:34 +0000 2016",
+  "deleted": true,
+  "favorite_count": 32674,
+  "hashtags": [],
+  "id": 767387930738458625,
+  "id_str": "767387930738458625",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/1TYAcJ6fbR",
+      "expanded_url": "https://twitter.com/kanyewest/status/767387930738458625/photo/1",
+      "id": 767387857031950336,
+      "media_url": "http://pbs.twimg.com/media/CqZPMK9WcAATE67.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CqZPMK9WcAATE67.jpg",
+      "sizes": {
+        "large": {
+          "h": 612,
+          "resize": "fit",
+          "w": 899
+        },
+        "medium": {
+          "h": 612,
+          "resize": "fit",
+          "w": 899
+        },
+        "small": {
+          "h": 463,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/1TYAcJ6fbR"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 20549,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "HOUSTON https://t.co/1TYAcJ6fbR",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

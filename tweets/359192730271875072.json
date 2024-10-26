@@ -1,0 +1,53 @@
+{
+  "created_at": "Mon Jul 22 06:06:35 +0000 2013",
+  "deleted": true,
+  "favorite_count": 4599,
+  "hashtags": [],
+  "id": 359192730271875072,
+  "id_str": "359192730271875072",
+  "lang": "in",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/ROYekqB2aR",
+      "expanded_url": "https://twitter.com/kanyewest/status/359192730271875072/photo/1",
+      "id": 359192730276069376,
+      "media_url": "http://pbs.twimg.com/media/BPwb4pYCAAAlj-S.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/BPwb4pYCAAAlj-S.jpg",
+      "sizes": {
+        "large": {
+          "h": 633,
+          "resize": "fit",
+          "w": 894
+        },
+        "medium": {
+          "h": 425,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 241,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "http://t.co/ROYekqB2aR"
+    }
+  ],
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 4112,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "BLKKK SKKKN HEAD INFO http://t.co/ROYekqB2aR",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

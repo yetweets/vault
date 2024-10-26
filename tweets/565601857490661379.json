@@ -1,0 +1,25 @@
+{
+  "created_at": "Wed Feb 11 20:02:45 +0000 2015",
+  "deleted": true,
+  "favorite_count": 5278,
+  "hashtags": [],
+  "id": 565601857490661379,
+  "id_str": "565601857490661379",
+  "lang": "en",
+  "legacy_imported": true,
+  "possibly_sensitive": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 3666,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "YEEZY SEASON 1 Live Stream 2.12.15 4p EST. Tickets for 50 theaters worldwide http://t.co/mSKqloRSaQ",
+  "urls": [
+    {
+      "expanded_url": "http://www.yeezy.supply",
+      "url": "http://t.co/mSKqloRSaQ"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

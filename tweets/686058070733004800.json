@@ -1,0 +1,80 @@
+{
+  "created_at": "Sun Jan 10 05:32:45 +0000 2016",
+  "deleted": true,
+  "favorite_count": 29487,
+  "hashtags": [],
+  "id": 686058070733004800,
+  "id_str": "686058070733004800",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/YGFrPhQmDP",
+      "expanded_url": "https://twitter.com/kanyewest/status/686058070733004800/video/1",
+      "id": 686057986087755777,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/686057986087755777/pu/img/SY5eHHw91z_p0NQT.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/686057986087755777/pu/img/SY5eHHw91z_p0NQT.jpg",
+      "sizes": {
+        "large": {
+          "h": 1280,
+          "resize": "fit",
+          "w": 720
+        },
+        "medium": {
+          "h": 1067,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 604,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "video",
+      "url": "https://t.co/YGFrPhQmDP",
+      "video_info": {
+        "aspect_ratio": [
+          9,
+          16
+        ],
+        "duration_millis": 15377,
+        "variants": [
+          {
+            "bitrate": 320000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/686057986087755777/pu/vid/180x320/xUKewRrV_JUAV5fr.mp4"
+          },
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/686057986087755777/pu/vid/360x640/VRa2SGQPOzdfUq0E.mp4"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/686057986087755777/pu/vid/720x1280/0ydR1FpCEYsgqjyQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/686057986087755777/pu/pl/C6CYX-u3Rwh1Xnk4.m3u8"
+          }
+        ]
+      }
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 9048,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "My idol. https://t.co/YGFrPhQmDP",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun Aug 21 16:02:37 +0000 2016",
+  "deleted": true,
+  "favorite_count": 16056,
+  "hashtags": [],
+  "id": 767391465878224896,
+  "id_str": "767391465878224896",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/1zAS1vVkj2",
+      "expanded_url": "https://twitter.com/kanyewest/status/767391465878224896/photo/1",
+      "id": 767391408667914241,
+      "media_url": "http://pbs.twimg.com/media/CqZSa51WcAEprcI.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CqZSa51WcAEprcI.jpg",
+      "sizes": {
+        "large": {
+          "h": 465,
+          "resize": "fit",
+          "w": 694
+        },
+        "medium": {
+          "h": 465,
+          "resize": "fit",
+          "w": 694
+        },
+        "small": {
+          "h": 456,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/1zAS1vVkj2"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 3531,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "MELBOURNE https://t.co/1zAS1vVkj2",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

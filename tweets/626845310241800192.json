@@ -1,0 +1,30 @@
+{
+  "created_at": "Thu Jul 30 20:02:22 +0000 2015",
+  "deleted": true,
+  "favorite_count": 10086,
+  "hashtags": [],
+  "id": 626845310241800192,
+  "id_str": "626845310241800192",
+  "lang": "en",
+  "legacy_imported": true,
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 2889,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "My good friend Ellen @TheEllenShow just launched her clothing line, http://t.co/6jVO1gDzIH",
+  "urls": [
+    {
+      "expanded_url": "http://EDbyEllen.com",
+      "url": "http://t.co/6jVO1gDzIH"
+    }
+  ],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 15846407,
+      "name": "Ellen DeGeneres",
+      "screen_name": "TheEllenShow"
+    }
+  ]
+}

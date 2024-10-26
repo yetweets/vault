@@ -1,0 +1,56 @@
+{
+  "created_at": "Tue Feb 09 22:01:21 +0000 2016",
+  "deleted": true,
+  "favorite_count": 80105,
+  "hashtags": [
+    {
+      "text": "lovemyfamily"
+    }
+  ],
+  "id": 697178499774312448,
+  "id_str": "697178499774312448",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/YacTKSyVFE",
+      "expanded_url": "https://twitter.com/kanyewest/status/697178499774312448/photo/1",
+      "id": 697178498750902273,
+      "media_url": "http://pbs.twimg.com/media/CazgJpsWcAE_EsR.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CazgJpsWcAE_EsR.jpg",
+      "sizes": {
+        "large": {
+          "h": 772,
+          "resize": "fit",
+          "w": 306
+        },
+        "medium": {
+          "h": 772,
+          "resize": "fit",
+          "w": 306
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 270
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/YacTKSyVFE"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 25338,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Love love love love love my baby girl  #lovemyfamily https://t.co/YacTKSyVFE",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

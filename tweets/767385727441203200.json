@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun Aug 21 15:39:49 +0000 2016",
+  "deleted": true,
+  "favorite_count": 16491,
+  "hashtags": [],
+  "id": 767385727441203200,
+  "id_str": "767385727441203200",
+  "lang": "lt",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/IUNAd2Itp6",
+      "expanded_url": "https://twitter.com/kanyewest/status/767385727441203200/photo/1",
+      "id": 767385650622525440,
+      "media_url": "http://pbs.twimg.com/media/CqZNLvcWcAA4jj5.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CqZNLvcWcAA4jj5.jpg",
+      "sizes": {
+        "large": {
+          "h": 686,
+          "resize": "fit",
+          "w": 906
+        },
+        "medium": {
+          "h": 686,
+          "resize": "fit",
+          "w": 906
+        },
+        "small": {
+          "h": 515,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/IUNAd2Itp6"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-06",
+  "retweet_count": 6180,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "ATLANTA https://t.co/IUNAd2Itp6",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

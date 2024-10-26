@@ -1,0 +1,52 @@
+{
+  "created_at": "Sun May 20 01:35:12 +0000 2018",
+  "deleted": true,
+  "favorite_count": 63947,
+  "hashtags": [],
+  "id": 998014241364852738,
+  "id_str": "998014241364852738",
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/hZk0UEW81G",
+      "expanded_url": "https://twitter.com/kanyewest/status/998014241364852738/photo/1",
+      "id": 998014232938496001,
+      "media_url": "http://pbs.twimg.com/media/DdmoqDsVQAE34nr.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/DdmoqDsVQAE34nr.jpg",
+      "sizes": {
+        "large": {
+          "h": 2048,
+          "resize": "fit",
+          "w": 1536
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 900
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 510
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/hZk0UEW81G"
+    }
+  ],
+  "retrieved": "2018-08-29--05-32-35",
+  "retweet_count": 4732,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Very cozy. Sleeping in the studio https://t.co/hZk0UEW81G",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": []
+}

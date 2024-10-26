@@ -1,0 +1,60 @@
+{
+  "created_at": "Tue Feb 09 06:23:27 +0000 2016",
+  "deleted": true,
+  "favorite_count": 30653,
+  "hashtags": [],
+  "id": 696942468076564480,
+  "id_str": "696942468076564480",
+  "in_reply_to_screen_name": "studio",
+  "in_reply_to_user_id": 7905042,
+  "lang": "en",
+  "legacy_imported": true,
+  "media": [
+    {
+      "display_url": "pic.twitter.com/yXKbFl9w6W",
+      "expanded_url": "https://twitter.com/kanyewest/status/696942468076564480/photo/1",
+      "id": 696942462611419136,
+      "media_url": "http://pbs.twimg.com/media/CawJeijW8AAhlj_.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/CawJeijW8AAhlj_.jpg",
+      "sizes": {
+        "large": {
+          "h": 1024,
+          "resize": "fit",
+          "w": 1024
+        },
+        "medium": {
+          "h": 600,
+          "resize": "fit",
+          "w": 600
+        },
+        "small": {
+          "h": 340,
+          "resize": "fit",
+          "w": 340
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/yXKbFl9w6W"
+    }
+  ],
+  "retrieved": "2017-04-28--00-07-07",
+  "retweet_count": 21211,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "@studio /final verses /new album title  T.L.O.P. https://t.co/yXKbFl9w6W",
+  "urls": [],
+  "user": {
+    "id": 169686021
+  },
+  "user_mentions": [
+    {
+      "id": 7905042,
+      "name": "studio",
+      "screen_name": "studio"
+    }
+  ]
+}
