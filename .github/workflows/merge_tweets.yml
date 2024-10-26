@@ -6,7 +6,7 @@ on:
     branches:
       - main
     paths:
-      - 'tweet/**'
+      - 'tweets/**'
 
 jobs:
   merge_json:
