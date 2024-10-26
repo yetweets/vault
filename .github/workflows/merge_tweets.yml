@@ -1,0 +1,37 @@
+name: Merge JSON Files
+
+# Trigger on push to the main branch and when files in the /tweet directory are changed
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'tweet/**'
+
+jobs:
+  merge_json:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      # Run the merge_json_files.py script
+      - name: Run generate_master script
+        run: python generate_master.py
+
+      # Commit and push the updated master.json file
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          git add master.json
+          git commit -m "Update master.json after merging tweets"
+          git push
