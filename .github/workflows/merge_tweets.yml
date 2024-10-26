@@ -37,10 +37,12 @@ jobs:
           git config --local user.email "action@github.com"
           git add master.json
           git commit -m "Update master.json after merging tweets"
+          git pull --rebase origin main  # Pull changes first to avoid conflicts
           git push
-  
+
   generate_statistics:
     runs-on: ubuntu-latest
+    needs: merge_json  # Add dependency here
 
     steps:
       # Checkout the repository
@@ -69,4 +71,5 @@ jobs:
           git config --local user.email "action@github.com"
           git add README.md
           git commit -m "Update README with tweet statistics"
+          git pull --rebase origin main  # Pull changes first to avoid conflicts
           git push
