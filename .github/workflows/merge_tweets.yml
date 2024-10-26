@@ -25,7 +25,7 @@ jobs:
 
       # Run the merge_json_files.py script
       - name: Run generate_master script
-        run: python generate_master.py
+        run: python .github/scripts/generate_master.py
 
       # Commit and push the updated master.json file
       - name: Commit and push changes
