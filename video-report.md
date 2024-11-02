@@ -124,17 +124,17 @@ At this stage, only tweet videos that could be bulk downloaded have been added. 
 - [1285811409721282561](https://yetweets.xyz/archive/tweets/1285811409721282561), Wed Jul 22 05:38:23 +0000 2020 Archived
 - [1287062191342882816](https://yetweets.xyz/archive/tweets/1287062191342882816), Sat Jul 25 16:28:33 +0000 2020 Archived
 - [1291899360503095297](https://yetweets.xyz/archive/tweets/1291899360503095297), Sat Aug 08 00:49:44 +0000 2020 Archived
-- [1294482186981105666](https://yetweets.xyz/archive/tweets/1294482186981105666), Sat Aug 15 03:52:58 +0000 2020 Unknown status? 
-- [1294497539274600448](https://yetweets.xyz/archive/tweets/1294497539274600448), Sat Aug 15 04:53:58 +0000 2020 Unknown status?
-- [1295243897845645312](https://yetweets.xyz/archive/tweets/1295243897845645312), Mon Aug 17 06:19:44 +0000 2020 Unknown status?
-- [1295764675737661443](https://yetweets.xyz/archive/tweets/1295764675737661443), Tue Aug 18 16:49:07 +0000 2020 Unknown status?
-- [1295861897988890625](https://yetweets.xyz/archive/tweets/1295861897988890625), Tue Aug 18 23:15:27 +0000 2020 Unknown status?
-- [1296092602203340801](https://yetweets.xyz/archive/tweets/1296092602203340801), Wed Aug 19 14:32:11 +0000 2020 Unknown status?
-- [1301349148579573760](https://yetweets.xyz/archive/tweets/1301349148579573760), Thu Sep 03 02:39:49 +0000 2020 Unknown status?
-- [1303454784729608194](https://yetweets.xyz/archive/tweets/1303454784729608194), Tue Sep 08 22:06:52 +0000 2020 Unknown status?
-- [1303871066687840257](https://yetweets.xyz/archive/tweets/1303871066687840257), Thu Sep 10 01:41:01 +0000 2020 Unknown status?
+- [1294482186981105666](https://yetweets.xyz/archive/tweets/1294482186981105666), Sat Aug 15 03:52:58 +0000 2020 Unknown status
+- [1294497539274600448](https://yetweets.xyz/archive/tweets/1294497539274600448), Sat Aug 15 04:53:58 +0000 2020 Unknown status
+- [1295243897845645312](https://yetweets.xyz/archive/tweets/1295243897845645312), Mon Aug 17 06:19:44 +0000 2020 Unknown status
+- [1295764675737661443](https://yetweets.xyz/archive/tweets/1295764675737661443), Tue Aug 18 16:49:07 +0000 2020 Unknown status
+- [1295861897988890625](https://yetweets.xyz/archive/tweets/1295861897988890625), Tue Aug 18 23:15:27 +0000 2020 Unknown status
+- [1296092602203340801](https://yetweets.xyz/archive/tweets/1296092602203340801), Wed Aug 19 14:32:11 +0000 2020 Unknown status
+- [1301349148579573760](https://yetweets.xyz/archive/tweets/1301349148579573760), Thu Sep 03 02:39:49 +0000 2020 Unknown status
+- [1303454784729608194](https://yetweets.xyz/archive/tweets/1303454784729608194), Tue Sep 08 22:06:52 +0000 2020 Unknown status
+- [1303871066687840257](https://yetweets.xyz/archive/tweets/1303871066687840257), Thu Sep 10 01:41:01 +0000 2020 Unknown status
 - [1303888526585614336](https://yetweets.xyz/archive/tweets/1303888526585614336), Thu Sep 10 02:50:24 +0000 2020 Retweet
-- [1304219225993732096](https://yetweets.xyz/archive/tweets/1304219225993732096), Fri Sep 11 00:44:29 +0000 2020 Unknown status?
+- [1304219225993732096](https://yetweets.xyz/archive/tweets/1304219225993732096), Fri Sep 11 00:44:29 +0000 2020 Unknown status
 - [1304936673319378946](https://yetweets.xyz/archive/tweets/1304936673319378946), Sun Sep 13 00:15:22 +0000 2020 Archived
 - [1305384336825315328](https://yetweets.xyz/archive/tweets/1305384336825315328), Mon Sep 14 05:54:13 +0000 2020 Unknown status
 - [1305935570497986562](https://yetweets.xyz/archive/tweets/1305935570497986562), Tue Sep 15 18:24:37 +0000 2020 Unknown status
